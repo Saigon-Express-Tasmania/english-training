@@ -39,6 +39,9 @@ import courseImg3 from "./images/thumbs/course-img3.png";
 import courseImg4 from "./images/thumbs/course-img4.png";
 import courseImg5 from "./images/thumbs/course-img5.png";
 import courseImg6 from "./images/thumbs/course-img6.png";
+import courseImg7 from "./images/thumbs/course-img7.png";
+import courseImg8 from "./images/thumbs/course-img8.png";
+import courseImg9 from "./images/thumbs/course-img9.png";
 import enrollStudentImg1 from "./images/thumbs/enroll-student-img1.png";
 import enrollStudentImg2 from "./images/thumbs/enroll-student-img2.png";
 import enrollStudentImg3 from "./images/thumbs/enroll-student-img3.png";
@@ -95,6 +98,9 @@ export const images = {
   courseImg4,
   courseImg5,
   courseImg6,
+  courseImg7,
+  courseImg8,
+  courseImg9,
   enrollStudentImg1,
   enrollStudentImg2,
   enrollStudentImg3,

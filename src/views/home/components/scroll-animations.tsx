@@ -31,8 +31,10 @@ export function ScrollAnimations({ ready = true }: ScrollAnimationsProps) {
     const refresh = () => AOS.refresh();
     window.addEventListener("load", refresh);
     window.addEventListener("resize", refresh);
+    const refreshTimer = window.setTimeout(refresh, 100);
 
     return () => {
+      window.clearTimeout(refreshTimer);
       window.removeEventListener("load", refresh);
       window.removeEventListener("resize", refresh);
     };

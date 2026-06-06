@@ -43,12 +43,13 @@ export function HomeShell({ children }: { children: ReactNode }) {
   }, []);
 
   useEffect(() => {
-    const onLoad = () => setLoading(false);
+    const hidePreloader = () => setLoading(false);
+
     if (document.readyState === "complete") {
-      setLoading(false);
+      hidePreloader();
     } else {
-      window.addEventListener("load", onLoad);
-      return () => window.removeEventListener("load", onLoad);
+      window.addEventListener("load", hidePreloader, { once: true });
+      return () => window.removeEventListener("load", hidePreloader);
     }
   }, []);
 
