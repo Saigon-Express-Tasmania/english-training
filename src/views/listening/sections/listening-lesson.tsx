@@ -2,13 +2,10 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 
-import {
-  assessAnswers,
-  BLANK_DIFFICULTY_THRESHOLD,
-  collectBlankTokens,
-} from "@/views/listening/lib/assess-answers";
+import { assessAnswers } from "@/views/listening/lib/assess-answers";
 import { WordTooltip } from "@/views/listening/components/word-tooltip";
 import type {
+  BlankTokenRef,
   ListeningLessonMetadata,
   ListeningSegment,
   ListeningToken,
@@ -16,6 +13,8 @@ import type {
 
 type ListeningLessonProps = {
   lesson: ListeningLessonMetadata;
+  blanks: BlankTokenRef[];
+  shuffleSeed: number;
 };
 
 type WordBlankProps = {
@@ -68,6 +67,7 @@ function renderToken(
   segmentId: number,
   token: ListeningToken,
   tokenIndex: number,
+  blankKeys: Set<string>,
   answers: Record<string, string>,
   assessed: boolean,
   results: Record<string, boolean>,
@@ -75,7 +75,7 @@ function renderToken(
 ) {
   const tokenKey = `${segmentId}-${tokenIndex}`;
 
-  if (token.difficulty >= BLANK_DIFFICULTY_THRESHOLD) {
+  if (blankKeys.has(tokenKey)) {
     return (
       <WordBlank
         key={tokenKey}
@@ -100,6 +100,7 @@ type SegmentRowProps = {
   segment: ListeningSegment;
   isPlaying: boolean;
   onPlay: (segment: ListeningSegment) => void;
+  blankKeys: Set<string>;
   answers: Record<string, string>;
   assessed: boolean;
   results: Record<string, boolean>;
@@ -110,6 +111,7 @@ function SegmentRow({
   segment,
   isPlaying,
   onPlay,
+  blankKeys,
   answers,
   assessed,
   results,
@@ -131,6 +133,7 @@ function SegmentRow({
             segment.segment_id,
             token,
             tokenIndex,
+            blankKeys,
             answers,
             assessed,
             results,
@@ -142,11 +145,11 @@ function SegmentRow({
   );
 }
 
-export function ListeningLesson({ lesson }: ListeningLessonProps) {
+export function ListeningLesson({ lesson, blanks, shuffleSeed }: ListeningLessonProps) {
   const audioRef = useRef<HTMLAudioElement>(null);
   const segmentEndRef = useRef<number | null>(null);
 
-  const blanks = useMemo(() => collectBlankTokens(lesson.segments), [lesson.segments]);
+  const blankKeys = useMemo(() => new Set(blanks.map((blank) => blank.key)), [blanks]);
   const [answers, setAnswers] = useState<Record<string, string>>({});
   const [assessed, setAssessed] = useState(false);
   const [score, setScore] = useState<{ correct: number; total: number } | null>(null);
@@ -227,15 +230,18 @@ export function ListeningLesson({ lesson }: ListeningLessonProps) {
     score && score.total > 0 ? Math.round((score.correct / score.total) * 100) : 0;
 
   return (
-    <section className="listening-lesson bg-main-25 py-120">
+    <section
+      className="listening-lesson bg-main-25 py-120"
+      data-shuffle-seed={shuffleSeed}
+    >
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-xl-10">
             <div className="listening-lesson__card border-neutral-30 rounded-12 border bg-white p-32">
               <h1 className="listening-lesson__title mb-16">{lesson.title}</h1>
               <p className="listening-lesson__intro text-neutral-700 mb-32">
-                Listen to the audio and fill in the missing words. Harder vocabulary is
-                left blank for you to complete.
+                Listen to the audio and fill in the missing words. The hardest vocabulary
+                is left blank for you to complete.
               </p>
 
               <audio
@@ -258,6 +264,7 @@ export function ListeningLesson({ lesson }: ListeningLessonProps) {
                     segment={segment}
                     isPlaying={playingSegmentId === segment.segment_id}
                     onPlay={playSegment}
+                    blankKeys={blankKeys}
                     answers={answers}
                     assessed={assessed}
                     results={results}
