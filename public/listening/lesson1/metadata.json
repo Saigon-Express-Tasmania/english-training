@@ -1,0 +1,328 @@
+{
+  "title": "Cambridge English Practice: Varied Listening Scenarios",
+  "audio": "/listening/lesson1/lesson1.mp3",
+  "transcript": "One. Now if you answer the next question correctly, you and Mike will make it to the next round. Listen carefully. What is the Italian word for photographers and reporters who pursue celebrities? Okay Amelia, this is your moment to go to the next round. Is the answer paparazzi? Yes, that's the correct answer. Two. And the Secretary-General of the UN is hosting a press conference this afternoon where he will address events in Syria. Last night, three men and two women were arrested by security service after an explosion happened in downtown... Three. So Jim, why did you decide to quit theater and go into TV? Uh well, I suppose I just wanted a new challenge. I'd been in the same play for eighteen months and well, I just wanted to see what it was like working in front of a camera for a change. Four. And we're into the last ten minutes of this thrilling European Cup tie. It's still Liverpool four, Manchester City one. And Mo Salah moves the ball out to the left.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 1.2,
+      "text": "One.",
+      "tokens": [
+        {"word": "One", "type": "number", "difficulty": 1}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 1.2,
+      "audio_timestamp_end": 6.8,
+      "text": "Now if you answer the next question correctly, you and Mike will make it to the next round.",
+      "tokens": [
+        {"word": "Now", "type": "adverb", "difficulty": 1},
+        {"word": "if", "type": "conjunction", "difficulty": 1},
+        {"word": "you", "type": "pronoun", "difficulty": 1},
+        {"word": "answer", "type": "verb", "difficulty": 2},
+        {"word": "the", "type": "article", "difficulty": 1},
+        {"word": "next", "type": "adjective", "difficulty": 1},
+        {"word": "question", "type": "noun", "difficulty": 1},
+        {"word": "correctly", "type": "adverb", "difficulty": 2},
+        {"word": "you", "type": "pronoun", "difficulty": 1},
+        {"word": "and", "type": "conjunction", "difficulty": 1},
+        {"word": "Mike", "type": "noun", "difficulty": 1},
+        {"word": "will", "type": "verb", "difficulty": 1},
+        {"word": "make", "type": "verb", "difficulty": 1},
+        {"word": "it", "type": "pronoun", "difficulty": 1},
+        {"word": "to", "type": "preposition", "difficulty": 1},
+        {"word": "the", "type": "article", "difficulty": 1},
+        {"word": "next", "type": "adjective", "difficulty": 1},
+        {"word": "round", "type": "noun", "difficulty": 2}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 6.8,
+      "audio_timestamp_end": 8.1,
+      "text": "Listen carefully.",
+      "tokens": [
+        {"word": "Listen", "type": "verb", "difficulty": 1},
+        {"word": "carefully", "type": "adverb", "difficulty": 1}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 8.1,
+      "audio_timestamp_end": 14.5,
+      "text": "What is the Italian word for photographers and reporters who pursue celebrities?",
+      "tokens": [
+        {"word": "What", "type": "pronoun", "difficulty": 1},
+        {"word": "is", "type": "verb", "difficulty": 1},
+        {"word": "the", "type": "article", "difficulty": 1},
+        {"word": "Italian", "type": "adjective", "difficulty": 2},
+        {"word": "word", "type": "noun", "difficulty": 1},
+        {"word": "for", "type": "preposition", "difficulty": 1},
+        {"word": "photographers", "type": "noun", "difficulty": 3},
+        {"word": "and", "type": "conjunction", "difficulty": 1},
+        {"word": "reporters", "type": "noun", "difficulty": 3},
+        {"word": "who", "type": "pronoun", "difficulty": 1},
+        {"word": "pursue", "type": "verb", "difficulty": 4},
+        {"word": "celebrities", "type": "noun", "difficulty": 3}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 14.5,
+      "audio_timestamp_end": 19.5,
+      "text": "Okay Amelia, this is your moment to go to the next round.",
+      "tokens": [
+        {"word": "Okay", "type": "interjection", "difficulty": 1},
+        {"word": "Amelia", "type": "noun", "difficulty": 1},
+        {"word": "this", "type": "pronoun", "difficulty": 1},
+        {"word": "is", "type": "verb", "difficulty": 1},
+        {"word": "your", "type": "pronoun", "difficulty": 1},
+        {"word": "moment", "type": "noun", "difficulty": 2},
+        {"word": "to", "type": "preposition", "difficulty": 1},
+        {"word": "go", "type": "verb", "difficulty": 1},
+        {"word": "to", "type": "preposition", "difficulty": 1},
+        {"word": "the", "type": "article", "difficulty": 1},
+        {"word": "next", "type": "adjective", "difficulty": 1},
+        {"word": "round", "type": "noun", "difficulty": 2}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 19.5,
+      "audio_timestamp_end": 22.0,
+      "text": "Is the answer paparazzi?",
+      "tokens": [
+        {"word": "Is", "type": "verb", "difficulty": 1},
+        {"word": "the", "type": "article", "difficulty": 1},
+        {"word": "answer", "type": "noun", "difficulty": 1},
+        {"word": "paparazzi", "type": "noun", "difficulty": 5}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 22.0,
+      "audio_timestamp_end": 26.5,
+      "text": "Yes, that's the correct answer.",
+      "tokens": [
+        {"word": "Yes", "type": "interjection", "difficulty": 1},
+        {"word": "that's", "type": "verb", "difficulty": 1},
+        {"word": "the", "type": "article", "difficulty": 1},
+        {"word": "correct", "type": "adjective", "difficulty": 2},
+        {"word": "answer", "type": "noun", "difficulty": 1}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 26.5,
+      "audio_timestamp_end": 28.0,
+      "text": "Two.",
+      "tokens": [
+        {"word": "Two", "type": "number", "difficulty": 1}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 28.0,
+      "audio_timestamp_end": 35.0,
+      "text": "And the Secretary-General of the UN is hosting a press conference this afternoon where he will address events in Syria.",
+      "tokens": [
+        {"word": "And", "type": "conjunction", "difficulty": 1},
+        {"word": "the", "type": "article", "difficulty": 1},
+        {"word": "Secretary-General", "type": "noun", "difficulty": 4},
+        {"word": "of", "type": "preposition", "difficulty": 1},
+        {"word": "the", "type": "article", "difficulty": 1},
+        {"word": "UN", "type": "noun", "difficulty": 2},
+        {"word": "is", "type": "verb", "difficulty": 1},
+        {"word": "hosting", "type": "verb", "difficulty": 3},
+        {"word": "a", "type": "article", "difficulty": 1},
+        {"word": "press", "type": "noun", "difficulty": 2},
+        {"word": "conference", "type": "noun", "difficulty": 3},
+        {"word": "this", "type": "adjective", "difficulty": 1},
+        {"word": "afternoon", "type": "noun", "difficulty": 1},
+        {"word": "where", "type": "conjunction", "difficulty": 1},
+        {"word": "he", "type": "pronoun", "difficulty": 1},
+        {"word": "will", "type": "verb", "difficulty": 1},
+        {"word": "address", "type": "verb", "difficulty": 4},
+        {"word": "events", "type": "noun", "difficulty": 2},
+        {"word": "in", "type": "preposition", "difficulty": 1},
+        {"word": "Syria", "type": "noun", "difficulty": 2}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 35.0,
+      "audio_timestamp_end": 44.5,
+      "text": "Last night, three men and two women were arrested by security service after an explosion happened in downtown...",
+      "tokens": [
+        {"word": "Last", "type": "adjective", "difficulty": 1},
+        {"word": "night", "type": "noun", "difficulty": 1},
+        {"word": "three", "type": "number", "difficulty": 1},
+        {"word": "men", "type": "noun", "difficulty": 1},
+        {"word": "and", "type": "conjunction", "difficulty": 1},
+        {"word": "two", "type": "number", "difficulty": 1},
+        {"word": "women", "type": "noun", "difficulty": 1},
+        {"word": "were", "type": "verb", "difficulty": 1},
+        {"word": "arrested", "type": "verb", "difficulty": 3},
+        {"word": "by", "type": "preposition", "difficulty": 1},
+        {"word": "security", "type": "noun", "difficulty": 2},
+        {"word": "service", "type": "noun", "difficulty": 2},
+        {"word": "after", "type": "preposition", "difficulty": 1},
+        {"word": "an", "type": "article", "difficulty": 1},
+        {"word": "explosion", "type": "noun", "difficulty": 3},
+        {"word": "happened", "type": "verb", "difficulty": 1},
+        {"word": "in", "type": "preposition", "difficulty": 1},
+        {"word": "downtown", "type": "noun", "difficulty": 3}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 44.5,
+      "audio_timestamp_end": 46.0,
+      "text": "Three.",
+      "tokens": [
+        {"word": "Three", "type": "number", "difficulty": 1}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 46.0,
+      "audio_timestamp_end": 52.0,
+      "text": "So Jim, why did you decide to quit theater and go into TV?",
+      "tokens": [
+        {"word": "So", "type": "conjunction", "difficulty": 1},
+        {"word": "Jim", "type": "noun", "difficulty": 1},
+        {"word": "why", "type": "adverb", "difficulty": 1},
+        {"word": "did", "type": "verb", "difficulty": 1},
+        {"word": "you", "type": "pronoun", "difficulty": 1},
+        {"word": "decide", "type": "verb", "difficulty": 2},
+        {"word": "to", "type": "preposition", "difficulty": 1},
+        {"word": "quit", "type": "verb", "difficulty": 3},
+        {"word": "theater", "type": "noun", "difficulty": 2},
+        {"word": "and", "type": "conjunction", "difficulty": 1},
+        {"word": "go", "type": "verb", "difficulty": 1},
+        {"word": "into", "type": "preposition", "difficulty": 1},
+        {"word": "TV", "type": "noun", "difficulty": 1}
+      ]
+    },
+    {
+      "segment_id": 13,
+      "audio_timestamp_start": 52.0,
+      "audio_timestamp_end": 55.5,
+      "text": "Uh well, I suppose I just wanted a new challenge.",
+      "tokens": [
+        {"word": "Uh", "type": "interjection", "difficulty": 1},
+        {"word": "well", "type": "interjection", "difficulty": 1},
+        {"word": "I", "type": "pronoun", "difficulty": 1},
+        {"word": "suppose", "type": "verb", "difficulty": 2},
+        {"word": "I", "type": "pronoun", "difficulty": 1},
+        {"word": "just", "type": "adverb", "difficulty": 1},
+        {"word": "wanted", "type": "verb", "difficulty": 1},
+        {"word": "a", "type": "article", "difficulty": 1},
+        {"word": "new", "type": "adjective", "difficulty": 1},
+        {"word": "challenge", "type": "noun", "difficulty": 3}
+      ]
+    },
+    {
+      "segment_id": 14,
+      "audio_timestamp_start": 55.5,
+      "audio_timestamp_end": 64.0,
+      "text": "I'd been in the same play for eighteen months and well, I just wanted to see what it was like working in front of a camera for a change.",
+      "tokens": [
+        {"word": "I'd", "type": "pronoun", "difficulty": 2},
+        {"word": "been", "type": "verb", "difficulty": 1},
+        {"word": "in", "type": "preposition", "difficulty": 1},
+        {"word": "the", "type": "article", "difficulty": 1},
+        {"word": "same", "type": "adjective", "difficulty": 1},
+        {"word": "play", "type": "noun", "difficulty": 2},
+        {"word": "for", "type": "preposition", "difficulty": 1},
+        {"word": "eighteen", "type": "number", "difficulty": 1},
+        {"word": "months", "type": "noun", "difficulty": 1},
+        {"word": "and", "type": "conjunction", "difficulty": 1},
+        {"word": "well", "type": "interjection", "difficulty": 1},
+        {"word": "I", "type": "pronoun", "difficulty": 1},
+        {"word": "just", "type": "adverb", "difficulty": 1},
+        {"word": "wanted", "type": "verb", "difficulty": 1},
+        {"word": "to", "type": "preposition", "difficulty": 1},
+        {"word": "see", "type": "verb", "difficulty": 1},
+        {"word": "what", "type": "pronoun", "difficulty": 1},
+        {"word": "it", "type": "pronoun", "difficulty": 1},
+        {"word": "was", "type": "verb", "difficulty": 1},
+        {"word": "like", "type": "preposition", "difficulty": 1},
+        {"word": "working", "type": "verb", "difficulty": 1},
+        {"word": "in", "type": "preposition", "difficulty": 1},
+        {"word": "front", "type": "noun", "difficulty": 1},
+        {"word": "of", "type": "preposition", "difficulty": 1},
+        {"word": "a", "type": "article", "difficulty": 1},
+        {"word": "camera", "type": "noun", "difficulty": 2},
+        {"word": "for", "type": "preposition", "difficulty": 1},
+        {"word": "a", "type": "article", "difficulty": 1},
+        {"word": "change", "type": "noun", "difficulty": 1}
+      ]
+    },
+    {
+      "segment_id": 15,
+      "audio_timestamp_start": 64.0,
+      "audio_timestamp_end": 65.5,
+      "text": "Four.",
+      "tokens": [
+        {"word": "Four", "type": "number", "difficulty": 1}
+      ]
+    },
+    {
+      "segment_id": 16,
+      "audio_timestamp_start": 65.5,
+      "audio_timestamp_end": 71.5,
+      "text": "And we're into the last ten minutes of this thrilling European Cup tie.",
+      "tokens": [
+        {"word": "And", "type": "conjunction", "difficulty": 1},
+        {"word": "we're", "type": "verb", "difficulty": 1},
+        {"word": "into", "type": "preposition", "difficulty": 1},
+        {"word": "the", "type": "article", "difficulty": 1},
+        {"word": "last", "type": "adjective", "difficulty": 1},
+        {"word": "ten", "type": "number", "difficulty": 1},
+        {"word": "minutes", "type": "noun", "difficulty": 1},
+        {"word": "of", "type": "preposition", "difficulty": 1},
+        {"word": "this", "type": "pronoun", "difficulty": 1},
+        {"word": "thrilling", "type": "adjective", "difficulty": 4},
+        {"word": "European", "type": "adjective", "difficulty": 2},
+        {"word": "Cup", "type": "noun", "difficulty": 2},
+        {"word": "tie", "type": "noun", "difficulty": 3}
+      ]
+    },
+    {
+      "segment_id": 17,
+      "audio_timestamp_start": 71.5,
+      "audio_timestamp_end": 75.0,
+      "text": "It's still Liverpool four, Manchester City one.",
+      "tokens": [
+        {"word": "It's", "type": "verb", "difficulty": 1},
+        {"word": "still", "type": "adverb", "difficulty": 1},
+        {"word": "Liverpool", "type": "noun", "difficulty": 1},
+        {"word": "four", "type": "number", "difficulty": 1},
+        {"word": "Manchester", "type": "noun", "difficulty": 1},
+        {"word": "City", "type": "noun", "difficulty": 1},
+        {"word": "one", "type": "number", "difficulty": 1}
+      ]
+    },
+    {
+      "segment_id": 18,
+      "audio_timestamp_start": 75.0,
+      "audio_timestamp_end": 79.0,
+      "text": "And Mo Salah moves the ball out to the left.",
+      "tokens": [
+        {"word": "And", "type": "conjunction", "difficulty": 1},
+        {"word": "Mo", "type": "noun", "difficulty": 2},
+        {"word": "Salah", "type": "noun", "difficulty": 2},
+        {"word": "moves", "type": "verb", "difficulty": 1},
+        {"word": "the", "type": "article", "difficulty": 1},
+        {"word": "ball", "type": "noun", "difficulty": 1},
+        {"word": "out", "type": "preposition", "difficulty": 1},
+        {"word": "to", "type": "preposition", "difficulty": 1},
+        {"word": "the", "type": "article", "difficulty": 1},
+        {"word": "left", "type": "noun", "difficulty": 1}
+      ]
+    }
+  ]
+}
