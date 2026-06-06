@@ -1,9 +1,16 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 
+import { confirmCheckWithEmptyBlanks } from "@/views/listening/lib/confirm-check-answers";
 import { assessAnswers } from "@/views/listening/lib/assess-answers";
+import type { VocabularyItem } from "@/views/listening/lib/collect-vocabulary";
 import { WordTooltip } from "@/views/listening/components/word-tooltip";
+import { VocabularySidebar } from "@/views/listening/components/vocabulary-sidebar";
+import {
+  ListeningAudioPlayer,
+  type ListeningAudioPlayerHandle,
+} from "@/views/listening/components/listening-audio-player";
 import type {
   BlankTokenRef,
   ListeningLessonMetadata,
@@ -15,6 +22,7 @@ type ListeningLessonProps = {
   lesson: ListeningLessonMetadata;
   blanks: BlankTokenRef[];
   shuffleSeed: number;
+  vocabularyWords: VocabularyItem[];
 };
 
 type WordBlankProps = {
@@ -22,6 +30,7 @@ type WordBlankProps = {
   expectedWord: string;
   value: string;
   assessed: boolean;
+  revealed: boolean;
   isCorrect: boolean | null;
   onChange: (value: string) => void;
 };
@@ -31,10 +40,24 @@ function WordBlank({
   expectedWord,
   value,
   assessed,
+  revealed,
   isCorrect,
   onChange,
 }: WordBlankProps) {
-  const widthCh = Math.max(expectedWord.length + 1, 4);
+  const widthCh = Math.max(expectedWord.length + 3, 6);
+
+  if (assessed && revealed && isCorrect === false) {
+    return (
+      <span className="listening-blank-wrap">
+        <span
+          className="listening-blank listening-blank--revealed"
+          style={{ width: `${widthCh}ch` }}
+        >
+          {expectedWord}
+        </span>
+      </span>
+    );
+  }
 
   let stateClass = "listening-blank";
   if (assessed && isCorrect === true) stateClass += " listening-blank--correct";
@@ -54,11 +77,6 @@ function WordBlank({
         autoComplete="off"
         spellCheck={false}
       />
-      {assessed && isCorrect === false ? (
-        <span className="listening-blank-answer" aria-live="polite">
-          {expectedWord}
-        </span>
-      ) : null}
     </span>
   );
 }
@@ -70,6 +88,7 @@ function renderToken(
   blankKeys: Set<string>,
   answers: Record<string, string>,
   assessed: boolean,
+  revealed: boolean,
   results: Record<string, boolean>,
   onAnswerChange: (key: string, value: string) => void,
 ) {
@@ -83,6 +102,7 @@ function renderToken(
         expectedWord={token.word}
         value={answers[tokenKey] ?? ""}
         assessed={assessed}
+        revealed={revealed}
         isCorrect={assessed ? results[tokenKey] : null}
         onChange={(value) => onAnswerChange(tokenKey, value)}
       />
@@ -103,6 +123,7 @@ type SegmentRowProps = {
   blankKeys: Set<string>;
   answers: Record<string, string>;
   assessed: boolean;
+  revealed: boolean;
   results: Record<string, boolean>;
   onAnswerChange: (key: string, value: string) => void;
 };
@@ -114,6 +135,7 @@ function SegmentRow({
   blankKeys,
   answers,
   assessed,
+  revealed,
   results,
   onAnswerChange,
 }: SegmentRowProps) {
@@ -136,6 +158,7 @@ function SegmentRow({
             blankKeys,
             answers,
             assessed,
+            revealed,
             results,
             onAnswerChange,
           ),
@@ -145,83 +168,69 @@ function SegmentRow({
   );
 }
 
-export function ListeningLesson({ lesson, blanks, shuffleSeed }: ListeningLessonProps) {
-  const audioRef = useRef<HTMLAudioElement>(null);
-  const segmentEndRef = useRef<number | null>(null);
+export function ListeningLesson({
+  lesson,
+  blanks,
+  shuffleSeed,
+  vocabularyWords,
+}: ListeningLessonProps) {
+  const playerRef = useRef<ListeningAudioPlayerHandle>(null);
 
   const blankKeys = useMemo(() => new Set(blanks.map((blank) => blank.key)), [blanks]);
   const [answers, setAnswers] = useState<Record<string, string>>({});
   const [assessed, setAssessed] = useState(false);
+  const [revealed, setRevealed] = useState(false);
   const [score, setScore] = useState<{ correct: number; total: number } | null>(null);
   const [results, setResults] = useState<Record<string, boolean>>({});
   const [playingSegmentId, setPlayingSegmentId] = useState<number | null>(null);
 
-  useEffect(() => {
-    const audio = audioRef.current;
-    if (!audio) return;
-
-    function handleTimeUpdate() {
-      const player = audioRef.current;
-      if (
-        !player ||
-        segmentEndRef.current === null ||
-        player.currentTime < segmentEndRef.current
-      ) {
-        return;
-      }
-
-      player.pause();
-      segmentEndRef.current = null;
-      setPlayingSegmentId(null);
-    }
-
-    function handlePause() {
-      const player = audioRef.current;
-      if (
-        !player ||
-        segmentEndRef.current === null ||
-        player.currentTime >= segmentEndRef.current
-      ) {
-        return;
-      }
-
-      segmentEndRef.current = null;
-      setPlayingSegmentId(null);
-    }
-
-    audio.addEventListener("timeupdate", handleTimeUpdate);
-    audio.addEventListener("pause", handlePause);
-
-    return () => {
-      audio.removeEventListener("timeupdate", handleTimeUpdate);
-      audio.removeEventListener("pause", handlePause);
-    };
-  }, []);
+  function clearPlayingSegment() {
+    setPlayingSegmentId(null);
+  }
 
   function playSegment(segment: ListeningSegment) {
-    const audio = audioRef.current;
-    if (!audio) return;
-
-    segmentEndRef.current = segment.audio_timestamp_end;
     setPlayingSegmentId(segment.segment_id);
-    audio.currentTime = segment.audio_timestamp_start;
-    void audio.play();
+    playerRef.current?.playFrom(segment.audio_timestamp_start);
   }
 
   function handleAnswerChange(key: string, value: string) {
     setAnswers((current) => ({ ...current, [key]: value }));
   }
 
-  function handleCheckAnswers() {
+  function submitAssessment() {
     const assessment = assessAnswers(blanks, answers);
     setResults(assessment.results);
     setScore({ correct: assessment.correct, total: assessment.total });
     setAssessed(true);
   }
 
+  async function handleCheckAnswers() {
+    const filledCount = blanks.filter(
+      (blank) => (answers[blank.key] ?? "").trim() !== "",
+    ).length;
+
+    if (filledCount < blanks.length) {
+      const confirmed = await confirmCheckWithEmptyBlanks({
+        filledCount,
+        totalBlanks: blanks.length,
+      });
+
+      if (!confirmed) {
+        return;
+      }
+    }
+
+    submitAssessment();
+  }
+
+  function handleRevealAnswers() {
+    setRevealed(true);
+  }
+
   function handleTryAgain() {
     setAnswers({});
     setAssessed(false);
+    setRevealed(false);
     setScore(null);
     setResults({});
   }
@@ -235,8 +244,8 @@ export function ListeningLesson({ lesson, blanks, shuffleSeed }: ListeningLesson
       data-shuffle-seed={shuffleSeed}
     >
       <div className="container">
-        <div className="row justify-content-center">
-          <div className="col-xl-10">
+        <div className="row gap-y-[1.5rem]">
+          <div className="col-12 col-xl-8">
             <div className="listening-lesson__card border-neutral-30 rounded-12 border bg-white p-32">
               <h1 className="listening-lesson__title mb-16">{lesson.title}</h1>
               <p className="listening-lesson__intro text-neutral-700 mb-32">
@@ -244,15 +253,14 @@ export function ListeningLesson({ lesson, blanks, shuffleSeed }: ListeningLesson
                 is left blank for you to complete.
               </p>
 
-              <audio
-                ref={audioRef}
-                className="listening-lesson__player"
-                controls
-                preload="metadata"
-                src={"/listening/lesson1/lesson1.mp3"}
-              >
-                Your browser does not support the audio element.
-              </audio>
+              <div className="listening-lesson__player-wrap">
+                <ListeningAudioPlayer
+                  ref={playerRef}
+                  src={lesson.audio}
+                  onPause={clearPlayingSegment}
+                  onFinish={clearPlayingSegment}
+                />
+              </div>
 
               <span className="border-bottom border-main-100 my-32 block"></span>
 
@@ -267,6 +275,7 @@ export function ListeningLesson({ lesson, blanks, shuffleSeed }: ListeningLesson
                     blankKeys={blankKeys}
                     answers={answers}
                     assessed={assessed}
+                    revealed={revealed}
                     results={results}
                     onAnswerChange={handleAnswerChange}
                   />
@@ -278,20 +287,34 @@ export function ListeningLesson({ lesson, blanks, shuffleSeed }: ListeningLesson
                   <button
                     type="button"
                     className="btn btn-main rounded-pill !flex items-center justify-center gap-8"
-                    onClick={handleCheckAnswers}
+                    onClick={() => {
+                      void handleCheckAnswers();
+                    }}
                   >
                     Check Answers
                     <i className="ph-bold ph-check-circle flex text-lg"></i>
                   </button>
                 ) : (
-                  <button
-                    type="button"
-                    className="btn btn-outline-main rounded-pill !flex items-center justify-center gap-8"
-                    onClick={handleTryAgain}
-                  >
-                    Try Again
-                    <i className="ph-bold ph-arrow-counter-clockwise flex text-lg"></i>
-                  </button>
+                  <>
+                    {!revealed ? (
+                      <button
+                        type="button"
+                        className="btn btn-main rounded-pill !flex items-center justify-center gap-8"
+                        onClick={handleRevealAnswers}
+                      >
+                        Reveal Answers
+                        <i className="ph-bold ph-eye flex text-lg"></i>
+                      </button>
+                    ) : null}
+                    <button
+                      type="button"
+                      className="btn btn-outline-main rounded-pill !flex items-center justify-center gap-8"
+                      onClick={handleTryAgain}
+                    >
+                      Try Again
+                      <i className="ph-bold ph-arrow-counter-clockwise flex text-lg"></i>
+                    </button>
+                  </>
                 )}
               </div>
 
@@ -318,11 +341,17 @@ export function ListeningLesson({ lesson, blanks, shuffleSeed }: ListeningLesson
                         : " Listen once more, then fill in the blanks and check again."}
                   </p>
                   <p className="listening-results__hint mt-12 mb-0 text-sm">
-                    Correct answers are shown next to any blanks you missed.
+                    {revealed
+                      ? "Correct answers are shown in place for any blanks you missed."
+                      : "Use Reveal Answers when you want to see the correct words."}
                   </p>
                 </div>
               ) : null}
             </div>
+          </div>
+
+          <div className="col-12 col-xl-4">
+            <VocabularySidebar words={vocabularyWords} />
           </div>
         </div>
       </div>

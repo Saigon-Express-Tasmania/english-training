@@ -1,9 +1,11 @@
-import Listening from "@/views/listening";
+import { redirect } from "@/i18n/navigation";
 
 type ListeningPageProps = {
   params: Promise<{ locale: string }>;
 };
 
-export default function ListeningPage(_props: ListeningPageProps) {
-  return <Listening />;
+export default async function ListeningPage({ params }: ListeningPageProps) {
+  const { locale } = await params;
+
+  redirect({ href: "/listening/lesson1", locale });
 }

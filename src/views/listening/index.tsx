@@ -5,24 +5,41 @@ import {
   DEFAULT_BLANK_PERCENTAGE_LIMIT,
   selectBlankTokens,
 } from "@/views/listening/lib/assess-answers";
+import {
+  collectHighDifficultyWords,
+  shuffleVocabulary,
+} from "@/views/listening/lib/collect-vocabulary";
 import { createShuffleSeed, loadListeningLesson } from "@/views/listening/lib/load-lesson";
 import { ListeningLesson } from "@/views/listening/sections/listening-lesson";
 
 import "./index.css";
 
-export default function Listening() {
-  const lesson = loadListeningLesson("lesson1");
+type ListeningProps = {
+  lessonId: string;
+};
+
+export default function Listening({ lessonId }: ListeningProps) {
+  const lesson = loadListeningLesson(lessonId);
   const shuffleSeed = createShuffleSeed();
   const blanks = selectBlankTokens(
     lesson.segments,
     DEFAULT_BLANK_PERCENTAGE_LIMIT,
     shuffleSeed,
   );
+  const vocabularyWords = shuffleVocabulary(
+    collectHighDifficultyWords(lesson.segments),
+    shuffleSeed,
+  );
 
   return (
     <HomeShell>
       <Header />
-      <ListeningLesson lesson={lesson} blanks={blanks} shuffleSeed={shuffleSeed} />
+      <ListeningLesson
+        lesson={lesson}
+        blanks={blanks}
+        shuffleSeed={shuffleSeed}
+        vocabularyWords={vocabularyWords}
+      />
       <Footer />
     </HomeShell>
   );

@@ -1,0 +1,448 @@
+{
+  "title": "Media and Technology Vocabulary Lesson 3",
+  "transcript": "Magazine. You have subscribed to this magazine. It is now available on your device. Messenger. The instant messenger is a kind of convenient apps by which we can chat with friends. Manner. Now we read news online and receive information in a more efficient manner. Computer. I didn't have a computer when I was a child. I only learned how to use it in high school. Comment. The speech received much comment in the press. Informative. The newspaper offers informative articles on current events. Enormous. The team made an enormous effort. National. National newspapers focus largely on politics. Number. I'm going to download various documents from a number of websites. Online. I never buy printed newspapers because I can read about current events online. Event. People tend to read about actual events they can relate to. Internet. The internet has become an indispensable part of most people's life. Reading. I really enjoy a bit of light reading before my head hits the pillow. Everything. We have the chance to know everything we are interested in through the mass media. Increasingly. The internet is becoming increasingly popular.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.3,
+      "audio_timestamp_end": 1.7,
+      "text": "Magazine.",
+      "tokens": [
+        {"word": "Magazine", "type": "noun", "difficulty": 2, "translation": "Tạp chí"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 1.8,
+      "audio_timestamp_end": 4.1,
+      "text": "You have subscribed to this magazine.",
+      "tokens": [
+        {"word": "You", "type": "pronoun", "difficulty": 1, "translation": "Bạn"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "Đã"},
+        {"word": "subscribed", "type": "verb", "difficulty": 3, "translation": "Đăng ký theo dõi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "Vào/cho"},
+        {"word": "this", "type": "determiner", "difficulty": 1, "translation": "Này"},
+        {"word": "magazine", "type": "noun", "difficulty": 2, "translation": "Tạp chí"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 4.2,
+      "audio_timestamp_end": 7.0,
+      "text": "It is now available on your device.",
+      "tokens": [
+        {"word": "It", "type": "pronoun", "difficulty": 1, "translation": "Nó"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "Thì/là"},
+        {"word": "now", "type": "adverb", "difficulty": 1, "translation": "Bây giờ"},
+        {"word": "available", "type": "adjective", "difficulty": 2, "translation": "Có sẵn"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "Trên"},
+        {"word": "your", "type": "determiner", "difficulty": 1, "translation": "Của bạn"},
+        {"word": "device", "type": "noun", "difficulty": 2, "translation": "Thiết bị"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 7.8,
+      "audio_timestamp_end": 9.5,
+      "text": "Messenger.",
+      "tokens": [
+        {"word": "Messenger", "type": "noun", "difficulty": 2, "translation": "Ứng dụng nhắn tin/người đưa tin"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 9.6,
+      "audio_timestamp_end": 16.5,
+      "text": "The instant messenger is a kind of convenient apps by which we can chat with friends.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Cái/chiếc"},
+        {"word": "instant", "type": "adjective", "difficulty": 2, "translation": "Tức thời/ngay lập tức"},
+        {"word": "messenger", "type": "noun", "difficulty": 2, "translation": "Ứng dụng nhắn tin"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "Là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "Một"},
+        {"word": "kind", "type": "noun", "difficulty": 1, "translation": "Loại"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "Của"},
+        {"word": "convenient", "type": "adjective", "difficulty": 2, "translation": "Tiện lợi"},
+        {"word": "apps", "type": "noun", "difficulty": 1, "translation": "Các ứng dụng"},
+        {"word": "by", "type": "preposition", "difficulty": 1, "translation": "Bằng"},
+        {"word": "which", "type": "pronoun", "difficulty": 2, "translation": "Cách đó/mà qua đó"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "Chúng ta"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "Có thể"},
+        {"word": "chat", "type": "verb", "difficulty": 1, "translation": "Trò chuyện"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "Với"},
+        {"word": "friends", "type": "noun", "difficulty": 1, "translation": "Bạn bè"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 17.0,
+      "audio_timestamp_end": 18.5,
+      "text": "Manner.",
+      "tokens": [
+        {"word": "Manner", "type": "noun", "difficulty": 3, "translation": "Cách thức/kiểu"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 18.6,
+      "audio_timestamp_end": 24.5,
+      "text": "Now we read news online and receive information in a more efficient manner.",
+      "tokens": [
+        {"word": "Now", "type": "adverb", "difficulty": 1, "translation": "Bây giờ"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "Chúng ta"},
+        {"word": "read", "type": "verb", "difficulty": 1, "translation": "Đọc"},
+        {"word": "news", "type": "noun", "difficulty": 1, "translation": "Tin tức"},
+        {"word": "online", "type": "adverb", "difficulty": 1, "translation": "Trực tuyến"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "Và"},
+        {"word": "receive", "type": "verb", "difficulty": 2, "translation": "Nhận"},
+        {"word": "information", "type": "noun", "difficulty": 2, "translation": "Thông tin"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "Theo"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "Một"},
+        {"word": "more", "type": "adverb", "difficulty": 1, "translation": "Hơn"},
+        {"word": "efficient", "type": "adjective", "difficulty": 3, "translation": "Hiệu quả"},
+        {"word": "manner", "type": "noun", "difficulty": 3, "translation": "Cách thức"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 26.5,
+      "audio_timestamp_end": 28.5,
+      "text": "Computer.",
+      "tokens": [
+        {"word": "Computer", "type": "noun", "difficulty": 1, "translation": "Máy tính"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 28.6,
+      "audio_timestamp_end": 32.5,
+      "text": "I didn't have a computer when I was a child.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "didn't", "type": "verb", "difficulty": 1, "translation": "Đã không"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "Có"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "Một"},
+        {"word": "computer", "type": "noun", "difficulty": 1, "translation": "Máy tính"},
+        {"word": "when", "type": "conjunction", "difficulty": 1, "translation": "Khi"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "was", "type": "verb", "difficulty": 1, "translation": "Là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "Một"},
+        {"word": "child", "type": "noun", "difficulty": 1, "translation": "Đứa trẻ"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 32.6,
+      "audio_timestamp_end": 36.5,
+      "text": "I only learned how to use it in high school.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "only", "type": "adverb", "difficulty": 1, "translation": "Chỉ"},
+        {"word": "learned", "type": "verb", "difficulty": 1, "translation": "Học"},
+        {"word": "how", "type": "adverb", "difficulty": 1, "translation": "Cách"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "Để"},
+        {"word": "use", "type": "verb", "difficulty": 1, "translation": "Sử dụng"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "Nó"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "Ở trường/vào lúc"},
+        {"word": "high", "type": "adjective", "difficulty": 1, "translation": "Cấp ba (trong cụm từ)"},
+        {"word": "school", "type": "noun", "difficulty": 1, "translation": "Trường học"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 37.0,
+      "audio_timestamp_end": 38.5,
+      "text": "Comment.",
+      "tokens": [
+        {"word": "Comment", "type": "noun", "difficulty": 2, "translation": "Bình luận/nhận xét"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 38.6,
+      "audio_timestamp_end": 43.0,
+      "text": "The speech received much comment in the press.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Bài (trong cụm từ)"},
+        {"word": "speech", "type": "noun", "difficulty": 2, "translation": "Bài phát biểu"},
+        {"word": "received", "type": "verb", "difficulty": 2, "translation": "Nhận được"},
+        {"word": "much", "type": "determiner", "difficulty": 1, "translation": "Nhiều"},
+        {"word": "comment", "type": "noun", "difficulty": 2, "translation": "Sự bình luận/nhận xét"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "Trên/trong"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "Giới (trong cụm từ)"},
+        {"word": "press", "type": "noun", "difficulty": 3, "translation": "Báo chí"}
+      ]
+    },
+    {
+      "segment_id": 13,
+      "audio_timestamp_start": 43.6,
+      "audio_timestamp_end": 45.3,
+      "text": "Informative.",
+      "tokens": [
+        {"word": "Informative", "type": "adjective", "difficulty": 3, "translation": "Nhiều thông tin/bổ ích"}
+      ]
+    },
+    {
+      "segment_id": 14,
+      "audio_timestamp_start": 45.4,
+      "audio_timestamp_end": 50.8,
+      "text": "The newspaper offers informative articles on current events.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Tờ (trong cụm từ)"},
+        {"word": "newspaper", "type": "noun", "difficulty": 1, "translation": "Báo giấy"},
+        {"word": "offers", "type": "verb", "difficulty": 2, "translation": "Cung cấp/đưa ra"},
+        {"word": "informative", "type": "adjective", "difficulty": 3, "translation": "Bổ ích/giàu thông tin"},
+        {"word": "articles", "type": "noun", "difficulty": 2, "translation": "Các bài báo"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "Về"},
+        {"word": "current", "type": "adjective", "difficulty": 2, "translation": "Hiện tại/thời sự"},
+        {"word": "events", "type": "noun", "difficulty": 2, "translation": "Sự kiện"}
+      ]
+    },
+    {
+      "segment_id": 15,
+      "audio_timestamp_start": 53.0,
+      "audio_timestamp_end": 54.8,
+      "text": "Enormous.",
+      "tokens": [
+        {"word": "Enormous", "type": "adjective", "difficulty": 3, "translation": "To lớn/khổng lồ"}
+      ]
+    },
+    {
+      "segment_id": 16,
+      "audio_timestamp_start": 54.9,
+      "audio_timestamp_end": 58.2,
+      "text": "The team made an enormous effort.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Đội (trong cụm từ)"},
+        {"word": "team", "type": "noun", "difficulty": 1, "translation": "Đội/nhóm"},
+        {"word": "made", "type": "verb", "difficulty": 1, "translation": "Đã bỏ ra/thực hiện"},
+        {"word": "an", "type": "article", "difficulty": 1, "translation": "Một"},
+        {"word": "enormous", "type": "adjective", "difficulty": 3, "translation": "Cực kỳ to lớn"},
+        {"word": "effort", "type": "noun", "difficulty": 2, "translation": "Nỗ lực"}
+      ]
+    },
+    {
+      "segment_id": 17,
+      "audio_timestamp_start": 58.8,
+      "audio_timestamp_end": 60.5,
+      "text": "National.",
+      "tokens": [
+        {"word": "National", "type": "adjective", "difficulty": 2, "translation": "Thuộc quốc gia/toàn quốc"}
+      ]
+    },
+    {
+      "segment_id": 18,
+      "audio_timestamp_start": 60.6,
+      "audio_timestamp_end": 65.0,
+      "text": "National newspapers focus largely on politics.",
+      "tokens": [
+        {"word": "National", "type": "adjective", "difficulty": 2, "translation": "Toàn quốc/quốc gia"},
+        {"word": "newspapers", "type": "noun", "difficulty": 1, "translation": "Các tờ báo"},
+        {"word": "focus", "type": "verb", "difficulty": 2, "translation": "Tập trung"},
+        {"word": "largely", "type": "adverb", "difficulty": 3, "translation": "Phần lớn/chủ yếu"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "Vào"},
+        {"word": "politics", "type": "noun", "difficulty": 3, "translation": "Chính trị"}
+      ]
+    },
+    {
+      "segment_id": 19,
+      "audio_timestamp_start": 65.5,
+      "audio_timestamp_end": 67.2,
+      "text": "Number.",
+      "tokens": [
+        {"word": "Number", "type": "noun", "difficulty": 1, "translation": "Con số/số lượng"}
+      ]
+    },
+    {
+      "segment_id": 20,
+      "audio_timestamp_start": 67.3,
+      "audio_timestamp_end": 72.8,
+      "text": "I'm going to download various documents from a number of websites.",
+      "tokens": [
+        {"word": "I'm", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "going", "type": "verb", "difficulty": 1, "translation": "Sẽ (trong cụm từ)"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "Để"},
+        {"word": "download", "type": "verb", "difficulty": 1, "translation": "Tải xuống"},
+        {"word": "various", "type": "adjective", "difficulty": 2, "translation": "Nhiều loại khác nhau"},
+        {"word": "documents", "type": "noun", "difficulty": 2, "translation": "Tài liệu"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "Từ"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "Một (trong cụm từ)"},
+        {"word": "number", "type": "noun", "difficulty": 1, "translation": "Một số (trong cụm từ)"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "Của (trong cụm từ)"},
+        {"word": "websites", "type": "noun", "difficulty": 1, "translation": "Trang web"}
+      ]
+    },
+    {
+      "segment_id": 21,
+      "audio_timestamp_start": 74.8,
+      "audio_timestamp_end": 76.5,
+      "text": "Online.",
+      "tokens": [
+        {"word": "Online", "type": "adverb", "difficulty": 1, "translation": "Trực tuyến"}
+      ]
+    },
+    {
+      "segment_id": 22,
+      "audio_timestamp_start": 76.6,
+      "audio_timestamp_end": 83.5,
+      "text": "I never buy printed newspapers because I can read about current events online.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "never", "type": "adverb", "difficulty": 1, "translation": "Không bao giờ"},
+        {"word": "buy", "type": "verb", "difficulty": 1, "translation": "Mua"},
+        {"word": "printed", "type": "adjective", "difficulty": 2, "translation": "Được in/báo giấy"},
+        {"word": "newspapers", "type": "noun", "difficulty": 1, "translation": "Các tờ báo"},
+        {"word": "because", "type": "conjunction", "difficulty": 1, "translation": "Bởi vì"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "Có thể"},
+        {"word": "read", "type": "verb", "difficulty": 1, "translation": "Đọc"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "Về"},
+        {"word": "current", "type": "adjective", "difficulty": 2, "translation": "Thời sự/hiện tại"},
+        {"word": "events", "type": "noun", "difficulty": 2, "translation": "Các sự kiện"},
+        {"word": "online", "type": "adverb", "difficulty": 1, "translation": "Trực tuyến"}
+      ]
+    },
+    {
+      "segment_id": 23,
+      "audio_timestamp_start": 84.0,
+      "audio_timestamp_end": 85.5,
+      "text": "Event.",
+      "tokens": [
+        {"word": "Event", "type": "noun", "difficulty": 2, "translation": "Sự kiện"}
+      ]
+    },
+    {
+      "segment_id": 24,
+      "audio_timestamp_start": 85.6,
+      "audio_timestamp_end": 91.5,
+      "text": "People tend to read about actual events they can relate to.",
+      "tokens": [
+        {"word": "People", "type": "noun", "difficulty": 1, "translation": "Mọi người"},
+        {"word": "tend", "type": "verb", "difficulty": 2, "translation": "Có xu hướng"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "Để"},
+        {"word": "read", "type": "verb", "difficulty": 1, "translation": "Đọc"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "Về"},
+        {"word": "actual", "type": "adjective", "difficulty": 2, "translation": "Thực tế/có thật"},
+        {"word": "events", "type": "noun", "difficulty": 2, "translation": "Các sự kiện"},
+        {"word": "they", "type": "pronoun", "difficulty": 1, "translation": "Họ"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "Có thể"},
+        {"word": "relate", "type": "verb", "difficulty": 3, "translation": "Đồng cảm/liên hệ bản thân (đi với to)"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "Với"}
+      ]
+    },
+    {
+      "segment_id": 25,
+      "audio_timestamp_start": 92.0,
+      "audio_timestamp_end": 93.5,
+      "text": "Internet.",
+      "tokens": [
+        {"word": "Internet", "type": "noun", "difficulty": 1, "translation": "Mạng internet"}
+      ]
+    },
+    {
+      "segment_id": 26,
+      "audio_timestamp_start": 93.6,
+      "audio_timestamp_end": 100.0,
+      "text": "The internet has become an indispensable part of most people's life.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Mạng (trong cụm từ)"},
+        {"word": "internet", "type": "noun", "difficulty": 1, "translation": "Internet"},
+        {"word": "has", "type": "verb", "difficulty": 1, "translation": "Đã"},
+        {"word": "become", "type": "verb", "difficulty": 2, "translation": "Trở thành"},
+        {"word": "an", "type": "article", "difficulty": 1, "translation": "Một"},
+        {"word": "indispensable", "type": "adjective", "difficulty": 4, "translation": "Không thể thiếu"},
+        {"word": "part", "type": "noun", "difficulty": 1, "translation": "Phần"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "Của"},
+        {"word": "most", "type": "determiner", "difficulty": 1, "translation": "Hầu hết"},
+        {"word": "people's", "type": "noun", "difficulty": 1, "translation": "Của mọi người"},
+        {"word": "life", "type": "noun", "difficulty": 1, "translation": "Cuộc sống"}
+      ]
+    },
+    {
+      "segment_id": 27,
+      "audio_timestamp_start": 102.0,
+      "audio_timestamp_end": 103.8,
+      "text": "Reading.",
+      "tokens": [
+        {"word": "Reading", "type": "noun", "difficulty": 1, "translation": "Việc đọc/sự đọc sách"}
+      ]
+    },
+    {
+      "segment_id": 28,
+      "audio_timestamp_start": 103.9,
+      "audio_timestamp_end": 110.0,
+      "text": "I really enjoy a bit of light reading before my head hits the pillow.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "really", "type": "adverb", "difficulty": 1, "translation": "Thực sự"},
+        {"word": "enjoy", "type": "verb", "difficulty": 1, "translation": "Thích"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "Một (trong cụm từ)"},
+        {"word": "bit", "type": "noun", "difficulty": 1, "translation": "Một chút (trong cụm từ)"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "Của (trong cụm từ)"},
+        {"word": "light", "type": "adjective", "difficulty": 2, "translation": "Nhẹ nhàng/thư giãn"},
+        {"word": "reading", "type": "noun", "difficulty": 1, "translation": "Đọc sách"},
+        {"word": "before", "type": "preposition", "difficulty": 1, "translation": "Trước khi"},
+        {"word": "my", "type": "determiner", "difficulty": 1, "translation": "Của tôi"},
+        {"word": "head", "type": "noun", "difficulty": 1, "translation": "Đầu"},
+        {"word": "hits", "type": "verb", "difficulty": 2, "translation": "Chạm vào/đặt xuống (thành ngữ)"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "Cái (trong cụm từ)"},
+        {"word": "pillow", "type": "noun", "difficulty": 2, "translation": "Gối"}
+      ]
+    },
+    {
+      "segment_id": 29,
+      "audio_timestamp_start": 110.8,
+      "audio_timestamp_end": 112.5,
+      "text": "Everything.",
+      "tokens": [
+        {"word": "Everything", "type": "pronoun", "difficulty": 1, "translation": "Mọi thứ"}
+      ]
+    },
+    {
+      "segment_id": 30,
+      "audio_timestamp_start": 112.6,
+      "audio_timestamp_end": 119.5,
+      "text": "We have the chance to know everything we are interested in through the mass media.",
+      "tokens": [
+        {"word": "We", "type": "pronoun", "difficulty": 1, "translation": "Chúng ta"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "Có"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "Cơ (trong cụm từ)"},
+        {"word": "chance", "type": "noun", "difficulty": 2, "translation": "Cơ hội"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "Để"},
+        {"word": "know", "type": "verb", "difficulty": 1, "translation": "Biết"},
+        {"word": "everything", "type": "pronoun", "difficulty": 1, "translation": "Mọi thứ"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "Chúng ta"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "Thì (trong cụm từ)"},
+        {"word": "interested", "type": "adjective", "difficulty": 2, "translation": "Quan tâm/hứng thú (đi với in)"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "Vào/về"},
+        {"word": "through", "type": "preposition", "difficulty": 2, "translation": "Qua/thông qua"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "Phương tiện (trong cụm từ)"},
+        {"word": "mass", "type": "adjective", "difficulty": 3, "translation": "Đại chúng"},
+        {"word": "media", "type": "noun", "difficulty": 2, "translation": "Truyền thông"}
+      ]
+    },
+    {
+      "segment_id": 31,
+      "audio_timestamp_start": 120.0,
+      "audio_timestamp_end": 121.8,
+      "text": "Increasingly.",
+      "tokens": [
+        {"word": "Increasingly", "type": "adverb", "difficulty": 3, "translation": "Ngày càng tăng/ngày càng"}
+      ]
+    },
+    {
+      "segment_id": 32,
+      "audio_timestamp_start": 121.9,
+      "audio_timestamp_end": 126.0,
+      "text": "The internet is becoming increasingly popular.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Mạng (trong cụm từ)"},
+        {"word": "internet", "type": "noun", "difficulty": 1, "translation": "Internet"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "Đang (trong cụm từ)"},
+        {"word": "becoming", "type": "verb", "difficulty": 2, "translation": "Trở nên"},
+        {"word": "increasingly", "type": "adverb", "difficulty": 3, "translation": "Ngày càng"},
+        {"word": "popular", "type": "adjective", "difficulty": 2, "translation": "Phổ biến"}
+      ]
+    }
+  ]
+}

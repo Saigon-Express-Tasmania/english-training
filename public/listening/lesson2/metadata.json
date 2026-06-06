@@ -1,0 +1,146 @@
+{
+  "title": "The Impact and Legality of Paparazzi",
+  "transcript": "Well, many people point the finger at the news media for giving paparazzi license to do what they do. Newspapers pay huge sums to get images of celebrities in compromising situations. In recent years, the sale of photographs of celebrities has become very profitable. However, people have questioned whether this is actually legal. In Britain, it is allowed to take photographs of celebrities so long as they are in a public place. Even so, there are occasions when paparazzi go too far in their attempts to attain the best photographs of celebrities.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 7.1,
+      "text": "Well, many people point the finger at the news media for giving paparazzi license to do what they do.",
+      "tokens": [
+        {"word": "Well", "type": "interjection", "difficulty": 1, "translation": "Chà / À"},
+        {"word": "many", "type": "adjective", "difficulty": 1, "translation": "nhiều"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "mọi người"},
+        {"word": "point", "type": "verb", "difficulty": 2, "translation": "chỉ"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái / các"},
+        {"word": "finger", "type": "noun", "difficulty": 1, "translation": "ngón tay"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "vào"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái / các"},
+        {"word": "news", "type": "noun", "difficulty": 1, "translation": "tin tức"},
+        {"word": "media", "type": "noun", "difficulty": 2, "translation": "truyền thông"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "vì / cho"},
+        {"word": "giving", "type": "verb", "difficulty": 1, "translation": "đưa / cho"},
+        {"word": "paparazzi", "type": "noun", "difficulty": 5, "translation": "thợ săn ảnh"},
+        {"word": "license", "type": "noun", "difficulty": 3, "translation": "giấy phép / đặc quyền"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "làm"},
+        {"word": "what", "type": "pronoun", "difficulty": 1, "translation": "những gì"},
+        {"word": "they", "type": "pronoun", "difficulty": 1, "translation": "họ"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "làm"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 7.1,
+      "audio_timestamp_end": 13.0,
+      "text": "Newspapers pay huge sums to get images of celebrities in compromising situations.",
+      "tokens": [
+        {"word": "Newspapers", "type": "noun", "difficulty": 2, "translation": "Báo chí"},
+        {"word": "pay", "type": "verb", "difficulty": 1, "translation": "trả"},
+        {"word": "huge", "type": "adjective", "difficulty": 2, "translation": "khổng lồ"},
+        {"word": "sums", "type": "noun", "difficulty": 3, "translation": "khoản tiền"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "get", "type": "verb", "difficulty": 1, "translation": "lấy / nhận"},
+        {"word": "images", "type": "noun", "difficulty": 2, "translation": "hình ảnh"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "celebrities", "type": "noun", "difficulty": 3, "translation": "người nổi tiếng"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "compromising", "type": "adjective", "difficulty": 4, "translation": "nhạy cảm / gây rắc rối"},
+        {"word": "situations", "type": "noun", "difficulty": 2, "translation": "tình huống"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 13.0,
+      "audio_timestamp_end": 19.8,
+      "text": "In recent years, the sale of photographs of celebrities has become very profitable.",
+      "tokens": [
+        {"word": "In", "type": "preposition", "difficulty": 1, "translation": "Trong"},
+        {"word": "recent", "type": "adjective", "difficulty": 2, "translation": "gần đây"},
+        {"word": "years", "type": "noun", "difficulty": 1, "translation": "những năm"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái / các"},
+        {"word": "sale", "type": "noun", "difficulty": 2, "translation": "việc bán"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "photographs", "type": "noun", "difficulty": 2, "translation": "bức ảnh"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "celebrities", "type": "noun", "difficulty": 3, "translation": "người nổi tiếng"},
+        {"word": "has", "type": "verb", "difficulty": 1, "translation": "đã"},
+        {"word": "become", "type": "verb", "difficulty": 2, "translation": "trở nên"},
+        {"word": "very", "type": "adverb", "difficulty": 1, "translation": "rất"},
+        {"word": "profitable", "type": "adjective", "difficulty": 4, "translation": "sinh lời"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 19.8,
+      "audio_timestamp_end": 24.5,
+      "text": "However, people have questioned whether this is actually legal.",
+      "tokens": [
+        {"word": "However", "type": "adverb", "difficulty": 2, "translation": "Tuy nhiên"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "mọi người"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "đã"},
+        {"word": "questioned", "type": "verb", "difficulty": 3, "translation": "đặt câu hỏi / nghi ngờ"},
+        {"word": "whether", "type": "conjunction", "difficulty": 3, "translation": "liệu rằng"},
+        {"word": "this", "type": "pronoun", "difficulty": 1, "translation": "điều này"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "actually", "type": "adverb", "difficulty": 2, "translation": "thực sự"},
+        {"word": "legal", "type": "adjective", "difficulty": 2, "translation": "hợp pháp"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 24.5,
+      "audio_timestamp_end": 31.8,
+      "text": "In Britain, it is allowed to take photographs of celebrities so long as they are in a public place.",
+      "tokens": [
+        {"word": "In", "type": "preposition", "difficulty": 1, "translation": "Ở / Trong"},
+        {"word": "Britain", "type": "noun", "difficulty": 2, "translation": "nước Anh"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "được / là"},
+        {"word": "allowed", "type": "verb", "difficulty": 2, "translation": "cho phép"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "take", "type": "verb", "difficulty": 1, "translation": "chụp / lấy"},
+        {"word": "photographs", "type": "noun", "difficulty": 2, "translation": "bức ảnh"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "celebrities", "type": "noun", "difficulty": 3, "translation": "người nổi tiếng"},
+        {"word": "so", "type": "adverb", "difficulty": 1, "translation": "đến mức / vậy"},
+        {"word": "long", "type": "adverb", "difficulty": 1, "translation": "lâu / dài"},
+        {"word": "as", "type": "conjunction", "difficulty": 1, "translation": "như"},
+        {"word": "they", "type": "pronoun", "difficulty": 1, "translation": "họ"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "ở / là"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "public", "type": "adjective", "difficulty": 2, "translation": "công cộng"},
+        {"word": "place", "type": "noun", "difficulty": 1, "translation": "nơi / địa điểm"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 31.8,
+      "audio_timestamp_end": 40.2,
+      "text": "Even so, there are occasions when paparazzi go too far in their attempts to attain the best photographs of celebrities.",
+      "tokens": [
+        {"word": "Even", "type": "adverb", "difficulty": 2, "translation": "Thậm chí"},
+        {"word": "so", "type": "adverb", "difficulty": 1, "translation": "như vậy"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "có"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là / có"},
+        {"word": "occasions", "type": "noun", "difficulty": 3, "translation": "những dịp / cơ hội"},
+        {"word": "when", "type": "conjunction", "difficulty": 1, "translation": "khi"},
+        {"word": "paparazzi", "type": "noun", "difficulty": 5, "translation": "thợ săn ảnh"},
+        {"word": "go", "type": "verb", "difficulty": 1, "translation": "đi"},
+        {"word": "too", "type": "adverb", "difficulty": 1, "translation": "quá"},
+        {"word": "far", "type": "adverb", "difficulty": 1, "translation": "xa"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "their", "type": "pronoun", "difficulty": 1, "translation": "của họ"},
+        {"word": "attempts", "type": "noun", "difficulty": 3, "translation": "nỗ lực"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "attain", "type": "verb", "difficulty": 4, "translation": "đạt được / giành được"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái / các"},
+        {"word": "best", "type": "adjective", "difficulty": 1, "translation": "tốt nhất"},
+        {"word": "photographs", "type": "noun", "difficulty": 2, "translation": "bức ảnh"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "celebrities", "type": "noun", "difficulty": 3, "translation": "người nổi tiếng"}
+      ]
+    }
+  ]
+}
