@@ -42,6 +42,10 @@ import courseImg6 from "./images/thumbs/course-img6.png";
 import courseImg7 from "./images/thumbs/course-img7.png";
 import courseImg8 from "./images/thumbs/course-img8.png";
 import courseImg9 from "./images/thumbs/course-img9.png";
+import courseDetailsImg from "./images/thumbs/course-details-img.png";
+import reviewerImg1 from "./images/thumbs/reviewer-img1.png";
+import reviewerImg2 from "./images/thumbs/reviewer-img2.png";
+import reviewerImg3 from "./images/thumbs/reviewer-img3.png";
 import enrollStudentImg1 from "./images/thumbs/enroll-student-img1.png";
 import enrollStudentImg2 from "./images/thumbs/enroll-student-img2.png";
 import enrollStudentImg3 from "./images/thumbs/enroll-student-img3.png";
@@ -101,6 +105,10 @@ export const images = {
   courseImg7,
   courseImg8,
   courseImg9,
+  courseDetailsImg,
+  reviewerImg1,
+  reviewerImg2,
+  reviewerImg3,
   enrollStudentImg1,
   enrollStudentImg2,
   enrollStudentImg3,
