@@ -1,0 +1,321 @@
+{
+  "title": "Finding a Reference Book at the Library",
+  "transcript": "May I help you? Yes, I'm looking for the reference books for my chemistry assignment. Are you a freshman? Yes, I just checked the system. It showed that there was one out on loan. I'm afraid you have to wait, but you can reserve it online. As soon as the book is returned, you can receive a notification. Thanks for your advice, but I am in a bit of a hurry. My assignment is due next Friday. In that case, you can search the databases to check if there are any digital copies. I have done that, but I didn't find any. Okay, I suggest that you buy one in the bookstore if you could not wait. Which bookstore has the reference books? Let me check for you. Um, you can go to the Waterstone bookstore on the 21 Richmond Road. Rich... um, could you spell the address for me? Sure. It's R-I-C-H-M-O-N-D, Richmond. Okay, thank you for your help. That's all right.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 1.2,
+      "text": "May I help you?",
+      "tokens": [
+        {"word": "May", "type": "modal_verb", "difficulty": 1, "translation": "Có thể"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "help", "type": "verb", "difficulty": 1, "translation": "giúp"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 1.2,
+      "audio_timestamp_end": 4.5,
+      "text": "Yes, I'm looking for the reference books for my chemistry assignment.",
+      "tokens": [
+        {"word": "Yes", "type": "adverb", "difficulty": 1, "translation": "Vâng"},
+        {"word": "I'm", "type": "pronoun_verb", "difficulty": 1, "translation": "tôi đang"},
+        {"word": "looking", "type": "verb", "difficulty": 1, "translation": "tìm kiếm"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "reference", "type": "noun", "difficulty": 2, "translation": "tham khảo"},
+        {"word": "books", "type": "noun", "difficulty": 1, "translation": "cuốn sách"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "chemistry", "type": "noun", "difficulty": 2, "translation": "hóa học"},
+        {"word": "assignment", "type": "noun", "difficulty": 3, "translation": "bài tập"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 4.5,
+      "audio_timestamp_end": 5.5,
+      "text": "Are you a freshman?",
+      "tokens": [
+        {"word": "Are", "type": "verb", "difficulty": 1, "translation": "Là"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "freshman", "type": "noun", "difficulty": 3, "translation": "sinh viên năm nhất"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 5.5,
+      "audio_timestamp_end": 7.3,
+      "text": "Yes, I just checked the system.",
+      "tokens": [
+        {"word": "Yes", "type": "adverb", "difficulty": 1, "translation": "Vâng"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "just", "type": "adverb", "difficulty": 1, "translation": "vừa mới"},
+        {"word": "checked", "type": "verb", "difficulty": 1, "translation": "kiểm tra"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "system", "type": "noun", "difficulty": 2, "translation": "hệ thống"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 7.3,
+      "audio_timestamp_end": 9.5,
+      "text": "It showed that there was one out on loan.",
+      "tokens": [
+        {"word": "It", "type": "pronoun", "difficulty": 1, "translation": "Nó"},
+        {"word": "showed", "type": "verb", "difficulty": 1, "translation": "hiển thị"},
+        {"word": "that", "type": "conjunction", "difficulty": 1, "translation": "rằng"},
+        {"word": "there", "type": "pronoun", "difficulty": 1, "translation": "có (there was)"},
+        {"word": "was", "type": "verb", "difficulty": 1, "translation": "đã có"},
+        {"word": "one", "type": "pronoun", "difficulty": 1, "translation": "một cuốn"},
+        {"word": "out", "type": "adverb", "difficulty": 1, "translation": "bên ngoài"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "trên"},
+        {"word": "loan", "type": "noun", "difficulty": 2, "translation": "sự cho mượn"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 9.5,
+      "audio_timestamp_end": 12.8,
+      "text": "I'm afraid you have to wait, but you can reserve it online.",
+      "tokens": [
+        {"word": "I'm", "type": "pronoun_verb", "difficulty": 1, "translation": "Tôi thì"},
+        {"word": "afraid", "type": "adjective", "difficulty": 2, "translation": "e ngại"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "phải (have to)"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "wait", "type": "verb", "difficulty": 1, "translation": "chờ đợi"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "can", "type": "modal_verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "reserve", "type": "verb", "difficulty": 3, "translation": "đặt trước"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "online", "type": "adverb", "difficulty": 1, "translation": "trực tuyến"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 12.8,
+      "audio_timestamp_end": 16.5,
+      "text": "As soon as the book is returned, you can receive a notification.",
+      "tokens": [
+        {"word": "As", "type": "conjunction", "difficulty": 2, "translation": "Ngay khi (As soon as)"},
+        {"word": "soon", "type": "adverb", "difficulty": 1, "translation": "sớm"},
+        {"word": "as", "type": "conjunction", "difficulty": 1, "translation": "khi"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "book", "type": "noun", "difficulty": 1, "translation": "cuốn sách"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "được"},
+        {"word": "returned", "type": "verb", "difficulty": 2, "translation": "trả lại"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "can", "type": "modal_verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "receive", "type": "verb", "difficulty": 2, "translation": "nhận"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "notification", "type": "noun", "difficulty": 3, "translation": "thông báo"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 16.5,
+      "audio_timestamp_end": 20.0,
+      "text": "Thanks for your advice, but I am in a bit of a hurry.",
+      "tokens": [
+        {"word": "Thanks", "type": "noun", "difficulty": 1, "translation": "Cảm ơn"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "advice", "type": "noun", "difficulty": 2, "translation": "lời khuyên"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "am", "type": "verb", "difficulty": 1, "translation": "thì"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "bit", "type": "noun", "difficulty": 1, "translation": "chút"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "sự"},
+        {"word": "hurry", "type": "noun", "difficulty": 2, "translation": "vội vã"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 20.0,
+      "audio_timestamp_end": 22.5,
+      "text": "My assignment is due next Friday.",
+      "tokens": [
+        {"word": "My", "type": "pronoun", "difficulty": 1, "translation": "Của tôi"},
+        {"word": "assignment", "type": "noun", "difficulty": 3, "translation": "bài tập"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "thì"},
+        {"word": "due", "type": "adjective", "difficulty": 2, "translation": "đến hạn"},
+        {"word": "next", "type": "adjective", "difficulty": 1, "translation": "tới"},
+        {"word": "Friday", "type": "noun", "difficulty": 1, "translation": "Thứ sáu"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 22.5,
+      "audio_timestamp_end": 26.5,
+      "text": "In that case, you can search the databases to check if there are any digital copies.",
+      "tokens": [
+        {"word": "In", "type": "preposition", "difficulty": 1, "translation": "Trong"},
+        {"word": "that", "type": "adjective", "difficulty": 1, "translation": "đó"},
+        {"word": "case", "type": "noun", "difficulty": 1, "translation": "trường hợp"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "can", "type": "modal_verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "search", "type": "verb", "difficulty": 1, "translation": "tìm kiếm"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "databases", "type": "noun", "difficulty": 3, "translation": "cơ sở dữ liệu"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "check", "type": "verb", "difficulty": 1, "translation": "kiểm tra"},
+        {"word": "if", "type": "conjunction", "difficulty": 1, "translation": "nếu"},
+        {"word": "there", "type": "pronoun", "difficulty": 1, "translation": "có (there are)"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "any", "type": "adjective", "difficulty": 1, "translation": "bất kỳ"},
+        {"word": "digital", "type": "adjective", "difficulty": 2, "translation": "kỹ thuật số"},
+        {"word": "copies", "type": "noun", "difficulty": 2, "translation": "bản sao"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 26.5,
+      "audio_timestamp_end": 29.0,
+      "text": "I have done that, but I didn't find any.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "đã"},
+        {"word": "done", "type": "verb", "difficulty": 1, "translation": "làm"},
+        {"word": "that", "type": "pronoun", "difficulty": 1, "translation": "điều đó"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "didn't", "type": "verb", "difficulty": 1, "translation": "đã không"},
+        {"word": "find", "type": "verb", "difficulty": 1, "translation": "tìm thấy"},
+        {"word": "any", "type": "pronoun", "difficulty": 1, "translation": "bất kỳ"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 29.0,
+      "audio_timestamp_end": 32.5,
+      "text": "Okay, I suggest that you buy one in the bookstore if you could not wait.",
+      "tokens": [
+        {"word": "Okay", "type": "interjection", "difficulty": 1, "translation": "Được rồi"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "suggest", "type": "verb", "difficulty": 2, "translation": "đề nghị"},
+        {"word": "that", "type": "conjunction", "difficulty": 1, "translation": "rằng"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "buy", "type": "verb", "difficulty": 1, "translation": "mua"},
+        {"word": "one", "type": "pronoun", "difficulty": 1, "translation": "một cuốn"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "bookstore", "type": "noun", "difficulty": 1, "translation": "hiệu sách"},
+        {"word": "if", "type": "conjunction", "difficulty": 1, "translation": "nếu"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "could", "type": "modal_verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "not", "type": "adverb", "difficulty": 1, "translation": "không"},
+        {"word": "wait", "type": "verb", "difficulty": 1, "translation": "đợi"}
+      ]
+    },
+    {
+      "segment_id": 13,
+      "audio_timestamp_start": 32.5,
+      "audio_timestamp_end": 34.5,
+      "text": "Which bookstore has the reference books?",
+      "tokens": [
+        {"word": "Which", "type": "adjective", "difficulty": 1, "translation": "Cái nào"},
+        {"word": "bookstore", "type": "noun", "difficulty": 1, "translation": "hiệu sách"},
+        {"word": "has", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "reference", "type": "noun", "difficulty": 2, "translation": "tham khảo"},
+        {"word": "books", "type": "noun", "difficulty": 1, "translation": "cuốn sách"}
+      ]
+    },
+    {
+      "segment_id": 14,
+      "audio_timestamp_start": 34.5,
+      "audio_timestamp_end": 36.0,
+      "text": "Let me check for you.",
+      "tokens": [
+        {"word": "Let", "type": "verb", "difficulty": 1, "translation": "Để"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "check", "type": "verb", "difficulty": 1, "translation": "kiểm tra"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"}
+      ]
+    },
+    {
+      "segment_id": 15,
+      "audio_timestamp_start": 36.0,
+      "audio_timestamp_end": 41.5,
+      "text": "Um, you can go to the Waterstone bookstore on the 21 Richmond Road.",
+      "tokens": [
+        {"word": "Um", "type": "interjection", "difficulty": 1, "translation": "Ừm"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "can", "type": "modal_verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "go", "type": "verb", "difficulty": 1, "translation": "đi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "tới"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "Waterstone", "type": "proper_noun", "difficulty": 2, "translation": "Tên hiệu sách"},
+        {"word": "bookstore", "type": "noun", "difficulty": 1, "translation": "hiệu sách"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "trên"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "21", "type": "number", "difficulty": 1, "translation": "21"},
+        {"word": "Richmond", "type": "proper_noun", "difficulty": 2, "translation": "Tên đường"},
+        {"word": "Road", "type": "noun", "difficulty": 1, "translation": "Đường phố"}
+      ]
+    },
+    {
+      "segment_id": 16,
+      "audio_timestamp_start": 41.5,
+      "audio_timestamp_end": 44.0,
+      "text": "Rich... um, could you spell the address for me?",
+      "tokens": [
+        {"word": "Rich", "type": "proper_noun", "difficulty": 2, "translation": "Rich (chưa xong)"},
+        {"word": "um", "type": "interjection", "difficulty": 1, "translation": "ừm"},
+        {"word": "could", "type": "modal_verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "spell", "type": "verb", "difficulty": 2, "translation": "đánh vần"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "address", "type": "noun", "difficulty": 1, "translation": "địa chỉ"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"}
+      ]
+    },
+    {
+      "segment_id": 17,
+      "audio_timestamp_start": 44.0,
+      "audio_timestamp_end": 47.5,
+      "text": "Sure. It's R-I-C-H-M-O-N-D, Richmond.",
+      "tokens": [
+        {"word": "Sure", "type": "adjective", "difficulty": 1, "translation": "Chắc chắn rồi"},
+        {"word": "It's", "type": "pronoun_verb", "difficulty": 1, "translation": "Nó là"},
+        {"word": "R-I-C-H-M-O-N-D", "type": "proper_noun", "difficulty": 1, "translation": "R-I-C-H-M-O-N-D"},
+        {"word": "Richmond", "type": "proper_noun", "difficulty": 2, "translation": "Tên đường"}
+      ]
+    },
+    {
+      "segment_id": 18,
+      "audio_timestamp_start": 47.5,
+      "audio_timestamp_end": 49.5,
+      "text": "Okay, thank you for your help.",
+      "tokens": [
+        {"word": "Okay", "type": "interjection", "difficulty": 1, "translation": "Được rồi"},
+        {"word": "thank", "type": "verb", "difficulty": 1, "translation": "cảm ơn"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "vì"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "help", "type": "noun", "difficulty": 1, "translation": "sự giúp đỡ"}
+      ]
+    },
+    {
+      "segment_id": 19,
+      "audio_timestamp_start": 49.5,
+      "audio_timestamp_end": 51.0,
+      "text": "That's all right.",
+      "tokens": [
+        {"word": "That's", "type": "pronoun_verb", "difficulty": 1, "translation": "Đó là"},
+        {"word": "all", "type": "adjective", "difficulty": 1, "translation": "hoàn toàn (không có chi)"},
+        {"word": "right", "type": "adjective", "difficulty": 1, "translation": "đúng (không có chi)"}
+      ]
+    }
+  ]
+}

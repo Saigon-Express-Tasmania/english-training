@@ -1,0 +1,193 @@
+{
+  "title": "Reading Newspapers and Improving English",
+  "transcript": "I read newspapers very frequently. Most of the time I read China Daily. It's a Chinese newspaper published in English. Since I tried to improve my English, I have found it useful to read in English as much as possible. I always start reading the newspaper from the back. I enjoy reading about entertainment, especially about new movie releases. Later on, I move on to the local news and major headlines. I find business a bit boring, and it's hard for me to focus on articles related to economics. I think the newspaper is extremely important in China because it definitely provides opportunities for readers to know more about what happens around them every day.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 2.5,
+      "text": "I read newspapers very frequently.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "read", "type": "verb", "difficulty": 1, "translation": "đọc"},
+        {"word": "newspapers", "type": "noun", "difficulty": 1, "translation": "báo"},
+        {"word": "very", "type": "adverb", "difficulty": 1, "translation": "rất"},
+        {"word": "frequently", "type": "adverb", "difficulty": 3, "translation": "thường xuyên"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 2.5,
+      "audio_timestamp_end": 5.2,
+      "text": "Most of the time I read China Daily.",
+      "tokens": [
+        {"word": "Most", "type": "pronoun", "difficulty": 2, "translation": "Hầu hết"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "thời gian"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "read", "type": "verb", "difficulty": 1, "translation": "đọc"},
+        {"word": "China", "type": "proper_noun", "difficulty": 1, "translation": "Trung Quốc"},
+        {"word": "Daily", "type": "proper_noun", "difficulty": 2, "translation": "Hàng ngày (tên báo)"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 5.2,
+      "audio_timestamp_end": 8.1,
+      "text": "It's a Chinese newspaper published in English.",
+      "tokens": [
+        {"word": "It's", "type": "pronoun_verb", "difficulty": 1, "translation": "Nó là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "Chinese", "type": "adjective", "difficulty": 1, "translation": "thuộc về Trung Quốc"},
+        {"word": "newspaper", "type": "noun", "difficulty": 1, "translation": "tờ báo"},
+        {"word": "published", "type": "verb", "difficulty": 3, "translation": "được xuất bản"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "bằng (ngôn ngữ)"},
+        {"word": "English", "type": "proper_noun", "difficulty": 1, "translation": "Tiếng Anh"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 8.1,
+      "audio_timestamp_end": 14.5,
+      "text": "Since I tried to improve my English, I have found it useful to read in English as much as possible.",
+      "tokens": [
+        {"word": "Since", "type": "conjunction", "difficulty": 2, "translation": "Bởi vì / Từ khi"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "tried", "type": "verb", "difficulty": 2, "translation": "đã cố gắng"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "improve", "type": "verb", "difficulty": 2, "translation": "cải thiện"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "English", "type": "proper_noun", "difficulty": 1, "translation": "Tiếng Anh"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "đã"},
+        {"word": "found", "type": "verb", "difficulty": 2, "translation": "nhận thấy"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "useful", "type": "adjective", "difficulty": 2, "translation": "hữu ích"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "read", "type": "verb", "difficulty": 1, "translation": "đọc"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "bằng"},
+        {"word": "English", "type": "proper_noun", "difficulty": 1, "translation": "Tiếng Anh"},
+        {"word": "as", "type": "adverb", "difficulty": 2, "translation": "càng"},
+        {"word": "much", "type": "adverb", "difficulty": 1, "translation": "nhiều"},
+        {"word": "as", "type": "conjunction", "difficulty": 2, "translation": "càng tốt"},
+        {"word": "possible", "type": "adjective", "difficulty": 2, "translation": "có thể"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 14.5,
+      "audio_timestamp_end": 17.5,
+      "text": "I always start reading the newspaper from the back.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "always", "type": "adverb", "difficulty": 1, "translation": "luôn luôn"},
+        {"word": "start", "type": "verb", "difficulty": 1, "translation": "bắt đầu"},
+        {"word": "reading", "type": "verb", "difficulty": 1, "translation": "việc đọc"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "newspaper", "type": "noun", "difficulty": 1, "translation": "tờ báo"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "back", "type": "noun", "difficulty": 1, "translation": "phía sau"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 17.5,
+      "audio_timestamp_end": 23.4,
+      "text": "I enjoy reading about entertainment, especially about new movie releases.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "enjoy", "type": "verb", "difficulty": 2, "translation": "thích thú"},
+        {"word": "reading", "type": "verb", "difficulty": 1, "translation": "việc đọc"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "entertainment", "type": "noun", "difficulty": 3, "translation": "giải trí"},
+        {"word": "especially", "type": "adverb", "difficulty": 3, "translation": "đặc biệt"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "new", "type": "adjective", "difficulty": 1, "translation": "mới"},
+        {"word": "movie", "type": "noun", "difficulty": 1, "translation": "phim ảnh"},
+        {"word": "releases", "type": "noun", "difficulty": 3, "translation": "sự phát hành"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 23.4,
+      "audio_timestamp_end": 28.0,
+      "text": "Later on, I move on to the local news and major headlines.",
+      "tokens": [
+        {"word": "Later", "type": "adverb", "difficulty": 2, "translation": "Sau đó"},
+        {"word": "on", "type": "adverb", "difficulty": 1, "translation": "tiếp tục"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "move", "type": "verb", "difficulty": 2, "translation": "chuyển"},
+        {"word": "on", "type": "adverb", "difficulty": 1, "translation": "sang"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "tới"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "local", "type": "adjective", "difficulty": 2, "translation": "địa phương"},
+        {"word": "news", "type": "noun", "difficulty": 1, "translation": "tin tức"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "major", "type": "adjective", "difficulty": 2, "translation": "chính / lớn"},
+        {"word": "headlines", "type": "noun", "difficulty": 3, "translation": "tiêu đề"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 28.0,
+      "audio_timestamp_end": 34.6,
+      "text": "I find business a bit boring, and it's hard for me to focus on articles related to economics.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "find", "type": "verb", "difficulty": 1, "translation": "thấy"},
+        {"word": "business", "type": "noun", "difficulty": 2, "translation": "kinh doanh"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "bit", "type": "noun", "difficulty": 1, "translation": "chút"},
+        {"word": "boring", "type": "adjective", "difficulty": 2, "translation": "nhàm chán"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "it's", "type": "pronoun_verb", "difficulty": 1, "translation": "nó thì"},
+        {"word": "hard", "type": "adjective", "difficulty": 2, "translation": "khó khăn"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "focus", "type": "verb", "difficulty": 2, "translation": "tập trung"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "vào"},
+        {"word": "articles", "type": "noun", "difficulty": 3, "translation": "bài báo"},
+        {"word": "related", "type": "adjective", "difficulty": 3, "translation": "liên quan"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "tới"},
+        {"word": "economics", "type": "noun", "difficulty": 3, "translation": "kinh tế học"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 34.6,
+      "audio_timestamp_end": 44.5,
+      "text": "I think the newspaper is extremely important in China because it definitely provides opportunities for readers to know more about what happens around them every day.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "think", "type": "verb", "difficulty": 1, "translation": "nghĩ"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "newspaper", "type": "noun", "difficulty": 1, "translation": "tờ báo"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "extremely", "type": "adverb", "difficulty": 3, "translation": "cực kỳ"},
+        {"word": "important", "type": "adjective", "difficulty": 2, "translation": "quan trọng"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở"},
+        {"word": "China", "type": "proper_noun", "difficulty": 1, "translation": "Trung Quốc"},
+        {"word": "because", "type": "conjunction", "difficulty": 1, "translation": "bởi vì"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "definitely", "type": "adverb", "difficulty": 3, "translation": "chắc chắn"},
+        {"word": "provides", "type": "verb", "difficulty": 3, "translation": "cung cấp"},
+        {"word": "opportunities", "type": "noun", "difficulty": 3, "translation": "cơ hội"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "readers", "type": "noun", "difficulty": 2, "translation": "độc giả"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "know", "type": "verb", "difficulty": 1, "translation": "biết"},
+        {"word": "more", "type": "adverb", "difficulty": 1, "translation": "nhiều hơn"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "what", "type": "pronoun", "difficulty": 1, "translation": "những gì"},
+        {"word": "happens", "type": "verb", "difficulty": 2, "translation": "xảy ra"},
+        {"word": "around", "type": "preposition", "difficulty": 1, "translation": "xung quanh"},
+        {"word": "them", "type": "pronoun", "difficulty": 1, "translation": "họ"},
+        {"word": "every", "type": "adjective", "difficulty": 1, "translation": "mỗi"},
+        {"word": "day", "type": "noun", "difficulty": 1, "translation": "ngày"}
+      ]
+    }
+  ]
+}
