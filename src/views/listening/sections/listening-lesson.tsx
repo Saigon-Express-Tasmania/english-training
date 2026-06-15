@@ -5,6 +5,7 @@ import { useMemo, useRef, useState } from "react";
 import { confirmCheckWithEmptyBlanks } from "@/views/listening/lib/confirm-check-answers";
 import { assessAnswers } from "@/views/listening/lib/assess-answers";
 import type { VocabularyItem } from "@/views/listening/lib/collect-vocabulary";
+import { ListeningUnlockButton } from "@/views/listening/components/listening-unlock-button";
 import { WordTooltip } from "@/views/listening/components/word-tooltip";
 import { VocabularySidebar } from "@/views/listening/components/vocabulary-sidebar";
 import {
@@ -180,6 +181,7 @@ export function ListeningLesson({
   const [answers, setAnswers] = useState<Record<string, string>>({});
   const [assessed, setAssessed] = useState(false);
   const [revealed, setRevealed] = useState(false);
+  const [unlocked, setUnlocked] = useState(false);
   const [score, setScore] = useState<{ correct: number; total: number } | null>(null);
   const [results, setResults] = useState<Record<string, boolean>>({});
   const [playingSegmentId, setPlayingSegmentId] = useState<number | null>(null);
@@ -283,6 +285,8 @@ export function ListeningLesson({
               </div>
 
               <div className="listening-lesson__actions mt-40 flex flex-wrap items-center gap-16">
+                {!unlocked ? <ListeningUnlockButton onUnlock={() => setUnlocked(true)} /> : null}
+
                 {!assessed ? (
                   <button
                     type="button"
@@ -296,7 +300,7 @@ export function ListeningLesson({
                   </button>
                 ) : (
                   <>
-                    {!revealed ? (
+                    {!revealed && unlocked ? (
                       <button
                         type="button"
                         className="btn btn-main rounded-pill !flex items-center justify-center gap-8"
@@ -343,7 +347,9 @@ export function ListeningLesson({
                   <p className="listening-results__hint mt-12 mb-0 text-sm">
                     {revealed
                       ? "Correct answers are shown in place for any blanks you missed."
-                      : "Use Reveal Answers when you want to see the correct words."}
+                      : unlocked
+                        ? "Use Reveal Answers when you want to see the correct words."
+                        : "Unlock with PIN to reveal the correct words."}
                   </p>
                 </div>
               ) : null}
@@ -351,7 +357,11 @@ export function ListeningLesson({
           </div>
 
           <div className="col-12 col-xl-4">
-            <VocabularySidebar words={vocabularyWords} />
+            <VocabularySidebar
+              words={vocabularyWords}
+              unlocked={unlocked}
+              onUnlock={() => setUnlocked(true)}
+            />
           </div>
         </div>
       </div>

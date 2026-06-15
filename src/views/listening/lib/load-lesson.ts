@@ -19,7 +19,25 @@ export function listListeningLessonIds(): string[] {
     .filter((lessonId) =>
       fs.existsSync(path.join(listeningRoot, lessonId, "metadata.json")),
     )
-    .sort();
+    .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+}
+
+export type ListeningLessonSummary = {
+  id: string;
+  title: string;
+  segmentCount: number;
+};
+
+export function listListeningLessonsSummary(): ListeningLessonSummary[] {
+  return listListeningLessonIds().map((id) => {
+    const lesson = loadListeningLesson(id);
+
+    return {
+      id,
+      title: lesson.title,
+      segmentCount: lesson.segments.length,
+    };
+  });
 }
 
 export function getLessonAudioPath(lessonId: string): string {

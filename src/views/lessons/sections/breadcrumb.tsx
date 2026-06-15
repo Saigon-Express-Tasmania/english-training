@@ -39,7 +39,7 @@ export function Breadcrumb() {
           <div className="col-lg-8">
             <div className="breadcrumb__wrapper">
               <h1 className="breadcrumb__title display-4 fw-semibold text-center">
-                Courses List View
+                Listening Lessons
               </h1>
               <ul className="breadcrumb__list align-items-center justify-content-center flex gap-4">
                 <li className="breadcrumb__item">
@@ -54,18 +54,7 @@ export function Breadcrumb() {
                   <i className="ph-bold ph-caret-right flex text-neutral-500"></i>
                 </li>
                 <li className="breadcrumb__item">
-                  <a
-                    href="course.html"
-                    className="breadcrumb__link hover-text-main-600 font-medium text-neutral-500"
-                  >
-                    Courses
-                  </a>
-                </li>
-                <li className="breadcrumb__item">
-                  <i className="ph-bold ph-caret-right flex text-neutral-500"></i>
-                </li>
-                <li className="breadcrumb__item">
-                  <span className="text-main-two-600">List View</span>
+                  <span className="text-main-two-600">Listening</span>
                 </li>
               </ul>
             </div>

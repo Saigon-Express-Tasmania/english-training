@@ -2,13 +2,16 @@
 
 import { useState } from "react";
 
+import { ListeningUnlockButton } from "@/views/listening/components/listening-unlock-button";
 import type { VocabularyItem } from "@/views/listening/lib/collect-vocabulary";
 
 type VocabularySidebarProps = {
   words: VocabularyItem[];
+  unlocked: boolean;
+  onUnlock: () => void;
 };
 
-export function VocabularySidebar({ words }: VocabularySidebarProps) {
+export function VocabularySidebar({ words, unlocked, onUnlock }: VocabularySidebarProps) {
   const [revealed, setRevealed] = useState(false);
 
   return (
@@ -20,40 +23,51 @@ export function VocabularySidebar({ words }: VocabularySidebarProps) {
         </p>
       </div>
 
-      <button
-        type="button"
-        className="btn btn-outline-main rounded-pill listening-vocab__toggle !flex w-100 items-center justify-center gap-8"
-        onClick={() => setRevealed((current) => !current)}
-        aria-expanded={revealed}
-        aria-controls="listening-vocab-list"
-      >
-        {revealed ? (
-          <>
-            Hide words
-            <i className="ph-bold ph-eye-slash flex text-lg"></i>
-          </>
-        ) : (
-          <>
-            Show words
-            <i className="ph-bold ph-eye flex text-lg"></i>
-          </>
-        )}
-      </button>
-
-      {revealed ? (
-        <ul id="listening-vocab-list" className="listening-vocab__list mt-16 mb-0">
-          {words.map((item) => (
-            <li key={item.word} className="listening-vocab__item">
-              <span className="listening-vocab__word">{item.word}</span>
-              <span className="listening-vocab__type">{item.type}</span>
-              <span className="listening-vocab__translation">{item.translation}</span>
-            </li>
-          ))}
-        </ul>
+      {!unlocked ? (
+        <>
+          <ListeningUnlockButton onUnlock={onUnlock} className="w-100" />
+          <p className="listening-vocab__placeholder mt-12 mb-0 text-sm text-neutral-500">
+            {words.length} words available. Unlock to view vocabulary hints.
+          </p>
+        </>
       ) : (
-        <p className="listening-vocab__placeholder mt-12 mb-0 text-sm text-neutral-500">
-          {words.length} words available. Click the button above when you need a hint.
-        </p>
+        <>
+          <button
+            type="button"
+            className="btn btn-outline-main rounded-pill listening-vocab__toggle !flex w-100 items-center justify-center gap-8"
+            onClick={() => setRevealed((current) => !current)}
+            aria-expanded={revealed}
+            aria-controls="listening-vocab-list"
+          >
+            {revealed ? (
+              <>
+                Hide words
+                <i className="ph-bold ph-eye-slash flex text-lg"></i>
+              </>
+            ) : (
+              <>
+                Show words
+                <i className="ph-bold ph-eye flex text-lg"></i>
+              </>
+            )}
+          </button>
+
+          {revealed ? (
+            <ul id="listening-vocab-list" className="listening-vocab__list mt-16 mb-0">
+              {words.map((item) => (
+                <li key={item.word} className="listening-vocab__item">
+                  <span className="listening-vocab__word">{item.word}</span>
+                  <span className="listening-vocab__type">{item.type}</span>
+                  <span className="listening-vocab__translation">{item.translation}</span>
+                </li>
+              ))}
+            </ul>
+          ) : (
+            <p className="listening-vocab__placeholder mt-12 mb-0 text-sm text-neutral-500">
+              {words.length} words available. Click the button above when you need a hint.
+            </p>
+          )}
+        </>
       )}
     </aside>
   );

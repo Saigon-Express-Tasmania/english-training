@@ -1,0 +1,298 @@
+{
+  "title": "Home Security and Crime Prevention during Holidays",
+  "transcript": "Welcome to our security all the time. Dave, how are you? Hi Mandy, thanks for asking me along. So Dave, as a police officer, what words of wisdom can you offer us? Okay, well theft is the most common crime in the UK now. Theft can happen anytime and anywhere. This includes people having things stolen from their homes as well as from their bags or pockets when they're on the street. For example, someone might steal your wallet when you're on the bus. That's the kind of thing I mean. The bank holiday is coming up and as you're probably aware, it is a common time for burglary. The reason for this is that most people go away and leave their homes empty. It's a good idea to increase the security on your home in advance. For instance, it might not seem like a big deal, but reinforcing your locks is a good way for this. You should also make sure you don't have any money lying around the house and that all your expensive items are well hidden.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 2.4,
+      "text": "Welcome to our security all the time.",
+      "tokens": [
+        {"word": "Welcome", "type": "verb", "difficulty": 1, "translation": "Chào mừng"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "đến với"},
+        {"word": "our", "type": "pronoun", "difficulty": 1, "translation": "của chúng tôi"},
+        {"word": "security", "type": "noun", "difficulty": 2, "translation": "an ninh"},
+        {"word": "all", "type": "determiner", "difficulty": 1, "translation": "tất cả"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "thì"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "thời gian"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 2.4,
+      "audio_timestamp_end": 4.1,
+      "text": "Dave, how are you?",
+      "tokens": [
+        {"word": "Dave", "type": "noun", "difficulty": 1, "translation": "Dave (tên riêng)"},
+        {"word": "how", "type": "adverb", "difficulty": 1, "translation": "như thế nào"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "thì/là/ở"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 4.1,
+      "audio_timestamp_end": 6.7,
+      "text": "Hi Mandy, thanks for asking me along.",
+      "tokens": [
+        {"word": "Hi", "type": "interjection", "difficulty": 1, "translation": "Xin chào"},
+        {"word": "Mandy", "type": "noun", "difficulty": 1, "translation": "Mandy (tên riêng)"},
+        {"word": "thanks", "type": "noun", "difficulty": 1, "translation": "cảm ơn"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "vì"},
+        {"word": "asking", "type": "verb", "difficulty": 2, "translation": "mời"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "along", "type": "adverb", "difficulty": 2, "translation": "cùng đi theo/tham gia cùng"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 6.7,
+      "audio_timestamp_end": 12.3,
+      "text": "So Dave, as a police officer, what words of wisdom can you offer us?",
+      "tokens": [
+        {"word": "So", "type": "conjunction", "difficulty": 1, "translation": "Vậy thì"},
+        {"word": "Dave", "type": "noun", "difficulty": 1, "translation": "Dave"},
+        {"word": "as", "type": "preposition", "difficulty": 1, "translation": "với tư cách là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "police", "type": "noun", "difficulty": 1, "translation": "cảnh sát"},
+        {"word": "officer", "type": "noun", "difficulty": 2, "translation": "sĩ quan/viên chức"},
+        {"word": "what", "type": "pronoun", "difficulty": 1, "translation": "cái gì/những gì"},
+        {"word": "words", "type": "noun", "difficulty": 1, "translation": "lời nói/từ ngữ"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "wisdom", "type": "noun", "difficulty": 3, "translation": "sự khôn ngoan/trí tuệ"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "offer", "type": "verb", "difficulty": 2, "translation": "đưa ra/dành cho"},
+        {"word": "us", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 12.3,
+      "audio_timestamp_end": 17.5,
+      "text": "Okay, well theft is the most common crime in the UK now.",
+      "tokens": [
+        {"word": "Okay", "type": "interjection", "difficulty": 1, "translation": "Được rồi"},
+        {"word": "well", "type": "interjection", "difficulty": 1, "translation": "à thì"},
+        {"word": "theft", "type": "noun", "difficulty": 3, "translation": "vụ trộm cắp/nạn trộm cắp"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "nhất (trong so sánh nhất)"},
+        {"word": "most", "type": "adverb", "difficulty": 1, "translation": "nhất"},
+        {"word": "common", "type": "adjective", "difficulty": 2, "translation": "phổ biến/thông thường"},
+        {"word": "crime", "type": "noun", "difficulty": 2, "translation": "tội phạm/vụ án"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở tại"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "phần tên quốc gia"},
+        {"word": "UK", "type": "noun", "difficulty": 1, "translation": "Vương quốc Anh"},
+        {"word": "now", "type": "adverb", "difficulty": 1, "translation": "hiện nay"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 17.5,
+      "audio_timestamp_end": 20.7,
+      "text": "Theft can happen anytime and anywhere.",
+      "tokens": [
+        {"word": "Theft", "type": "noun", "difficulty": 3, "translation": "Trộm cắp"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "happen", "type": "verb", "difficulty": 1, "translation": "xảy ra"},
+        {"word": "anytime", "type": "adverb", "difficulty": 2, "translation": "bất cứ lúc nào"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "anywhere", "type": "adverb", "difficulty": 2, "translation": "bất cứ nơi đâu"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 20.7,
+      "audio_timestamp_end": 28.7,
+      "text": "This includes people having things stolen from their homes as well as from their bags or pockets when they're on the street.",
+      "tokens": [
+        {"word": "This", "type": "pronoun", "difficulty": 1, "translation": "Điều này"},
+        {"word": "includes", "type": "verb", "difficulty": 2, "translation": "bao gồm"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người ta/mọi người"},
+        {"word": "having", "type": "verb", "difficulty": 2, "translation": "bị (trong cấu trúc 'have something done')"},
+        {"word": "things", "type": "noun", "difficulty": 1, "translation": "đồ đạc/thứ"},
+        {"word": "stolen", "type": "verb", "difficulty": 2, "translation": "bị ăn trộm"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "their", "type": "pronoun", "difficulty": 1, "translation": "của họ"},
+        {"word": "homes", "type": "noun", "difficulty": 1, "translation": "nhà cửa"},
+        {"word": "as", "type": "conjunction", "difficulty": 2, "translation": "cũng"},
+        {"word": "well", "type": "conjunction", "difficulty": 2, "translation": "như"},
+        {"word": "as", "type": "conjunction", "difficulty": 2, "translation": "với"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "their", "type": "pronoun", "difficulty": 1, "translation": "của họ"},
+        {"word": "bags", "type": "noun", "difficulty": 1, "translation": "túi xách"},
+        {"word": "or", "type": "conjunction", "difficulty": 1, "translation": "hoặc"},
+        {"word": "pockets", "type": "noun", "difficulty": 2, "translation": "túi quần/áo"},
+        {"word": "when", "type": "conjunction", "difficulty": 1, "translation": "khi"},
+        {"word": "they're", "type": "pronoun", "difficulty": 1, "translation": "họ đang"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "trên"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "định từ"},
+        {"word": "street", "type": "noun", "difficulty": 1, "translation": "đường phố"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 28.7,
+      "audio_timestamp_end": 33.1,
+      "text": "For example, someone might steal your wallet when you're on the bus.",
+      "tokens": [
+        {"word": "For", "type": "preposition", "difficulty": 1, "translation": "Ví"},
+        {"word": "example", "type": "noun", "difficulty": 1, "translation": "dụ"},
+        {"word": "someone", "type": "pronoun", "difficulty": 1, "translation": "ai đó"},
+        {"word": "might", "type": "verb", "difficulty": 2, "translation": "có thể/có khả năng"},
+        {"word": "steal", "type": "verb", "difficulty": 2, "translation": "ăn cắp"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "wallet", "type": "noun", "difficulty": 2, "translation": "ví tiền"},
+        {"word": "when", "type": "conjunction", "difficulty": 1, "translation": "khi"},
+        {"word": "you're", "type": "pronoun", "difficulty": 1, "translation": "bạn đang"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "trên"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "định từ"},
+        {"word": "bus", "type": "noun", "difficulty": 1, "translation": "xe buýt"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 33.1,
+      "audio_timestamp_end": 36.0,
+      "text": "That's the kind of thing I mean.",
+      "tokens": [
+        {"word": "That's", "type": "pronoun", "difficulty": 1, "translation": "Đó chính là"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "định từ"},
+        {"word": "kind", "type": "noun", "difficulty": 1, "translation": "loại/kiểu"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "thing", "type": "noun", "difficulty": 1, "translation": "việc/thứ"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "mean", "type": "verb", "difficulty": 1, "translation": "muốn nói/ngụ ý"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 36.0,
+      "audio_timestamp_end": 43.1,
+      "text": "The bank holiday is coming up and as you're probably aware, it is a common time for burglary.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "định từ"},
+        {"word": "bank", "type": "noun", "difficulty": 2, "translation": "ngân hàng (kết hợp làm cụm danh từ)"},
+        {"word": "holiday", "type": "noun", "difficulty": 1, "translation": "ngày lễ chính thức/ngày nghỉ lễ"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "thì/đang"},
+        {"word": "coming", "type": "phrasal_verb", "difficulty": 2, "translation": "đến gần/sắp tới"},
+        {"word": "up", "type": "phrasal_verb", "difficulty": 2, "translation": "lên"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "as", "type": "conjunction", "difficulty": 2, "translation": "như"},
+        {"word": "you're", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "probably", "type": "adverb", "difficulty": 2, "translation": "có lẽ/chắc là"},
+        {"word": "aware", "type": "adjective", "difficulty": 3, "translation": "biết/nhận thức được"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "common", "type": "adjective", "difficulty": 2, "translation": "phổ biến"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "thời điểm/thời gian"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho/của"},
+        {"word": "burglary", "type": "noun", "difficulty": 3, "translation": "nạn trộm đột nhập vào nhà"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 43.1,
+      "audio_timestamp_end": 48.4,
+      "text": "The reason for this is that most people go away and leave their homes empty.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "định từ"},
+        {"word": "reason", "type": "noun", "difficulty": 2, "translation": "lý do"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "this", "type": "pronoun", "difficulty": 1, "translation": "điều này"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "that", "type": "conjunction", "difficulty": 1, "translation": "rằng"},
+        {"word": "most", "type": "determiner", "difficulty": 2, "translation": "hầu hết"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "mọi người"},
+        {"word": "go", "type": "phrasal_verb", "difficulty": 1, "translation": "đi"},
+        {"word": "away", "type": "phrasal_verb", "difficulty": 2, "translation": "vắng nhà/đi chơi xa"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "leave", "type": "verb", "difficulty": 2, "translation": "bỏ lại/để"},
+        {"word": "their", "type": "pronoun", "difficulty": 1, "translation": "của họ"},
+        {"word": "homes", "type": "noun", "difficulty": 1, "translation": "nhà cửa"},
+        {"word": "empty", "type": "adjective", "difficulty": 2, "translation": "trống không/không có người"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 48.4,
+      "audio_timestamp_end": 53.6,
+      "text": "It's a good idea to increase the security on your home in advance.",
+      "tokens": [
+        {"word": "It's", "type": "pronoun", "difficulty": 1, "translation": "Đó là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "good", "type": "adjective", "difficulty": 1, "translation": "tốt"},
+        {"word": "idea", "type": "noun", "difficulty": 1, "translation": "ý kiến/ý tưởng"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "increase", "type": "verb", "difficulty": 2, "translation": "tăng cường"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "định từ"},
+        {"word": "security", "type": "noun", "difficulty": 2, "translation": "sự an ninh"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "home", "type": "noun", "difficulty": 1, "translation": "ngôi nhà"},
+        {"word": "in", "type": "idiom", "difficulty": 2, "translation": "trước"},
+        {"word": "advance", "type": "idiom", "difficulty": 2, "translation": "sớm/trước"}
+      ]
+    },
+    {
+      "segment_id": 13,
+      "audio_timestamp_start": 53.6,
+      "audio_timestamp_end": 60.8,
+      "text": "For instance, it might not seem like a big deal, but reinforcing your locks is a good way for this.",
+      "tokens": [
+        {"word": "For", "type": "idiom", "difficulty": 2, "translation": "Ví"},
+        {"word": "instance", "type": "idiom", "difficulty": 2, "translation": "dụ như"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "might", "type": "verb", "difficulty": 2, "translation": "có thể"},
+        {"word": "not", "type": "adverb", "difficulty": 1, "translation": "không"},
+        {"word": "seem", "type": "verb", "difficulty": 2, "translation": "vẻ như/dường như"},
+        {"word": "like", "type": "preposition", "difficulty": 1, "translation": "như là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "big", "type": "idiom", "difficulty": 2, "translation": "vấn đề to tát/"},
+        {"word": "deal", "type": "idiom", "difficulty": 2, "translation": "chuyện lớn"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "reinforcing", "type": "verb", "difficulty": 4, "translation": "gia cố"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "locks", "type": "noun", "difficulty": 2, "translation": "ổ khóa"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "good", "type": "adjective", "difficulty": 1, "translation": "tốt"},
+        {"word": "way", "type": "noun", "difficulty": 1, "translation": "cách"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "this", "type": "pronoun", "difficulty": 1, "translation": "điều này"}
+      ]
+    },
+    {
+      "segment_id": 14,
+      "audio_timestamp_start": 60.8,
+      "audio_timestamp_end": 69.0,
+      "text": "You should also make sure you don't have any money lying around the house and that all your expensive items are well hidden.",
+      "tokens": [
+        {"word": "You", "type": "pronoun", "difficulty": 1, "translation": "Bạn"},
+        {"word": "should", "type": "verb", "difficulty": 1, "translation": "nên"},
+        {"word": "also", "type": "adverb", "difficulty": 1, "translation": "cũng"},
+        {"word": "make", "type": "idiom", "difficulty": 2, "translation": "đảm"},
+        {"word": "sure", "type": "idiom", "difficulty": 2, "translation": "bảo"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "don't", "type": "verb", "difficulty": 1, "translation": "không"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "để/có"},
+        {"word": "any", "type": "determiner", "difficulty": 1, "translation": "bất kỳ"},
+        {"word": "money", "type": "noun", "difficulty": 1, "translation": "tiền bạc"},
+        {"word": "lying", "type": "phrasal_verb", "difficulty": 3, "translation": "nằm lung tung/"},
+        {"word": "around", "type": "phrasal_verb", "difficulty": 2, "translation": "quanh"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "định từ"},
+        {"word": "house", "type": "noun", "difficulty": 1, "translation": "nhà"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "that", "type": "conjunction", "difficulty": 1, "translation": "rằng"},
+        {"word": "all", "type": "determiner", "difficulty": 1, "translation": "tất cả"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "expensive", "type": "adjective", "difficulty": 2, "translation": "đắt tiền"},
+        {"word": "items", "type": "noun", "difficulty": 2, "translation": "đồ đạc/vật dụng"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "được"},
+        {"word": "well", "type": "adverb", "difficulty": 1, "translation": "cẩn thận/kỹ càng"},
+        {"word": "hidden", "type": "verb", "difficulty": 2, "translation": "cất giấu"}
+      ]
+    }
+  ]
+}
