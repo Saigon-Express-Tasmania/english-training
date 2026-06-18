@@ -1,0 +1,490 @@
+{
+  "title": "Young Lives: Australian Party Etiquette",
+  "transcript": "This week on Young Lives, we're talking about entertainment. And we have two young people from Australia with us, Ellen and Jack. Thanks for being here. It's a pleasure. Thanks for having us on the show. So, can you give us some tips about the kinds of things young people get up to these days in Australia? What are the dos and don'ts? Well, parties are one of the main things young people are into. There are, of course, some rules for attending parties. It depends on the event, but if it's a formal occasion you should wear formal clothes. Sure, but there's less need to wear formal clothes these days. You know, there's no need to wear a suit except for a graduation party maybe. Right. What about when you go to someone's house? Are there any things you should or shouldn't do? Well, obviously it depends. Being late for a party is definitely something you shouldn't do. Being on time is very important, especially if you're served dinner. Right. And you need to take a gift, like some flowers or something to drink with the food. That's right. Or some snacks maybe. Is there a difference between the kinds of parties young people go to and the kinds older people attend? Well, of course. The ones we go to are usually more relaxing. Yeah. There are no rules about how you should dress or behave. But you shouldn't be rude to the host. And you should make sure you don't drink too much alcohol. Yeah, that's very important.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 3.0,
+      "text": "This week on Young Lives, we're talking about entertainment.",
+      "tokens": [
+        {"word": "This", "type": "determiner", "difficulty": 1, "translation": "Này"},
+        {"word": "week", "type": "noun", "difficulty": 1, "translation": "tuần"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "trên"},
+        {"word": "Young", "type": "adjective", "difficulty": 1, "translation": "Trẻ"},
+        {"word": "Lives", "type": "noun", "difficulty": 1, "translation": "Cuộc sống"},
+        {"word": "we're", "type": "contraction", "difficulty": 1, "translation": "chúng tôi đang"},
+        {"word": "talking", "type": "verb", "difficulty": 1, "translation": "nói chuyện"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "entertainment", "type": "noun", "difficulty": 2, "translation": "giải trí"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 3.5,
+      "audio_timestamp_end": 7.0,
+      "text": "And we have two young people from Australia with us, Ellen and Jack.",
+      "tokens": [
+        {"word": "And", "type": "conjunction", "difficulty": 1, "translation": "Và"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "two", "type": "number", "difficulty": 1, "translation": "hai"},
+        {"word": "young", "type": "adjective", "difficulty": 1, "translation": "trẻ"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "Australia", "type": "noun", "difficulty": 1, "translation": "Úc"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "us", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "Ellen", "type": "noun", "difficulty": 1, "translation": "Ellen"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "Jack", "type": "noun", "difficulty": 1, "translation": "Jack"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 7.0,
+      "audio_timestamp_end": 9.0,
+      "text": "Thanks for being here.",
+      "tokens": [
+        {"word": "Thanks", "type": "noun", "difficulty": 1, "translation": "Cảm ơn"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "vì"},
+        {"word": "being", "type": "verb", "difficulty": 1, "translation": "đã ở"},
+        {"word": "here", "type": "adverb", "difficulty": 1, "translation": "đây"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 9.5,
+      "audio_timestamp_end": 10.5,
+      "text": "It's a pleasure.",
+      "tokens": [
+        {"word": "It's", "type": "contraction", "difficulty": 1, "translation": "Đó là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "pleasure", "type": "noun", "difficulty": 2, "translation": "niềm vinh hạnh"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 10.5,
+      "audio_timestamp_end": 13.0,
+      "text": "Thanks for having us on the show.",
+      "tokens": [
+        {"word": "Thanks", "type": "noun", "difficulty": 1, "translation": "Cảm ơn"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "vì"},
+        {"word": "having", "type": "verb", "difficulty": 1, "translation": "đã mời"},
+        {"word": "us", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "trên"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "chương trình"},
+        {"word": "show", "type": "noun", "difficulty": 1, "translation": "biểu diễn/chương trình"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 13.5,
+      "audio_timestamp_end": 19.5,
+      "text": "So, can you give us some tips about the kinds of things young people get up to these days in Australia?",
+      "tokens": [
+        {"word": "So", "type": "conjunction", "difficulty": 1, "translation": "Vậy"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "give", "type": "verb", "difficulty": 1, "translation": "cho"},
+        {"word": "us", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "some", "type": "determiner", "difficulty": 1, "translation": "một vài"},
+        {"word": "tips", "type": "noun", "difficulty": 1, "translation": "lời khuyên"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "kinds", "type": "noun", "difficulty": 1, "translation": "loại"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "things", "type": "noun", "difficulty": 1, "translation": "những thứ"},
+        {"word": "young", "type": "adjective", "difficulty": 1, "translation": "trẻ"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người"},
+        {"word": "get", "type": "verb", "difficulty": 1, "translation": "làm"},
+        {"word": "up", "type": "preposition", "difficulty": 1, "translation": "lên"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "đến"},
+        {"word": "these", "type": "determiner", "difficulty": 1, "translation": "những"},
+        {"word": "days", "type": "noun", "difficulty": 1, "translation": "ngày"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở"},
+        {"word": "Australia", "type": "noun", "difficulty": 1, "translation": "Úc"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 20.0,
+      "audio_timestamp_end": 22.0,
+      "text": "What are the dos and don'ts?",
+      "tokens": [
+        {"word": "What", "type": "pronoun", "difficulty": 1, "translation": "Cái gì"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "dos", "type": "noun", "difficulty": 2, "translation": "điều nên làm"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "don'ts", "type": "noun", "difficulty": 2, "translation": "điều không nên làm"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 22.5,
+      "audio_timestamp_end": 26.5,
+      "text": "Well, parties are one of the main things young people are into.",
+      "tokens": [
+        {"word": "Well", "type": "interjection", "difficulty": 1, "translation": "À/Chà"},
+        {"word": "parties", "type": "noun", "difficulty": 1, "translation": "những bữa tiệc"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "one", "type": "number", "difficulty": 1, "translation": "một"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "main", "type": "adjective", "difficulty": 1, "translation": "chính"},
+        {"word": "things", "type": "noun", "difficulty": 1, "translation": "thứ"},
+        {"word": "young", "type": "adjective", "difficulty": 1, "translation": "trẻ"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "đang"},
+        {"word": "into", "type": "preposition", "difficulty": 1, "translation": "thích/quan tâm"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 27.0,
+      "audio_timestamp_end": 30.5,
+      "text": "There are, of course, some rules for attending parties.",
+      "tokens": [
+        {"word": "There", "type": "adverb", "difficulty": 1, "translation": "Có"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là/có"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "tất"},
+        {"word": "course", "type": "noun", "difficulty": 1, "translation": "nhiên"},
+        {"word": "some", "type": "determiner", "difficulty": 1, "translation": "một vài"},
+        {"word": "rules", "type": "noun", "difficulty": 2, "translation": "quy tắc"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "attending", "type": "verb", "difficulty": 2, "translation": "tham dự"},
+        {"word": "parties", "type": "noun", "difficulty": 1, "translation": "những bữa tiệc"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 31.0,
+      "audio_timestamp_end": 35.5,
+      "text": "It depends on the event, but if it's a formal occasion you should wear formal clothes.",
+      "tokens": [
+        {"word": "It", "type": "pronoun", "difficulty": 1, "translation": "Nó"},
+        {"word": "depends", "type": "verb", "difficulty": 2, "translation": "phụ thuộc"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "vào"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "sự"},
+        {"word": "event", "type": "noun", "difficulty": 1, "translation": "kiện"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "if", "type": "conjunction", "difficulty": 1, "translation": "nếu"},
+        {"word": "it's", "type": "contraction", "difficulty": 1, "translation": "nó là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "formal", "type": "adjective", "difficulty": 2, "translation": "trang trọng"},
+        {"word": "occasion", "type": "noun", "difficulty": 2, "translation": "dịp"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "should", "type": "verb", "difficulty": 1, "translation": "nên"},
+        {"word": "wear", "type": "verb", "difficulty": 1, "translation": "mặc"},
+        {"word": "formal", "type": "adjective", "difficulty": 2, "translation": "trang trọng"},
+        {"word": "clothes", "type": "noun", "difficulty": 1, "translation": "quần áo"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 36.0,
+      "audio_timestamp_end": 39.5,
+      "text": "Sure, but there's less need to wear formal clothes these days.",
+      "tokens": [
+        {"word": "Sure", "type": "adjective", "difficulty": 1, "translation": "Chắc chắn rồi"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "there's", "type": "contraction", "difficulty": 1, "translation": "có"},
+        {"word": "less", "type": "adverb", "difficulty": 1, "translation": "ít hơn"},
+        {"word": "need", "type": "noun", "difficulty": 1, "translation": "nhu cầu"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "wear", "type": "verb", "difficulty": 1, "translation": "mặc"},
+        {"word": "formal", "type": "adjective", "difficulty": 2, "translation": "trang trọng"},
+        {"word": "clothes", "type": "noun", "difficulty": 1, "translation": "quần áo"},
+        {"word": "these", "type": "determiner", "difficulty": 1, "translation": "những"},
+        {"word": "days", "type": "noun", "difficulty": 1, "translation": "ngày nay"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 40.0,
+      "audio_timestamp_end": 45.0,
+      "text": "You know, there's no need to wear a suit except for a graduation party maybe.",
+      "tokens": [
+        {"word": "You", "type": "pronoun", "difficulty": 1, "translation": "Bạn"},
+        {"word": "know", "type": "verb", "difficulty": 1, "translation": "biết đấy"},
+        {"word": "there's", "type": "contraction", "difficulty": 1, "translation": "không có"},
+        {"word": "no", "type": "determiner", "difficulty": 1, "translation": "không có"},
+        {"word": "need", "type": "noun", "difficulty": 1, "translation": "nhu cầu"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "wear", "type": "verb", "difficulty": 1, "translation": "mặc"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "suit", "type": "noun", "difficulty": 1, "translation": "bộ vest"},
+        {"word": "except", "type": "preposition", "difficulty": 2, "translation": "ngoại trừ"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "graduation", "type": "noun", "difficulty": 2, "translation": "tốt nghiệp"},
+        {"word": "party", "type": "noun", "difficulty": 1, "translation": "bữa tiệc"},
+        {"word": "maybe", "type": "adverb", "difficulty": 1, "translation": "có lẽ"}
+      ]
+    },
+    {
+      "segment_id": 13,
+      "audio_timestamp_start": 45.5,
+      "audio_timestamp_end": 46.5,
+      "text": "Right.",
+      "tokens": [
+        {"word": "Right", "type": "adjective", "difficulty": 1, "translation": "Đúng vậy"}
+      ]
+    },
+    {
+      "segment_id": 14,
+      "audio_timestamp_start": 47.0,
+      "audio_timestamp_end": 49.0,
+      "text": "What about when you go to someone's house?",
+      "tokens": [
+        {"word": "What", "type": "pronoun", "difficulty": 1, "translation": "Thế còn"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "when", "type": "adverb", "difficulty": 1, "translation": "khi"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "go", "type": "verb", "difficulty": 1, "translation": "đi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "đến"},
+        {"word": "someone's", "type": "noun", "difficulty": 1, "translation": "của ai đó"},
+        {"word": "house", "type": "noun", "difficulty": 1, "translation": "nhà"}
+      ]
+    },
+    {
+      "segment_id": 15,
+      "audio_timestamp_start": 49.5,
+      "audio_timestamp_end": 52.0,
+      "text": "Are there any things you should or shouldn't do?",
+      "tokens": [
+        {"word": "Are", "type": "verb", "difficulty": 1, "translation": "Có"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "không"},
+        {"word": "any", "type": "determiner", "difficulty": 1, "translation": "bất kỳ"},
+        {"word": "things", "type": "noun", "difficulty": 1, "translation": "điều gì"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "should", "type": "verb", "difficulty": 1, "translation": "nên"},
+        {"word": "or", "type": "conjunction", "difficulty": 1, "translation": "hoặc"},
+        {"word": "shouldn't", "type": "contraction", "difficulty": 1, "translation": "không nên"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "làm"}
+      ]
+    },
+    {
+      "segment_id": 16,
+      "audio_timestamp_start": 52.5,
+      "audio_timestamp_end": 55.0,
+      "text": "Well, obviously it depends.",
+      "tokens": [
+        {"word": "Well", "type": "interjection", "difficulty": 1, "translation": "À"},
+        {"word": "obviously", "type": "adverb", "difficulty": 2, "translation": "rõ ràng là"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "depends", "type": "verb", "difficulty": 1, "translation": "phụ thuộc"}
+      ]
+    },
+    {
+      "segment_id": 17,
+      "audio_timestamp_start": 55.5,
+      "audio_timestamp_end": 59.5,
+      "text": "Being late for a party is definitely something you shouldn't do.",
+      "tokens": [
+        {"word": "Being", "type": "verb", "difficulty": 1, "translation": "Việc đến"},
+        {"word": "late", "type": "adjective", "difficulty": 1, "translation": "trễ"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "party", "type": "noun", "difficulty": 1, "translation": "bữa tiệc"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "definitely", "type": "adverb", "difficulty": 2, "translation": "chắc chắn"},
+        {"word": "something", "type": "pronoun", "difficulty": 1, "translation": "điều gì đó"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "shouldn't", "type": "contraction", "difficulty": 1, "translation": "không nên"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "làm"}
+      ]
+    },
+    {
+      "segment_id": 18,
+      "audio_timestamp_start": 60.0,
+      "audio_timestamp_end": 64.5,
+      "text": "Being on time is very important, especially if you're served dinner.",
+      "tokens": [
+        {"word": "Being", "type": "verb", "difficulty": 1, "translation": "Đến"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "đúng"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "giờ"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "very", "type": "adverb", "difficulty": 1, "translation": "rất"},
+        {"word": "important", "type": "adjective", "difficulty": 1, "translation": "quan trọng"},
+        {"word": "especially", "type": "adverb", "difficulty": 2, "translation": "đặc biệt là"},
+        {"word": "if", "type": "conjunction", "difficulty": 1, "translation": "nếu"},
+        {"word": "you're", "type": "contraction", "difficulty": 1, "translation": "bạn được"},
+        {"word": "served", "type": "verb", "difficulty": 2, "translation": "phục vụ"},
+        {"word": "dinner", "type": "noun", "difficulty": 1, "translation": "bữa tối"}
+      ]
+    },
+    {
+      "segment_id": 19,
+      "audio_timestamp_start": 65.0,
+      "audio_timestamp_end": 65.5,
+      "text": "Right.",
+      "tokens": [
+        {"word": "Right", "type": "adjective", "difficulty": 1, "translation": "Đúng vậy"}
+      ]
+    },
+    {
+      "segment_id": 20,
+      "audio_timestamp_start": 66.0,
+      "audio_timestamp_end": 71.0,
+      "text": "And you need to take a gift, like some flowers or something to drink with the food.",
+      "tokens": [
+        {"word": "And", "type": "conjunction", "difficulty": 1, "translation": "Và"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "need", "type": "verb", "difficulty": 1, "translation": "cần"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "take", "type": "verb", "difficulty": 1, "translation": "mang theo"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "gift", "type": "noun", "difficulty": 1, "translation": "món quà"},
+        {"word": "like", "type": "preposition", "difficulty": 1, "translation": "như"},
+        {"word": "some", "type": "determiner", "difficulty": 1, "translation": "một vài"},
+        {"word": "flowers", "type": "noun", "difficulty": 1, "translation": "bông hoa"},
+        {"word": "or", "type": "conjunction", "difficulty": 1, "translation": "hoặc"},
+        {"word": "something", "type": "pronoun", "difficulty": 1, "translation": "thứ gì đó"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "drink", "type": "verb", "difficulty": 1, "translation": "uống"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "cùng với"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "thức"},
+        {"word": "food", "type": "noun", "difficulty": 1, "translation": "ăn"}
+      ]
+    },
+    {
+      "segment_id": 21,
+      "audio_timestamp_start": 71.5,
+      "audio_timestamp_end": 72.5,
+      "text": "That's right.",
+      "tokens": [
+        {"word": "That's", "type": "contraction", "difficulty": 1, "translation": "Điều đó"},
+        {"word": "right", "type": "adjective", "difficulty": 1, "translation": "đúng"}
+      ]
+    },
+    {
+      "segment_id": 22,
+      "audio_timestamp_start": 73.0,
+      "audio_timestamp_end": 74.5,
+      "text": "Or some snacks maybe.",
+      "tokens": [
+        {"word": "Or", "type": "conjunction", "difficulty": 1, "translation": "Hoặc"},
+        {"word": "some", "type": "determiner", "difficulty": 1, "translation": "vài"},
+        {"word": "snacks", "type": "noun", "difficulty": 1, "translation": "món ăn nhẹ"},
+        {"word": "maybe", "type": "adverb", "difficulty": 1, "translation": "có lẽ"}
+      ]
+    },
+    {
+      "segment_id": 23,
+      "audio_timestamp_start": 75.0,
+      "audio_timestamp_end": 80.5,
+      "text": "Is there a difference between the kinds of parties young people go to and the kinds older people attend?",
+      "tokens": [
+        {"word": "Is", "type": "verb", "difficulty": 1, "translation": "Có"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "sự"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "difference", "type": "noun", "difficulty": 1, "translation": "khác biệt"},
+        {"word": "between", "type": "preposition", "difficulty": 1, "translation": "giữa"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "kinds", "type": "noun", "difficulty": 1, "translation": "loại"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "tiệc"},
+        {"word": "parties", "type": "noun", "difficulty": 1, "translation": "những bữa tiệc"},
+        {"word": "young", "type": "adjective", "difficulty": 1, "translation": "người trẻ"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người"},
+        {"word": "go", "type": "verb", "difficulty": 1, "translation": "đi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "tới"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "kinds", "type": "noun", "difficulty": 1, "translation": "loại"},
+        {"word": "older", "type": "adjective", "difficulty": 1, "translation": "người lớn tuổi"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người"},
+        {"word": "attend", "type": "verb", "difficulty": 2, "translation": "tham dự"}
+      ]
+    },
+    {
+      "segment_id": 24,
+      "audio_timestamp_start": 81.0,
+      "audio_timestamp_end": 85.0,
+      "text": "Well, of course. The ones we go to are usually more relaxing.",
+      "tokens": [
+        {"word": "Well", "type": "interjection", "difficulty": 1, "translation": "À"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "tất"},
+        {"word": "course", "type": "noun", "difficulty": 1, "translation": "nhiên rồi"},
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Những"},
+        {"word": "ones", "type": "noun", "difficulty": 1, "translation": "bữa tiệc"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "go", "type": "verb", "difficulty": 1, "translation": "đi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "tới"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "thì"},
+        {"word": "usually", "type": "adverb", "difficulty": 1, "translation": "thường"},
+        {"word": "more", "type": "adverb", "difficulty": 1, "translation": "hơn"},
+        {"word": "relaxing", "type": "adjective", "difficulty": 1, "translation": "thư giãn"}
+      ]
+    },
+    {
+      "segment_id": 25,
+      "audio_timestamp_start": 85.5,
+      "audio_timestamp_end": 90.0,
+      "text": "Yeah. There are no rules about how you should dress or behave.",
+      "tokens": [
+        {"word": "Yeah", "type": "interjection", "difficulty": 1, "translation": "Vâng"},
+        {"word": "There", "type": "adverb", "difficulty": 1, "translation": "Không có"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "no", "type": "determiner", "difficulty": 1, "translation": "không có"},
+        {"word": "rules", "type": "noun", "difficulty": 2, "translation": "quy tắc"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "how", "type": "adverb", "difficulty": 1, "translation": "cách"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "should", "type": "verb", "difficulty": 1, "translation": "nên"},
+        {"word": "dress", "type": "verb", "difficulty": 1, "translation": "ăn mặc"},
+        {"word": "or", "type": "conjunction", "difficulty": 1, "translation": "hoặc"},
+        {"word": "behave", "type": "verb", "difficulty": 2, "translation": "cư xử"}
+      ]
+    },
+    {
+      "segment_id": 26,
+      "audio_timestamp_start": 90.5,
+      "audio_timestamp_end": 93.0,
+      "text": "But you shouldn't be rude to the host.",
+      "tokens": [
+        {"word": "But", "type": "conjunction", "difficulty": 1, "translation": "Nhưng"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "shouldn't", "type": "contraction", "difficulty": 1, "translation": "không nên"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "tỏ ra"},
+        {"word": "rude", "type": "adjective", "difficulty": 2, "translation": "thô lỗ"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "người"},
+        {"word": "host", "type": "noun", "difficulty": 2, "translation": "chủ nhà"}
+      ]
+    },
+    {
+      "segment_id": 27,
+      "audio_timestamp_start": 93.5,
+      "audio_timestamp_end": 97.0,
+      "text": "And you should make sure you don't drink too much alcohol.",
+      "tokens": [
+        {"word": "And", "type": "conjunction", "difficulty": 1, "translation": "Và"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "should", "type": "verb", "difficulty": 1, "translation": "nên"},
+        {"word": "make", "type": "verb", "difficulty": 1, "translation": "chắc"},
+        {"word": "sure", "type": "adjective", "difficulty": 1, "translation": "chắn"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "don't", "type": "contraction", "difficulty": 1, "translation": "không"},
+        {"word": "drink", "type": "verb", "difficulty": 1, "translation": "uống"},
+        {"word": "too", "type": "adverb", "difficulty": 1, "translation": "quá"},
+        {"word": "much", "type": "adverb", "difficulty": 1, "translation": "nhiều"},
+        {"word": "alcohol", "type": "noun", "difficulty": 2, "translation": "rượu bia"}
+      ]
+    },
+    {
+      "segment_id": 28,
+      "audio_timestamp_start": 97.5,
+      "audio_timestamp_end": 100.0,
+      "text": "Yeah, that's very important.",
+      "tokens": [
+        {"word": "Yeah", "type": "interjection", "difficulty": 1, "translation": "Vâng"},
+        {"word": "that's", "type": "contraction", "difficulty": 1, "translation": "điều đó thì"},
+        {"word": "very", "type": "adverb", "difficulty": 1, "translation": "rất"},
+        {"word": "important", "type": "adjective", "difficulty": 1, "translation": "quan trọng"}
+      ]
+    }
+  ]
+}

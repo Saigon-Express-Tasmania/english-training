@@ -1,0 +1,171 @@
+{
+  "title": "Media and Privacy: The Role of Journalists",
+  "transcript": "That may be true, but there are some people who think journalists are doing a good job. They argue that taking photographs of famous people is an essential aspect of news reporting, and that they are providing an important public service. Do you think that the media should respect celebrities' privacy? I agree that this job is important. Even so, some journalists' behavior is illegal and as their work is profitable, they tend not to care too much about expensive legal costs. One particular example is the death of Diana, Princess of Wales in 1997. In recent years, a number of celebrities have taken legal action against the paparazzi.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 4.5,
+      "text": "That may be true, but there are some people who think journalists are doing a good job.",
+      "tokens": [
+        {"word": "That", "type": "pronoun", "difficulty": 1, "translation": "Đó"},
+        {"word": "may", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "true", "type": "adjective", "difficulty": 1, "translation": "đúng"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "ở đó/có"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là/có"},
+        {"word": "some", "type": "determiner", "difficulty": 1, "translation": "một vài"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người"},
+        {"word": "who", "type": "pronoun", "difficulty": 1, "translation": "người mà"},
+        {"word": "think", "type": "verb", "difficulty": 1, "translation": "nghĩ"},
+        {"word": "journalists", "type": "noun", "difficulty": 2, "translation": "nhà báo"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "đang"},
+        {"word": "doing", "type": "verb", "difficulty": 1, "translation": "làm"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "good", "type": "adjective", "difficulty": 1, "translation": "tốt"},
+        {"word": "job", "type": "noun", "difficulty": 1, "translation": "công việc"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 4.5,
+      "audio_timestamp_end": 13.0,
+      "text": "They argue that taking photographs of famous people is an essential aspect of news reporting, and that they are providing an important public service.",
+      "tokens": [
+        {"word": "They", "type": "pronoun", "difficulty": 1, "translation": "Họ"},
+        {"word": "argue", "type": "verb", "difficulty": 2, "translation": "tranh luận/cho rằng"},
+        {"word": "that", "type": "conjunction", "difficulty": 1, "translation": "rằng"},
+        {"word": "taking", "type": "verb", "difficulty": 1, "translation": "chụp/lấy"},
+        {"word": "photographs", "type": "noun", "difficulty": 1, "translation": "bức ảnh"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "famous", "type": "adjective", "difficulty": 1, "translation": "nổi tiếng"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "an", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "essential", "type": "adjective", "difficulty": 2, "translation": "thiết yếu"},
+        {"word": "aspect", "type": "noun", "difficulty": 2, "translation": "khía cạnh"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "news", "type": "noun", "difficulty": 1, "translation": "tin tức"},
+        {"word": "reporting", "type": "noun", "difficulty": 2, "translation": "việc đưa tin"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "that", "type": "conjunction", "difficulty": 1, "translation": "rằng"},
+        {"word": "they", "type": "pronoun", "difficulty": 1, "translation": "họ"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "đang"},
+        {"word": "providing", "type": "verb", "difficulty": 2, "translation": "cung cấp"},
+        {"word": "an", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "important", "type": "adjective", "difficulty": 1, "translation": "quan trọng"},
+        {"word": "public", "type": "adjective", "difficulty": 1, "translation": "công cộng"},
+        {"word": "service", "type": "noun", "difficulty": 1, "translation": "dịch vụ"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 13.0,
+      "audio_timestamp_end": 17.0,
+      "text": "Do you think that the media should respect celebrities' privacy?",
+      "tokens": [
+        {"word": "Do", "type": "verb", "difficulty": 1, "translation": "Làm/Trợ động từ"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "think", "type": "verb", "difficulty": 1, "translation": "nghĩ"},
+        {"word": "that", "type": "conjunction", "difficulty": 1, "translation": "rằng"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "media", "type": "noun", "difficulty": 2, "translation": "truyền thông"},
+        {"word": "should", "type": "verb", "difficulty": 1, "translation": "nên"},
+        {"word": "respect", "type": "verb", "difficulty": 2, "translation": "tôn trọng"},
+        {"word": "celebrities", "type": "noun", "difficulty": 2, "translation": "người nổi tiếng"},
+        {"word": "privacy", "type": "noun", "difficulty": 2, "translation": "sự riêng tư"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 17.0,
+      "audio_timestamp_end": 19.5,
+      "text": "I agree that this job is important.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "agree", "type": "verb", "difficulty": 1, "translation": "đồng ý"},
+        {"word": "that", "type": "conjunction", "difficulty": 1, "translation": "rằng"},
+        {"word": "this", "type": "determiner", "difficulty": 1, "translation": "này"},
+        {"word": "job", "type": "noun", "difficulty": 1, "translation": "công việc"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "important", "type": "adjective", "difficulty": 1, "translation": "quan trọng"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 19.5,
+      "audio_timestamp_end": 29.0,
+      "text": "Even so, some journalists' behavior is illegal and as their work is profitable, they tend not to care too much about expensive legal costs.",
+      "tokens": [
+        {"word": "Even", "type": "adverb", "difficulty": 1, "translation": "Ngay cả"},
+        {"word": "so", "type": "adverb", "difficulty": 1, "translation": "như vậy"},
+        {"word": "some", "type": "determiner", "difficulty": 1, "translation": "một vài"},
+        {"word": "journalists", "type": "noun", "difficulty": 2, "translation": "nhà báo"},
+        {"word": "behavior", "type": "noun", "difficulty": 2, "translation": "hành vi"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "illegal", "type": "adjective", "difficulty": 2, "translation": "bất hợp pháp"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "as", "type": "conjunction", "difficulty": 1, "translation": "bởi vì/khi"},
+        {"word": "their", "type": "pronoun", "difficulty": 1, "translation": "của họ"},
+        {"word": "work", "type": "noun", "difficulty": 1, "translation": "công việc"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "profitable", "type": "adjective", "difficulty": 3, "translation": "có lợi nhuận"},
+        {"word": "they", "type": "pronoun", "difficulty": 1, "translation": "họ"},
+        {"word": "tend", "type": "verb", "difficulty": 2, "translation": "có xu hướng"},
+        {"word": "not", "type": "adverb", "difficulty": 1, "translation": "không"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "care", "type": "verb", "difficulty": 1, "translation": "quan tâm"},
+        {"word": "too", "type": "adverb", "difficulty": 1, "translation": "quá"},
+        {"word": "much", "type": "adverb", "difficulty": 1, "translation": "nhiều"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "expensive", "type": "adjective", "difficulty": 1, "translation": "đắt đỏ"},
+        {"word": "legal", "type": "adjective", "difficulty": 2, "translation": "thuộc về pháp lý"},
+        {"word": "costs", "type": "noun", "difficulty": 2, "translation": "chi phí"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 29.0,
+      "audio_timestamp_end": 35.0,
+      "text": "One particular example is the death of Diana, Princess of Wales in 1997.",
+      "tokens": [
+        {"word": "One", "type": "number", "difficulty": 1, "translation": "Một"},
+        {"word": "particular", "type": "adjective", "difficulty": 2, "translation": "cụ thể"},
+        {"word": "example", "type": "noun", "difficulty": 1, "translation": "ví dụ"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/sự"},
+        {"word": "death", "type": "noun", "difficulty": 1, "translation": "cái chết"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "Diana", "type": "noun", "difficulty": 1, "translation": "Diana"},
+        {"word": "Princess", "type": "noun", "difficulty": 2, "translation": "Công chúa"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "Wales", "type": "noun", "difficulty": 1, "translation": "xứ Wales"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "vào năm"},
+        {"word": "1997", "type": "number", "difficulty": 1, "translation": "1997"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 35.0,
+      "audio_timestamp_end": 42.0,
+      "text": "In recent years, a number of celebrities have taken legal action against the paparazzi.",
+      "tokens": [
+        {"word": "In", "type": "preposition", "difficulty": 1, "translation": "Trong"},
+        {"word": "recent", "type": "adjective", "difficulty": 1, "translation": "gần đây"},
+        {"word": "years", "type": "noun", "difficulty": 1, "translation": "những năm"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "number", "type": "noun", "difficulty": 1, "translation": "số lượng"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "celebrities", "type": "noun", "difficulty": 2, "translation": "người nổi tiếng"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "đã"},
+        {"word": "taken", "type": "verb", "difficulty": 2, "translation": "thực hiện"},
+        {"word": "legal", "type": "adjective", "difficulty": 2, "translation": "pháp lý"},
+        {"word": "action", "type": "noun", "difficulty": 2, "translation": "hành động"},
+        {"word": "against", "type": "preposition", "difficulty": 2, "translation": "chống lại"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "paparazzi", "type": "noun", "difficulty": 3, "translation": "thợ săn ảnh"}
+      ]
+    }
+  ]
+}

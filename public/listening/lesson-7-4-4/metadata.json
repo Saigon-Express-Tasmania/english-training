@@ -1,0 +1,200 @@
+{
+  "title": "Meeting an Old Acquaintance",
+  "transcript": "Hi, I'm Catherine. Do you remember me? Catherine? We met at Jeremy's party last week. Sorry, whose party again? Jeremy's? Oh, I remember you. Are you from South America? Yes. What are you doing? I'm a writer. Really? That's amazing. Thanks. How about you? I'm an engineer. Oh yes, my brother is also an engineer, and he graduated from Imperial College London. No way. Me too.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 2.0,
+      "text": "Hi, I'm Catherine.",
+      "tokens": [
+        {"word": "Hi", "type": "interjection", "difficulty": 1, "translation": "Chào"},
+        {"word": "I'm", "type": "contraction", "difficulty": 1, "translation": "tôi là"},
+        {"word": "Catherine", "type": "noun", "difficulty": 1, "translation": "Catherine"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 2.5,
+      "audio_timestamp_end": 4.0,
+      "text": "Do you remember me?",
+      "tokens": [
+        {"word": "Do", "type": "verb", "difficulty": 1, "translation": "Trợ động từ"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "remember", "type": "verb", "difficulty": 1, "translation": "nhớ"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 4.5,
+      "audio_timestamp_end": 5.5,
+      "text": "Catherine?",
+      "tokens": [
+        {"word": "Catherine", "type": "noun", "difficulty": 1, "translation": "Catherine"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 6.0,
+      "audio_timestamp_end": 9.5,
+      "text": "We met at Jeremy's party last week.",
+      "tokens": [
+        {"word": "We", "type": "pronoun", "difficulty": 1, "translation": "Chúng ta"},
+        {"word": "met", "type": "verb", "difficulty": 1, "translation": "đã gặp"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "tại"},
+        {"word": "Jeremy's", "type": "noun", "difficulty": 1, "translation": "của Jeremy"},
+        {"word": "party", "type": "noun", "difficulty": 1, "translation": "bữa tiệc"},
+        {"word": "last", "type": "adjective", "difficulty": 1, "translation": "trước"},
+        {"word": "week", "type": "noun", "difficulty": 1, "translation": "tuần"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 10.0,
+      "audio_timestamp_end": 12.0,
+      "text": "Sorry, whose party again?",
+      "tokens": [
+        {"word": "Sorry", "type": "adjective", "difficulty": 1, "translation": "Xin lỗi"},
+        {"word": "whose", "type": "pronoun", "difficulty": 1, "translation": "của ai"},
+        {"word": "party", "type": "noun", "difficulty": 1, "translation": "bữa tiệc"},
+        {"word": "again", "type": "adverb", "difficulty": 1, "translation": "lại"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 12.5,
+      "audio_timestamp_end": 13.5,
+      "text": "Jeremy's?",
+      "tokens": [
+        {"word": "Jeremy's", "type": "noun", "difficulty": 1, "translation": "Của Jeremy"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 14.0,
+      "audio_timestamp_end": 16.0,
+      "text": "Oh, I remember you.",
+      "tokens": [
+        {"word": "Oh", "type": "interjection", "difficulty": 1, "translation": "Ồ"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "remember", "type": "verb", "difficulty": 1, "translation": "nhớ"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 16.5,
+      "audio_timestamp_end": 18.5,
+      "text": "Are you from South America?",
+      "tokens": [
+        {"word": "Are", "type": "verb", "difficulty": 1, "translation": "Có phải"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "South", "type": "adjective", "difficulty": 1, "translation": "Nam"},
+        {"word": "America", "type": "noun", "difficulty": 1, "translation": "Mỹ"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 19.0,
+      "audio_timestamp_end": 19.5,
+      "text": "Yes.",
+      "tokens": [
+        {"word": "Yes", "type": "interjection", "difficulty": 1, "translation": "Vâng"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 20.0,
+      "audio_timestamp_end": 21.5,
+      "text": "What are you doing?",
+      "tokens": [
+        {"word": "What", "type": "pronoun", "difficulty": 1, "translation": "Nghề gì / Cái gì"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "doing", "type": "verb", "difficulty": 1, "translation": "làm"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 22.0,
+      "audio_timestamp_end": 23.5,
+      "text": "I'm a writer.",
+      "tokens": [
+        {"word": "I'm", "type": "contraction", "difficulty": 1, "translation": "Tôi là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "writer", "type": "noun", "difficulty": 1, "translation": "nhà văn"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 24.0,
+      "audio_timestamp_end": 26.5,
+      "text": "Really? That's amazing.",
+      "tokens": [
+        {"word": "Really", "type": "adverb", "difficulty": 1, "translation": "Thật sao"},
+        {"word": "That's", "type": "contraction", "difficulty": 1, "translation": "Điều đó thật"},
+        {"word": "amazing", "type": "adjective", "difficulty": 1, "translation": "tuyệt vời"}
+      ]
+    },
+    {
+      "segment_id": 13,
+      "audio_timestamp_start": 27.0,
+      "audio_timestamp_end": 29.0,
+      "text": "Thanks. How about you?",
+      "tokens": [
+        {"word": "Thanks", "type": "noun", "difficulty": 1, "translation": "Cảm ơn"},
+        {"word": "How", "type": "adverb", "difficulty": 1, "translation": "Thế còn"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"}
+      ]
+    },
+    {
+      "segment_id": 14,
+      "audio_timestamp_start": 29.5,
+      "audio_timestamp_end": 31.0,
+      "text": "I'm an engineer.",
+      "tokens": [
+        {"word": "I'm", "type": "contraction", "difficulty": 1, "translation": "Tôi là"},
+        {"word": "an", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "engineer", "type": "noun", "difficulty": 1, "translation": "kỹ sư"}
+      ]
+    },
+    {
+      "segment_id": 15,
+      "audio_timestamp_start": 31.5,
+      "audio_timestamp_end": 38.0,
+      "text": "Oh yes, my brother is also an engineer, and he graduated from Imperial College London.",
+      "tokens": [
+        {"word": "Oh", "type": "interjection", "difficulty": 1, "translation": "Ồ"},
+        {"word": "yes", "type": "interjection", "difficulty": 1, "translation": "vâng"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "brother", "type": "noun", "difficulty": 1, "translation": "anh/em trai"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "thì"},
+        {"word": "also", "type": "adverb", "difficulty": 1, "translation": "cũng"},
+        {"word": "an", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "engineer", "type": "noun", "difficulty": 1, "translation": "kỹ sư"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "he", "type": "pronoun", "difficulty": 1, "translation": "anh ấy"},
+        {"word": "graduated", "type": "verb", "difficulty": 2, "translation": "đã tốt nghiệp"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "Imperial", "type": "adjective", "difficulty": 2, "translation": "Imperial"},
+        {"word": "College", "type": "noun", "difficulty": 1, "translation": "Trường cao đẳng/đại học"},
+        {"word": "London", "type": "noun", "difficulty": 1, "translation": "Luân Đôn"}
+      ]
+    },
+    {
+      "segment_id": 16,
+      "audio_timestamp_start": 38.5,
+      "audio_timestamp_end": 41.0,
+      "text": "No way. Me too.",
+      "tokens": [
+        {"word": "No", "type": "interjection", "difficulty": 1, "translation": "Không"},
+        {"word": "way", "type": "noun", "difficulty": 1, "translation": "thể nào"},
+        {"word": "Me", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "too", "type": "adverb", "difficulty": 1, "translation": "cũng vậy"}
+      ]
+    }
+  ]
+}

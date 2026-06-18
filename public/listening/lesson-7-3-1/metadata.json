@@ -1,0 +1,205 @@
+{
+  "title": "Regional Food and Dietary Habits in China",
+  "transcript": "I love so many different kinds of food. You know how huge our country is. People in the coastal regions are usually big on seafood. They love to eat fish, shrimps and crabs, anything from the ocean. In the western region of China, people tend to eat spicy food with lots of peppers. In the north, people eat dumplings and a lot of fried food. In general, rice and vegetables make up the main daily diet of the Chinese. My favorite type of food is hot pot. I am sure you are familiar with Sichuan cuisine. They fry red hot chilies with meat or vegetables. Everything is so tasty and colorful.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 2.5,
+      "text": "I love so many different kinds of food.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "love", "type": "verb", "difficulty": 1, "translation": "yêu/thích"},
+        {"word": "so", "type": "adverb", "difficulty": 1, "translation": "rất"},
+        {"word": "many", "type": "determiner", "difficulty": 1, "translation": "nhiều"},
+        {"word": "different", "type": "adjective", "difficulty": 1, "translation": "khác nhau"},
+        {"word": "kinds", "type": "noun", "difficulty": 1, "translation": "loại"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "food", "type": "noun", "difficulty": 1, "translation": "thức ăn"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 2.5,
+      "audio_timestamp_end": 4.5,
+      "text": "You know how huge our country is.",
+      "tokens": [
+        {"word": "You", "type": "pronoun", "difficulty": 1, "translation": "Bạn"},
+        {"word": "know", "type": "verb", "difficulty": 1, "translation": "biết"},
+        {"word": "how", "type": "adverb", "difficulty": 1, "translation": "như thế nào"},
+        {"word": "huge", "type": "adjective", "difficulty": 2, "translation": "to lớn"},
+        {"word": "our", "type": "pronoun", "difficulty": 1, "translation": "của chúng ta"},
+        {"word": "country", "type": "noun", "difficulty": 1, "translation": "đất nước"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 4.5,
+      "audio_timestamp_end": 8.0,
+      "text": "People in the coastal regions are usually big on seafood.",
+      "tokens": [
+        {"word": "People", "type": "noun", "difficulty": 1, "translation": "Người dân"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "coastal", "type": "adjective", "difficulty": 3, "translation": "ven biển"},
+        {"word": "regions", "type": "noun", "difficulty": 2, "translation": "vùng/miền"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "usually", "type": "adverb", "difficulty": 1, "translation": "thường"},
+        {"word": "big", "type": "adjective", "difficulty": 1, "translation": "lớn/cuồng"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "seafood", "type": "noun", "difficulty": 2, "translation": "hải sản"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 8.0,
+      "audio_timestamp_end": 13.0,
+      "text": "They love to eat fish, shrimps and crabs, anything from the ocean.",
+      "tokens": [
+        {"word": "They", "type": "pronoun", "difficulty": 1, "translation": "Họ"},
+        {"word": "love", "type": "verb", "difficulty": 1, "translation": "thích"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "eat", "type": "verb", "difficulty": 1, "translation": "ăn"},
+        {"word": "fish", "type": "noun", "difficulty": 1, "translation": "cá"},
+        {"word": "shrimps", "type": "noun", "difficulty": 2, "translation": "tôm"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "crabs", "type": "noun", "difficulty": 2, "translation": "cua"},
+        {"word": "anything", "type": "pronoun", "difficulty": 1, "translation": "bất cứ thứ gì"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "ocean", "type": "noun", "difficulty": 1, "translation": "đại dương"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 13.0,
+      "audio_timestamp_end": 18.5,
+      "text": "In the western region of China, people tend to eat spicy food with lots of peppers.",
+      "tokens": [
+        {"word": "In", "type": "preposition", "difficulty": 1, "translation": "Ở"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "western", "type": "adjective", "difficulty": 2, "translation": "phía tây"},
+        {"word": "region", "type": "noun", "difficulty": 2, "translation": "vùng"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "China", "type": "noun", "difficulty": 1, "translation": "Trung Quốc"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người dân"},
+        {"word": "tend", "type": "verb", "difficulty": 2, "translation": "có xu hướng"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "eat", "type": "verb", "difficulty": 1, "translation": "ăn"},
+        {"word": "spicy", "type": "adjective", "difficulty": 2, "translation": "cay"},
+        {"word": "food", "type": "noun", "difficulty": 1, "translation": "thức ăn"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "lots", "type": "noun", "difficulty": 1, "translation": "nhiều"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "peppers", "type": "noun", "difficulty": 2, "translation": "ớt/tiêu"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 18.5,
+      "audio_timestamp_end": 22.5,
+      "text": "In the north, people eat dumplings and a lot of fried food.",
+      "tokens": [
+        {"word": "In", "type": "preposition", "difficulty": 1, "translation": "Ở"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "north", "type": "noun", "difficulty": 1, "translation": "phía bắc"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người dân"},
+        {"word": "eat", "type": "verb", "difficulty": 1, "translation": "ăn"},
+        {"word": "dumplings", "type": "noun", "difficulty": 3, "translation": "bánh bao/sủi cảo"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "lot", "type": "noun", "difficulty": 1, "translation": "nhiều"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "fried", "type": "adjective", "difficulty": 2, "translation": "chiên/rán"},
+        {"word": "food", "type": "noun", "difficulty": 1, "translation": "thức ăn"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 22.5,
+      "audio_timestamp_end": 28.0,
+      "text": "In general, rice and vegetables make up the main daily diet of the Chinese.",
+      "tokens": [
+        {"word": "In", "type": "preposition", "difficulty": 1, "translation": "Nhìn"},
+        {"word": "general", "type": "adjective", "difficulty": 2, "translation": "chung"},
+        {"word": "rice", "type": "noun", "difficulty": 1, "translation": "gạo/cơm"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "vegetables", "type": "noun", "difficulty": 1, "translation": "rau củ"},
+        {"word": "make", "type": "verb", "difficulty": 1, "translation": "làm/tạo"},
+        {"word": "up", "type": "adverb", "difficulty": 1, "translation": "lên"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "main", "type": "adjective", "difficulty": 1, "translation": "chính"},
+        {"word": "daily", "type": "adjective", "difficulty": 2, "translation": "hàng ngày"},
+        {"word": "diet", "type": "noun", "difficulty": 2, "translation": "chế độ ăn"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "Chinese", "type": "noun", "difficulty": 2, "translation": "người Trung Quốc"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 28.0,
+      "audio_timestamp_end": 31.0,
+      "text": "My favorite type of food is hot pot.",
+      "tokens": [
+        {"word": "My", "type": "pronoun", "difficulty": 1, "translation": "Của tôi"},
+        {"word": "favorite", "type": "adjective", "difficulty": 1, "translation": "yêu thích"},
+        {"word": "type", "type": "noun", "difficulty": 1, "translation": "loại"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "food", "type": "noun", "difficulty": 1, "translation": "thức ăn"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "hot", "type": "adjective", "difficulty": 1, "translation": "nóng"},
+        {"word": "pot", "type": "noun", "difficulty": 2, "translation": "nồi/lẩu"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 31.0,
+      "audio_timestamp_end": 34.5,
+      "text": "I am sure you are familiar with Sichuan cuisine.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "am", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "sure", "type": "adjective", "difficulty": 1, "translation": "chắc chắn"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "familiar", "type": "adjective", "difficulty": 3, "translation": "quen thuộc"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "Sichuan", "type": "noun", "difficulty": 3, "translation": "Tứ Xuyên"},
+        {"word": "cuisine", "type": "noun", "difficulty": 3, "translation": "ẩm thực"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 34.5,
+      "audio_timestamp_end": 38.0,
+      "text": "They fry red hot chilies with meat or vegetables.",
+      "tokens": [
+        {"word": "They", "type": "pronoun", "difficulty": 1, "translation": "Họ"},
+        {"word": "fry", "type": "verb", "difficulty": 2, "translation": "chiên/xào"},
+        {"word": "red", "type": "adjective", "difficulty": 1, "translation": "đỏ"},
+        {"word": "hot", "type": "adjective", "difficulty": 1, "translation": "cay/nóng"},
+        {"word": "chilies", "type": "noun", "difficulty": 2, "translation": "ớt"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "meat", "type": "noun", "difficulty": 1, "translation": "thịt"},
+        {"word": "or", "type": "conjunction", "difficulty": 1, "translation": "hoặc"},
+        {"word": "vegetables", "type": "noun", "difficulty": 1, "translation": "rau củ"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 38.0,
+      "audio_timestamp_end": 41.0,
+      "text": "Everything is so tasty and colorful.",
+      "tokens": [
+        {"word": "Everything", "type": "pronoun", "difficulty": 1, "translation": "Mọi thứ"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "so", "type": "adverb", "difficulty": 1, "translation": "quá/rất"},
+        {"word": "tasty", "type": "adjective", "difficulty": 2, "translation": "ngon miệng"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "colorful", "type": "adjective", "difficulty": 2, "translation": "đầy màu sắc"}
+      ]
+    }
+  ]
+}

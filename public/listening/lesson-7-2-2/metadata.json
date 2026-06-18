@@ -1,0 +1,280 @@
+{
+  "title": "English Vocabulary and Sentences: Daily Life and Society",
+  "transcript": "Conscious. I prefer to eat healthier food as I am health conscious. Chocolate. Milk chocolate seems too sweet for me. Hospital. The development of hospitals in the modern world has been very fast. Pose. Officials claim the chemical poses no real threat. Home. Home cooked food always tastes better because it's prepared with love. Clothes. If you drop coffee on your dark clothes, it will be hard for others to notice. Colorful. The designer showed us the collection of their colorful designs. Worry. I didn't need to worry about getting fat when I was a child. Honey. You should drink some hot tea with honey. Calorie. Sources are too fattening and full of calories. Isolation. Because of its geographical isolation, the area developed its own unique culture. Economic. The economic crisis has become a global issue along with the advance of globalization. Coast. The ship sailing along the coast is from New York. Boast. He's boasting about how much money he has made. Coach. John was a tennis coach when he was young. Food. Do you like Italian food? Noodle. Pasta is what we call the Italian noodles. Cook. She cooked me eggs and bacon. Nowadays. Nowadays, smartphones are the thing that people cannot live without. Mouth. It's going to make my mouth water just thinking about it. Out. A couple of days ago, I went out for dinner with some friends. Spicy. Why does spicy food taste hot? Speciality. Every area offers different ways of cooking and different specialities. Popular. Baggy jeans are now popular with teenagers. Physical. Don't be put off by his physical appearance. Photographer. A fashion photographer is of great importance in the London Fashion Week. Emphasis. There is a lot of emphasis on style when talking about clothes design. Quality. There are various ways to find good quality and fancy clothes. Quite. I grew up eating porridge, and the taste was quite good. Question. I have many questions about the reason why girls are crazy about fashion.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 1.0,
+      "text": "Conscious.",
+      "tokens": [
+        {"word": "Conscious", "type": "adjective", "difficulty": 3, "translation": "Có ý thức"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 1.5,
+      "audio_timestamp_end": 5.0,
+      "text": "I prefer to eat healthier food as I am health conscious.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "prefer", "type": "verb", "difficulty": 2, "translation": "thích hơn"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "eat", "type": "verb", "difficulty": 1, "translation": "ăn"},
+        {"word": "healthier", "type": "adjective", "difficulty": 2, "translation": "lành mạnh hơn"},
+        {"word": "food", "type": "noun", "difficulty": 1, "translation": "thức ăn"},
+        {"word": "as", "type": "conjunction", "difficulty": 2, "translation": "vì"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "am", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "health", "type": "noun", "difficulty": 2, "translation": "sức khỏe"},
+        {"word": "conscious", "type": "adjective", "difficulty": 3, "translation": "có ý thức"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 5.5,
+      "audio_timestamp_end": 6.5,
+      "text": "Chocolate.",
+      "tokens": [
+        {"word": "Chocolate", "type": "noun", "difficulty": 1, "translation": "Sô-cô-la"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 7.0,
+      "audio_timestamp_end": 10.0,
+      "text": "Milk chocolate seems too sweet for me.",
+      "tokens": [
+        {"word": "Milk", "type": "noun", "difficulty": 1, "translation": "Sữa"},
+        {"word": "chocolate", "type": "noun", "difficulty": 1, "translation": "sô-cô-la"},
+        {"word": "seems", "type": "verb", "difficulty": 2, "translation": "có vẻ"},
+        {"word": "too", "type": "adverb", "difficulty": 1, "translation": "quá"},
+        {"word": "sweet", "type": "adjective", "difficulty": 1, "translation": "ngọt"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "đối với"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 10.5,
+      "audio_timestamp_end": 11.5,
+      "text": "Hospital.",
+      "tokens": [
+        {"word": "Hospital", "type": "noun", "difficulty": 1, "translation": "Bệnh viện"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 12.0,
+      "audio_timestamp_end": 16.0,
+      "text": "The development of hospitals in the modern world has been very fast.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Sự/cái"},
+        {"word": "development", "type": "noun", "difficulty": 3, "translation": "phát triển"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "hospitals", "type": "noun", "difficulty": 1, "translation": "bệnh viện"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "modern", "type": "adjective", "difficulty": 2, "translation": "hiện đại"},
+        {"word": "world", "type": "noun", "difficulty": 1, "translation": "thế giới"},
+        {"word": "has", "type": "verb", "difficulty": 1, "translation": "đã"},
+        {"word": "been", "type": "verb", "difficulty": 1, "translation": "là/trở nên"},
+        {"word": "very", "type": "adverb", "difficulty": 1, "translation": "rất"},
+        {"word": "fast", "type": "adjective", "difficulty": 1, "translation": "nhanh"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 16.5,
+      "audio_timestamp_end": 17.5,
+      "text": "Pose.",
+      "tokens": [
+        {"word": "Pose", "type": "verb", "difficulty": 3, "translation": "Gây ra/Đặt ra"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 18.0,
+      "audio_timestamp_end": 21.0,
+      "text": "Officials claim the chemical poses no real threat.",
+      "tokens": [
+        {"word": "Officials", "type": "noun", "difficulty": 3, "translation": "Các quan chức"},
+        {"word": "claim", "type": "verb", "difficulty": 3, "translation": "tuyên bố"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "chemical", "type": "noun", "difficulty": 3, "translation": "hóa chất"},
+        {"word": "poses", "type": "verb", "difficulty": 3, "translation": "gây ra"},
+        {"word": "no", "type": "determiner", "difficulty": 1, "translation": "không có"},
+        {"word": "real", "type": "adjective", "difficulty": 1, "translation": "thực sự"},
+        {"word": "threat", "type": "noun", "difficulty": 3, "translation": "mối đe dọa"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 21.5,
+      "audio_timestamp_end": 22.5,
+      "text": "Home.",
+      "tokens": [
+        {"word": "Home", "type": "noun", "difficulty": 1, "translation": "Nhà/Gia đình"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 23.0,
+      "audio_timestamp_end": 27.0,
+      "text": "Home cooked food always tastes better because it's prepared with love.",
+      "tokens": [
+        {"word": "Home", "type": "noun", "difficulty": 1, "translation": "Nhà"},
+        {"word": "cooked", "type": "verb", "difficulty": 1, "translation": "nấu"},
+        {"word": "food", "type": "noun", "difficulty": 1, "translation": "thức ăn"},
+        {"word": "always", "type": "adverb", "difficulty": 1, "translation": "luôn luôn"},
+        {"word": "tastes", "type": "verb", "difficulty": 2, "translation": "có vị"},
+        {"word": "better", "type": "adjective", "difficulty": 1, "translation": "ngon hơn/tốt hơn"},
+        {"word": "because", "type": "conjunction", "difficulty": 1, "translation": "bởi vì"},
+        {"word": "it's", "type": "contraction", "difficulty": 1, "translation": "nó được"},
+        {"word": "prepared", "type": "verb", "difficulty": 2, "translation": "chuẩn bị"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "love", "type": "noun", "difficulty": 1, "translation": "tình yêu"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 27.5,
+      "audio_timestamp_end": 28.5,
+      "text": "Clothes.",
+      "tokens": [
+        {"word": "Clothes", "type": "noun", "difficulty": 1, "translation": "Quần áo"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 29.0,
+      "audio_timestamp_end": 33.5,
+      "text": "If you drop coffee on your dark clothes, it will be hard for others to notice.",
+      "tokens": [
+        {"word": "If", "type": "conjunction", "difficulty": 1, "translation": "Nếu"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "drop", "type": "verb", "difficulty": 1, "translation": "làm rơi/đổ"},
+        {"word": "coffee", "type": "noun", "difficulty": 1, "translation": "cà phê"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "lên"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "dark", "type": "adjective", "difficulty": 1, "translation": "tối màu"},
+        {"word": "clothes", "type": "noun", "difficulty": 1, "translation": "quần áo"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "will", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "là/trở nên"},
+        {"word": "hard", "type": "adjective", "difficulty": 1, "translation": "khó"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "others", "type": "pronoun", "difficulty": 2, "translation": "người khác"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "notice", "type": "verb", "difficulty": 2, "translation": "nhận ra"}
+      ]
+    },
+    {
+      "segment_id": 13,
+      "audio_timestamp_start": 34.0,
+      "audio_timestamp_end": 35.0,
+      "text": "Colorful.",
+      "tokens": [
+        {"word": "Colorful", "type": "adjective", "difficulty": 1, "translation": "Đầy màu sắc"}
+      ]
+    },
+    {
+      "segment_id": 14,
+      "audio_timestamp_start": 35.5,
+      "audio_timestamp_end": 39.0,
+      "text": "The designer showed us the collection of their colorful designs.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Người/cái"},
+        {"word": "designer", "type": "noun", "difficulty": 2, "translation": "nhà thiết kế"},
+        {"word": "showed", "type": "verb", "difficulty": 1, "translation": "đã cho xem"},
+        {"word": "us", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/bộ"},
+        {"word": "collection", "type": "noun", "difficulty": 2, "translation": "bộ sưu tập"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "their", "type": "pronoun", "difficulty": 1, "translation": "của họ"},
+        {"word": "colorful", "type": "adjective", "difficulty": 1, "translation": "đầy màu sắc"},
+        {"word": "designs", "type": "noun", "difficulty": 2, "translation": "thiết kế"}
+      ]
+    },
+    {
+      "segment_id": 15,
+      "audio_timestamp_start": 39.5,
+      "audio_timestamp_end": 40.5,
+      "text": "Worry.",
+      "tokens": [
+        {"word": "Worry", "type": "verb", "difficulty": 1, "translation": "Lo lắng"}
+      ]
+    },
+    {
+      "segment_id": 16,
+      "audio_timestamp_start": 41.0,
+      "audio_timestamp_end": 44.5,
+      "text": "I didn't need to worry about getting fat when I was a child.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "didn't", "type": "contraction", "difficulty": 1, "translation": "đã không"},
+        {"word": "need", "type": "verb", "difficulty": 1, "translation": "cần"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "worry", "type": "verb", "difficulty": 1, "translation": "lo lắng"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "getting", "type": "verb", "difficulty": 1, "translation": "trở nên"},
+        {"word": "fat", "type": "adjective", "difficulty": 1, "translation": "béo"},
+        {"word": "when", "type": "conjunction", "difficulty": 1, "translation": "khi"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "was", "type": "verb", "difficulty": 1, "translation": "đã là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "child", "type": "noun", "difficulty": 1, "translation": "đứa trẻ"}
+      ]
+    },
+    {
+      "segment_id": 17,
+      "audio_timestamp_start": 45.0,
+      "audio_timestamp_end": 46.0,
+      "text": "Honey.",
+      "tokens": [
+        {"word": "Honey", "type": "noun", "difficulty": 1, "translation": "Mật ong"}
+      ]
+    },
+    {
+      "segment_id": 18,
+      "audio_timestamp_start": 46.5,
+      "audio_timestamp_end": 49.0,
+      "text": "You should drink some hot tea with honey.",
+      "tokens": [
+        {"word": "You", "type": "pronoun", "difficulty": 1, "translation": "Bạn"},
+        {"word": "should", "type": "verb", "difficulty": 1, "translation": "nên"},
+        {"word": "drink", "type": "verb", "difficulty": 1, "translation": "uống"},
+        {"word": "some", "type": "determiner", "difficulty": 1, "translation": "một chút"},
+        {"word": "hot", "type": "adjective", "difficulty": 1, "translation": "nóng"},
+        {"word": "tea", "type": "noun", "difficulty": 1, "translation": "trà"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "honey", "type": "noun", "difficulty": 1, "translation": "mật ong"}
+      ]
+    },
+    {
+      "segment_id": 19,
+      "audio_timestamp_start": 49.5,
+      "audio_timestamp_end": 50.5,
+      "text": "Calorie.",
+      "tokens": [
+        {"word": "Calorie", "type": "noun", "difficulty": 2, "translation": "Calo"}
+      ]
+    },
+    {
+      "segment_id": 20,
+      "audio_timestamp_start": 51.0,
+      "audio_timestamp_end": 54.0,
+      "text": "Sources are too fattening and full of calories.",
+      "tokens": [
+        {"word": "Sources", "type": "noun", "difficulty": 2, "translation": "Các nguồn"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "too", "type": "adverb", "difficulty": 1, "translation": "quá"},
+        {"word": "fattening", "type": "adjective", "difficulty": 3, "translation": "gây béo"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "full", "type": "adjective", "difficulty": 1, "translation": "đầy"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "calories", "type": "noun", "difficulty": 2, "translation": "calo"}
+      ]
+    }
+  ]
+}

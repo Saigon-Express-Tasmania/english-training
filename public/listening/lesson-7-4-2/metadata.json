@@ -1,0 +1,225 @@
+{
+  "title": "Holidays and Celebrations",
+  "transcript": "One, I'm not going to have any time this week because I'm celebrating the bank holiday with my family and traveling at the weekend. Two, You know it's Easter this weekend. I don't need to go to school on Monday or Friday because it's a four-day holiday stretching over the weekend. I'm going back home for a special Easter dinner with my parents. Three, This Thursday I'm going to a graduation ceremony. It's going to be an amazing day because my sister Chloe has just finished her three-year degree program. I'm going to buy her a special graduation gift because she's worked so hard. Four, Turkey pudding cake apple pie. I love Christmas so much. I wish every day is Christmas. At night, I will also watch comedy with my family.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 7.0,
+      "text": "One, I'm not going to have any time this week because I'm celebrating the bank holiday with my family and traveling at the weekend.",
+      "tokens": [
+        {"word": "One", "type": "number", "difficulty": 1, "translation": "Một"},
+        {"word": "I'm", "type": "contraction", "difficulty": 1, "translation": "tôi"},
+        {"word": "not", "type": "adverb", "difficulty": 1, "translation": "không"},
+        {"word": "going", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "any", "type": "determiner", "difficulty": 1, "translation": "bất kỳ"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "thời gian"},
+        {"word": "this", "type": "determiner", "difficulty": 1, "translation": "này"},
+        {"word": "week", "type": "noun", "difficulty": 1, "translation": "tuần"},
+        {"word": "because", "type": "conjunction", "difficulty": 1, "translation": "bởi vì"},
+        {"word": "I'm", "type": "contraction", "difficulty": 1, "translation": "tôi đang"},
+        {"word": "celebrating", "type": "verb", "difficulty": 2, "translation": "ăn mừng"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/kỳ"},
+        {"word": "bank", "type": "noun", "difficulty": 2, "translation": "ngân hàng"},
+        {"word": "holiday", "type": "noun", "difficulty": 1, "translation": "ngày nghỉ lễ"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "family", "type": "noun", "difficulty": 1, "translation": "gia đình"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "traveling", "type": "verb", "difficulty": 1, "translation": "đi du lịch"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "vào"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "dịp"},
+        {"word": "weekend", "type": "noun", "difficulty": 1, "translation": "cuối tuần"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 7.5,
+      "audio_timestamp_end": 10.0,
+      "text": "Two, You know it's Easter this weekend.",
+      "tokens": [
+        {"word": "Two", "type": "number", "difficulty": 1, "translation": "Hai"},
+        {"word": "You", "type": "pronoun", "difficulty": 1, "translation": "Bạn"},
+        {"word": "know", "type": "verb", "difficulty": 1, "translation": "biết đấy"},
+        {"word": "it's", "type": "contraction", "difficulty": 1, "translation": "đó là"},
+        {"word": "Easter", "type": "noun", "difficulty": 2, "translation": "Lễ Phục sinh"},
+        {"word": "this", "type": "determiner", "difficulty": 1, "translation": "này"},
+        {"word": "weekend", "type": "noun", "difficulty": 1, "translation": "cuối tuần"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 10.5,
+      "audio_timestamp_end": 17.5,
+      "text": "I don't need to go to school on Monday or Friday because it's a four-day holiday stretching over the weekend.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "don't", "type": "contraction", "difficulty": 1, "translation": "không"},
+        {"word": "need", "type": "verb", "difficulty": 1, "translation": "cần"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "go", "type": "verb", "difficulty": 1, "translation": "đi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "đến"},
+        {"word": "school", "type": "noun", "difficulty": 1, "translation": "trường học"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "vào"},
+        {"word": "Monday", "type": "noun", "difficulty": 1, "translation": "Thứ Hai"},
+        {"word": "or", "type": "conjunction", "difficulty": 1, "translation": "hoặc"},
+        {"word": "Friday", "type": "noun", "difficulty": 1, "translation": "Thứ Sáu"},
+        {"word": "because", "type": "conjunction", "difficulty": 1, "translation": "bởi vì"},
+        {"word": "it's", "type": "contraction", "difficulty": 1, "translation": "đó là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "four-day", "type": "adjective", "difficulty": 2, "translation": "bốn ngày"},
+        {"word": "holiday", "type": "noun", "difficulty": 1, "translation": "kỳ nghỉ"},
+        {"word": "stretching", "type": "verb", "difficulty": 3, "translation": "kéo dài"},
+        {"word": "over", "type": "preposition", "difficulty": 1, "translation": "qua"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "dịp"},
+        {"word": "weekend", "type": "noun", "difficulty": 1, "translation": "cuối tuần"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 18.0,
+      "audio_timestamp_end": 22.0,
+      "text": "I'm going back home for a special Easter dinner with my parents.",
+      "tokens": [
+        {"word": "I'm", "type": "contraction", "difficulty": 1, "translation": "Tôi sẽ"},
+        {"word": "going", "type": "verb", "difficulty": 1, "translation": "đi"},
+        {"word": "back", "type": "adverb", "difficulty": 1, "translation": "về"},
+        {"word": "home", "type": "noun", "difficulty": 1, "translation": "nhà"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "special", "type": "adjective", "difficulty": 1, "translation": "đặc biệt"},
+        {"word": "Easter", "type": "noun", "difficulty": 2, "translation": "Lễ Phục sinh"},
+        {"word": "dinner", "type": "noun", "difficulty": 1, "translation": "bữa tối"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "cùng với"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "parents", "type": "noun", "difficulty": 1, "translation": "bố mẹ"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 23.0,
+      "audio_timestamp_end": 27.0,
+      "text": "Three, This Thursday I'm going to a graduation ceremony.",
+      "tokens": [
+        {"word": "Three", "type": "number", "difficulty": 1, "translation": "Ba"},
+        {"word": "This", "type": "determiner", "difficulty": 1, "translation": "Này"},
+        {"word": "Thursday", "type": "noun", "difficulty": 1, "translation": "Thứ Năm"},
+        {"word": "I'm", "type": "contraction", "difficulty": 1, "translation": "tôi sẽ"},
+        {"word": "going", "type": "verb", "difficulty": 1, "translation": "đi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "tới"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "graduation", "type": "noun", "difficulty": 2, "translation": "tốt nghiệp"},
+        {"word": "ceremony", "type": "noun", "difficulty": 2, "translation": "buổi lễ"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 27.5,
+      "audio_timestamp_end": 33.5,
+      "text": "It's going to be an amazing day because my sister Chloe has just finished her three-year degree program.",
+      "tokens": [
+        {"word": "It's", "type": "contraction", "difficulty": 1, "translation": "Nó sẽ"},
+        {"word": "going", "type": "verb", "difficulty": 1, "translation": "sắp"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "an", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "amazing", "type": "adjective", "difficulty": 2, "translation": "tuyệt vời"},
+        {"word": "day", "type": "noun", "difficulty": 1, "translation": "ngày"},
+        {"word": "because", "type": "conjunction", "difficulty": 1, "translation": "bởi vì"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "sister", "type": "noun", "difficulty": 1, "translation": "chị/em gái"},
+        {"word": "Chloe", "type": "noun", "difficulty": 1, "translation": "Chloe"},
+        {"word": "has", "type": "verb", "difficulty": 1, "translation": "đã"},
+        {"word": "just", "type": "adverb", "difficulty": 1, "translation": "vừa mới"},
+        {"word": "finished", "type": "verb", "difficulty": 1, "translation": "hoàn thành"},
+        {"word": "her", "type": "pronoun", "difficulty": 1, "translation": "của cô ấy"},
+        {"word": "three-year", "type": "adjective", "difficulty": 1, "translation": "ba năm"},
+        {"word": "degree", "type": "noun", "difficulty": 2, "translation": "bằng cấp"},
+        {"word": "program", "type": "noun", "difficulty": 1, "translation": "chương trình"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 34.0,
+      "audio_timestamp_end": 38.5,
+      "text": "I'm going to buy her a special graduation gift because she's worked so hard.",
+      "tokens": [
+        {"word": "I'm", "type": "contraction", "difficulty": 1, "translation": "Tôi sẽ"},
+        {"word": "going", "type": "verb", "difficulty": 1, "translation": "chuẩn bị"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "buy", "type": "verb", "difficulty": 1, "translation": "mua"},
+        {"word": "her", "type": "pronoun", "difficulty": 1, "translation": "cho cô ấy"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "special", "type": "adjective", "difficulty": 1, "translation": "đặc biệt"},
+        {"word": "graduation", "type": "noun", "difficulty": 2, "translation": "tốt nghiệp"},
+        {"word": "gift", "type": "noun", "difficulty": 1, "translation": "món quà"},
+        {"word": "because", "type": "conjunction", "difficulty": 1, "translation": "bởi vì"},
+        {"word": "she's", "type": "contraction", "difficulty": 1, "translation": "cô ấy đã"},
+        {"word": "worked", "type": "verb", "difficulty": 1, "translation": "làm việc"},
+        {"word": "so", "type": "adverb", "difficulty": 1, "translation": "rất"},
+        {"word": "hard", "type": "adverb", "difficulty": 1, "translation": "chăm chỉ"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 39.5,
+      "audio_timestamp_end": 43.0,
+      "text": "Four, Turkey pudding cake apple pie.",
+      "tokens": [
+        {"word": "Four", "type": "number", "difficulty": 1, "translation": "Bốn"},
+        {"word": "Turkey", "type": "noun", "difficulty": 1, "translation": "Gà tây"},
+        {"word": "pudding", "type": "noun", "difficulty": 2, "translation": "bánh pudding"},
+        {"word": "cake", "type": "noun", "difficulty": 1, "translation": "bánh ngọt"},
+        {"word": "apple", "type": "noun", "difficulty": 1, "translation": "táo"},
+        {"word": "pie", "type": "noun", "difficulty": 1, "translation": "bánh nướng"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 43.5,
+      "audio_timestamp_end": 45.0,
+      "text": "I love Christmas so much.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "love", "type": "verb", "difficulty": 1, "translation": "yêu"},
+        {"word": "Christmas", "type": "noun", "difficulty": 1, "translation": "Giáng sinh"},
+        {"word": "so", "type": "adverb", "difficulty": 1, "translation": "rất"},
+        {"word": "much", "type": "adverb", "difficulty": 1, "translation": "nhiều"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 45.5,
+      "audio_timestamp_end": 47.0,
+      "text": "I wish every day is Christmas.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "wish", "type": "verb", "difficulty": 1, "translation": "ước"},
+        {"word": "every", "type": "determiner", "difficulty": 1, "translation": "mỗi"},
+        {"word": "day", "type": "noun", "difficulty": 1, "translation": "ngày"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "Christmas", "type": "noun", "difficulty": 1, "translation": "Giáng sinh"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 47.5,
+      "audio_timestamp_end": 50.5,
+      "text": "At night, I will also watch comedy with my family.",
+      "tokens": [
+        {"word": "At", "type": "preposition", "difficulty": 1, "translation": "Vào"},
+        {"word": "night", "type": "noun", "difficulty": 1, "translation": "buổi tối"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "will", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "also", "type": "adverb", "difficulty": 1, "translation": "cũng"},
+        {"word": "watch", "type": "verb", "difficulty": 1, "translation": "xem"},
+        {"word": "comedy", "type": "noun", "difficulty": 2, "translation": "hài kịch"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "family", "type": "noun", "difficulty": 1, "translation": "gia đình"}
+      ]
+    }
+  ]
+}

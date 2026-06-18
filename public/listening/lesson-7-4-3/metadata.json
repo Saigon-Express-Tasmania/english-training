@@ -1,0 +1,589 @@
+{
+  "title": "Volunteering for a Charity Carnival",
+  "transcript": "Evening, Events Center. How may I help you? Oh, hi there. I'd like to know a bit more about the carnival that you're asking people to sign up for. All right. We're still looking for a couple more volunteers. Do you want to take part in it? Yes, I'd like to join a group, but I need some more information first. Is it okay if I ask you some questions? Certainly. First, I'd like to know the date of the event. Oh, well, it's been arranged on the 12th of May. Is that a weekend? No, it's during the week, on a Tuesday. It's during the school holiday, and we get a lot of young people signing up. Right. And what about the location? It's taking place at Watford Street. Oh, English isn't my first language. Could you spell it for me? Sure. It's Watford Street, W-A-T-F-O-R-D. Do you know how to find it? No, I've never been there. It's not far from the Imperial Library. All right. I think I know where that is. What time does it begin? The opening will start in the morning at 9 o'clock. But you need to register much earlier in the morning, at 7:30. You should also make sure everyone on your group is there too. Right. And we need to pay a registration fee. What's the money going towards? It's going to the local hospital. We'd like every group to raise £45. Every member of each team will get a free bag of goodies from local businesses if they can raise £500 or more. Oh, that's nice. Also, there'll be a quiz game in the end. Oh, what will the winner receive? A new motorcycle. That sounds amazing.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 2.5,
+      "text": "Evening, Events Center. How may I help you?",
+      "tokens": [
+        {"word": "Evening", "type": "noun", "difficulty": 1, "translation": "Buổi tối"},
+        {"word": "Events", "type": "noun", "difficulty": 1, "translation": "Sự kiện"},
+        {"word": "Center", "type": "noun", "difficulty": 1, "translation": "Trung tâm"},
+        {"word": "How", "type": "adverb", "difficulty": 1, "translation": "Làm thế nào"},
+        {"word": "may", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "help", "type": "verb", "difficulty": 1, "translation": "giúp"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 3.0,
+      "audio_timestamp_end": 8.0,
+      "text": "Oh, hi there. I'd like to know a bit more about the carnival that you're asking people to sign up for.",
+      "tokens": [
+        {"word": "Oh", "type": "interjection", "difficulty": 1, "translation": "Ồ"},
+        {"word": "hi", "type": "interjection", "difficulty": 1, "translation": "chào"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "đó"},
+        {"word": "I'd", "type": "contraction", "difficulty": 1, "translation": "tôi"},
+        {"word": "like", "type": "verb", "difficulty": 1, "translation": "muốn"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "know", "type": "verb", "difficulty": 1, "translation": "biết"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "bit", "type": "noun", "difficulty": 1, "translation": "chút"},
+        {"word": "more", "type": "adverb", "difficulty": 1, "translation": "nhiều hơn"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "carnival", "type": "noun", "difficulty": 2, "translation": "lễ hội"},
+        {"word": "that", "type": "pronoun", "difficulty": 1, "translation": "mà"},
+        {"word": "you're", "type": "contraction", "difficulty": 1, "translation": "bạn đang"},
+        {"word": "asking", "type": "verb", "difficulty": 1, "translation": "yêu cầu"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "mọi người"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "sign", "type": "verb", "difficulty": 1, "translation": "đăng"},
+        {"word": "up", "type": "adverb", "difficulty": 1, "translation": "ký"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 8.0,
+      "audio_timestamp_end": 10.5,
+      "text": "All right. We're still looking for a couple more volunteers.",
+      "tokens": [
+        {"word": "All", "type": "determiner", "difficulty": 1, "translation": "Tất cả"},
+        {"word": "right", "type": "adjective", "difficulty": 1, "translation": "đúng"},
+        {"word": "We're", "type": "contraction", "difficulty": 1, "translation": "Chúng tôi đang"},
+        {"word": "still", "type": "adverb", "difficulty": 1, "translation": "vẫn"},
+        {"word": "looking", "type": "verb", "difficulty": 1, "translation": "tìm kiếm"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "couple", "type": "noun", "difficulty": 1, "translation": "vài"},
+        {"word": "more", "type": "adjective", "difficulty": 1, "translation": "thêm"},
+        {"word": "volunteers", "type": "noun", "difficulty": 2, "translation": "tình nguyện viên"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 10.5,
+      "audio_timestamp_end": 12.0,
+      "text": "Do you want to take part in it?",
+      "tokens": [
+        {"word": "Do", "type": "verb", "difficulty": 1, "translation": "Làm"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "want", "type": "verb", "difficulty": 1, "translation": "muốn"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "take", "type": "verb", "difficulty": 1, "translation": "tham"},
+        {"word": "part", "type": "noun", "difficulty": 1, "translation": "gia"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "vào"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 12.0,
+      "audio_timestamp_end": 16.0,
+      "text": "Yes, I'd like to join a group, but I need some more information first.",
+      "tokens": [
+        {"word": "Yes", "type": "interjection", "difficulty": 1, "translation": "Vâng"},
+        {"word": "I'd", "type": "contraction", "difficulty": 1, "translation": "tôi"},
+        {"word": "like", "type": "verb", "difficulty": 1, "translation": "muốn"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "join", "type": "verb", "difficulty": 1, "translation": "tham gia"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "group", "type": "noun", "difficulty": 1, "translation": "nhóm"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "need", "type": "verb", "difficulty": 1, "translation": "cần"},
+        {"word": "some", "type": "determiner", "difficulty": 1, "translation": "một số"},
+        {"word": "more", "type": "adjective", "difficulty": 1, "translation": "thêm"},
+        {"word": "information", "type": "noun", "difficulty": 1, "translation": "thông tin"},
+        {"word": "first", "type": "adverb", "difficulty": 1, "translation": "trước"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 16.0,
+      "audio_timestamp_end": 18.0,
+      "text": "Is it okay if I ask you some questions?",
+      "tokens": [
+        {"word": "Is", "type": "verb", "difficulty": 1, "translation": "Có"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "okay", "type": "adjective", "difficulty": 1, "translation": "ổn"},
+        {"word": "if", "type": "conjunction", "difficulty": 1, "translation": "nếu"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "ask", "type": "verb", "difficulty": 1, "translation": "hỏi"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "some", "type": "determiner", "difficulty": 1, "translation": "một vài"},
+        {"word": "questions", "type": "noun", "difficulty": 1, "translation": "câu hỏi"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 18.5,
+      "audio_timestamp_end": 19.5,
+      "text": "Certainly.",
+      "tokens": [
+        {"word": "Certainly", "type": "adverb", "difficulty": 1, "translation": "Chắc chắn rồi"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 20.0,
+      "audio_timestamp_end": 22.0,
+      "text": "First, I'd like to know the date of the event.",
+      "tokens": [
+        {"word": "First", "type": "adverb", "difficulty": 1, "translation": "Đầu tiên"},
+        {"word": "I'd", "type": "contraction", "difficulty": 1, "translation": "tôi"},
+        {"word": "like", "type": "verb", "difficulty": 1, "translation": "muốn"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "know", "type": "verb", "difficulty": 1, "translation": "biết"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "date", "type": "noun", "difficulty": 1, "translation": "ngày"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "sự"},
+        {"word": "event", "type": "noun", "difficulty": 1, "translation": "kiện"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 22.5,
+      "audio_timestamp_end": 26.0,
+      "text": "Oh, well, it's been arranged on the 12th of May.",
+      "tokens": [
+        {"word": "Oh", "type": "interjection", "difficulty": 1, "translation": "Ồ"},
+        {"word": "well", "type": "interjection", "difficulty": 1, "translation": "chà"},
+        {"word": "it's", "type": "contraction", "difficulty": 1, "translation": "nó đã"},
+        {"word": "been", "type": "verb", "difficulty": 1, "translation": "được"},
+        {"word": "arranged", "type": "verb", "difficulty": 2, "translation": "sắp xếp"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "vào"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "ngày"},
+        {"word": "12th", "type": "noun", "difficulty": 1, "translation": "12"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "tháng"},
+        {"word": "May", "type": "noun", "difficulty": 1, "translation": "Năm"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 26.5,
+      "audio_timestamp_end": 28.0,
+      "text": "Is that a weekend?",
+      "tokens": [
+        {"word": "Is", "type": "verb", "difficulty": 1, "translation": "Đó"},
+        {"word": "that", "type": "pronoun", "difficulty": 1, "translation": "có phải"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "weekend", "type": "noun", "difficulty": 1, "translation": "cuối tuần"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 28.0,
+      "audio_timestamp_end": 31.0,
+      "text": "No, it's during the week, on a Tuesday.",
+      "tokens": [
+        {"word": "No", "type": "interjection", "difficulty": 1, "translation": "Không"},
+        {"word": "it's", "type": "contraction", "difficulty": 1, "translation": "nó là"},
+        {"word": "during", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "tuần"},
+        {"word": "week", "type": "noun", "difficulty": 1, "translation": "tuần"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "vào"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "Tuesday", "type": "noun", "difficulty": 1, "translation": "Thứ Ba"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 31.0,
+      "audio_timestamp_end": 34.5,
+      "text": "It's during the school holiday, and we get a lot of young people signing up.",
+      "tokens": [
+        {"word": "It's", "type": "contraction", "difficulty": 1, "translation": "Nó là"},
+        {"word": "during", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "kỳ"},
+        {"word": "school", "type": "noun", "difficulty": 1, "translation": "trường học"},
+        {"word": "holiday", "type": "noun", "difficulty": 1, "translation": "nghỉ lễ"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "get", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "lot", "type": "noun", "difficulty": 1, "translation": "nhiều"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "young", "type": "adjective", "difficulty": 1, "translation": "trẻ"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người"},
+        {"word": "signing", "type": "verb", "difficulty": 1, "translation": "đăng"},
+        {"word": "up", "type": "adverb", "difficulty": 1, "translation": "ký"}
+      ]
+    },
+    {
+      "segment_id": 13,
+      "audio_timestamp_start": 35.0,
+      "audio_timestamp_end": 35.5,
+      "text": "Right.",
+      "tokens": [
+        {"word": "Right", "type": "adjective", "difficulty": 1, "translation": "Đúng vậy"}
+      ]
+    },
+    {
+      "segment_id": 14,
+      "audio_timestamp_start": 36.0,
+      "audio_timestamp_end": 37.5,
+      "text": "And what about the location?",
+      "tokens": [
+        {"word": "And", "type": "conjunction", "difficulty": 1, "translation": "Và"},
+        {"word": "what", "type": "pronoun", "difficulty": 1, "translation": "thế còn"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "địa"},
+        {"word": "location", "type": "noun", "difficulty": 1, "translation": "điểm"}
+      ]
+    },
+    {
+      "segment_id": 15,
+      "audio_timestamp_start": 38.0,
+      "audio_timestamp_end": 40.0,
+      "text": "It's taking place at Watford Street.",
+      "tokens": [
+        {"word": "It's", "type": "contraction", "difficulty": 1, "translation": "Nó đang"},
+        {"word": "taking", "type": "verb", "difficulty": 1, "translation": "diễn"},
+        {"word": "place", "type": "noun", "difficulty": 1, "translation": "ra"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "tại"},
+        {"word": "Watford", "type": "noun", "difficulty": 1, "translation": "Watford"},
+        {"word": "Street", "type": "noun", "difficulty": 1, "translation": "Đường"}
+      ]
+    },
+    {
+      "segment_id": 16,
+      "audio_timestamp_start": 40.5,
+      "audio_timestamp_end": 42.5,
+      "text": "Oh, English isn't my first language.",
+      "tokens": [
+        {"word": "Oh", "type": "interjection", "difficulty": 1, "translation": "Ồ"},
+        {"word": "English", "type": "noun", "difficulty": 1, "translation": "Tiếng Anh"},
+        {"word": "isn't", "type": "contraction", "difficulty": 1, "translation": "không phải"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "first", "type": "adjective", "difficulty": 1, "translation": "đầu tiên/mẹ đẻ"},
+        {"word": "language", "type": "noun", "difficulty": 1, "translation": "ngôn ngữ"}
+      ]
+    },
+    {
+      "segment_id": 17,
+      "audio_timestamp_start": 42.5,
+      "audio_timestamp_end": 44.0,
+      "text": "Could you spell it for me?",
+      "tokens": [
+        {"word": "Could", "type": "verb", "difficulty": 1, "translation": "Có thể"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "spell", "type": "verb", "difficulty": 1, "translation": "đánh vần"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"}
+      ]
+    },
+    {
+      "segment_id": 18,
+      "audio_timestamp_start": 44.5,
+      "audio_timestamp_end": 45.0,
+      "text": "Sure.",
+      "tokens": [
+        {"word": "Sure", "type": "adjective", "difficulty": 1, "translation": "Chắc chắn rồi"}
+      ]
+    },
+    {
+      "segment_id": 19,
+      "audio_timestamp_start": 45.5,
+      "audio_timestamp_end": 51.5,
+      "text": "It's Watford Street, W-A-T-F-O-R-D.",
+      "tokens": [
+        {"word": "It's", "type": "contraction", "difficulty": 1, "translation": "Đó là"},
+        {"word": "Watford", "type": "noun", "difficulty": 1, "translation": "Watford"},
+        {"word": "Street", "type": "noun", "difficulty": 1, "translation": "Đường"},
+        {"word": "W-A-T-F-O-R-D", "type": "noun", "difficulty": 1, "translation": "W-A-T-F-O-R-D"}
+      ]
+    },
+    {
+      "segment_id": 20,
+      "audio_timestamp_start": 51.5,
+      "audio_timestamp_end": 53.0,
+      "text": "Do you know how to find it?",
+      "tokens": [
+        {"word": "Do", "type": "verb", "difficulty": 1, "translation": "Trợ động từ"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "know", "type": "verb", "difficulty": 1, "translation": "biết"},
+        {"word": "how", "type": "adverb", "difficulty": 1, "translation": "cách"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "find", "type": "verb", "difficulty": 1, "translation": "tìm"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"}
+      ]
+    },
+    {
+      "segment_id": 21,
+      "audio_timestamp_start": 53.0,
+      "audio_timestamp_end": 54.5,
+      "text": "No, I've never been there.",
+      "tokens": [
+        {"word": "No", "type": "interjection", "difficulty": 1, "translation": "Không"},
+        {"word": "I've", "type": "contraction", "difficulty": 1, "translation": "tôi đã"},
+        {"word": "never", "type": "adverb", "difficulty": 1, "translation": "chưa bao giờ"},
+        {"word": "been", "type": "verb", "difficulty": 1, "translation": "đến"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "đó"}
+      ]
+    },
+    {
+      "segment_id": 22,
+      "audio_timestamp_start": 55.0,
+      "audio_timestamp_end": 57.0,
+      "text": "It's not far from the Imperial Library.",
+      "tokens": [
+        {"word": "It's", "type": "contraction", "difficulty": 1, "translation": "Nó thì"},
+        {"word": "not", "type": "adverb", "difficulty": 1, "translation": "không"},
+        {"word": "far", "type": "adjective", "difficulty": 1, "translation": "xa"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "Imperial", "type": "adjective", "difficulty": 2, "translation": "Hoàng gia"},
+        {"word": "Library", "type": "noun", "difficulty": 1, "translation": "Thư viện"}
+      ]
+    },
+    {
+      "segment_id": 23,
+      "audio_timestamp_start": 57.5,
+      "audio_timestamp_end": 59.5,
+      "text": "All right. I think I know where that is.",
+      "tokens": [
+        {"word": "All", "type": "determiner", "difficulty": 1, "translation": "Tất cả"},
+        {"word": "right", "type": "adjective", "difficulty": 1, "translation": "đúng"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "think", "type": "verb", "difficulty": 1, "translation": "nghĩ"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "know", "type": "verb", "difficulty": 1, "translation": "biết"},
+        {"word": "where", "type": "adverb", "difficulty": 1, "translation": "ở đâu"},
+        {"word": "that", "type": "pronoun", "difficulty": 1, "translation": "đó"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"}
+      ]
+    },
+    {
+      "segment_id": 24,
+      "audio_timestamp_start": 60.0,
+      "audio_timestamp_end": 62.0,
+      "text": "What time does it begin?",
+      "tokens": [
+        {"word": "What", "type": "pronoun", "difficulty": 1, "translation": "Mấy"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "giờ"},
+        {"word": "does", "type": "verb", "difficulty": 1, "translation": "trợ động từ"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "begin", "type": "verb", "difficulty": 1, "translation": "bắt đầu"}
+      ]
+    },
+    {
+      "segment_id": 25,
+      "audio_timestamp_start": 62.0,
+      "audio_timestamp_end": 66.0,
+      "text": "The opening will start in the morning at 9 o'clock.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Sự"},
+        {"word": "opening", "type": "noun", "difficulty": 1, "translation": "khai mạc"},
+        {"word": "will", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "start", "type": "verb", "difficulty": 1, "translation": "bắt đầu"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "vào"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "buổi"},
+        {"word": "morning", "type": "noun", "difficulty": 1, "translation": "sáng"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "lúc"},
+        {"word": "9", "type": "number", "difficulty": 1, "translation": "9"},
+        {"word": "o'clock", "type": "adverb", "difficulty": 1, "translation": "giờ"}
+      ]
+    },
+    {
+      "segment_id": 26,
+      "audio_timestamp_start": 66.0,
+      "audio_timestamp_end": 71.0,
+      "text": "But you need to register much earlier in the morning, at 7:30.",
+      "tokens": [
+        {"word": "But", "type": "conjunction", "difficulty": 1, "translation": "Nhưng"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "need", "type": "verb", "difficulty": 1, "translation": "cần"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "register", "type": "verb", "difficulty": 2, "translation": "đăng ký"},
+        {"word": "much", "type": "adverb", "difficulty": 1, "translation": "nhiều"},
+        {"word": "earlier", "type": "adverb", "difficulty": 1, "translation": "sớm hơn"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "vào"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "buổi"},
+        {"word": "morning", "type": "noun", "difficulty": 1, "translation": "sáng"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "lúc"},
+        {"word": "7:30", "type": "number", "difficulty": 1, "translation": "7:30"}
+      ]
+    },
+    {
+      "segment_id": 27,
+      "audio_timestamp_start": 71.5,
+      "audio_timestamp_end": 76.0,
+      "text": "You should also make sure everyone on your group is there too.",
+      "tokens": [
+        {"word": "You", "type": "pronoun", "difficulty": 1, "translation": "Bạn"},
+        {"word": "should", "type": "verb", "difficulty": 1, "translation": "nên"},
+        {"word": "also", "type": "adverb", "difficulty": 1, "translation": "cũng"},
+        {"word": "make", "type": "verb", "difficulty": 1, "translation": "đảm"},
+        {"word": "sure", "type": "adjective", "difficulty": 1, "translation": "bảo"},
+        {"word": "everyone", "type": "pronoun", "difficulty": 1, "translation": "mọi người"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "group", "type": "noun", "difficulty": 1, "translation": "nhóm"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "đó"},
+        {"word": "too", "type": "adverb", "difficulty": 1, "translation": "cũng"}
+      ]
+    },
+    {
+      "segment_id": 28,
+      "audio_timestamp_start": 76.5,
+      "audio_timestamp_end": 80.0,
+      "text": "Right. And we need to pay a registration fee.",
+      "tokens": [
+        {"word": "Right", "type": "adjective", "difficulty": 1, "translation": "Đúng vậy"},
+        {"word": "And", "type": "conjunction", "difficulty": 1, "translation": "Và"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "need", "type": "verb", "difficulty": 1, "translation": "cần"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "pay", "type": "verb", "difficulty": 1, "translation": "trả"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "registration", "type": "noun", "difficulty": 2, "translation": "sự đăng ký"},
+        {"word": "fee", "type": "noun", "difficulty": 2, "translation": "phí"}
+      ]
+    },
+    {
+      "segment_id": 29,
+      "audio_timestamp_start": 80.0,
+      "audio_timestamp_end": 82.5,
+      "text": "What's the money going towards?",
+      "tokens": [
+        {"word": "What's", "type": "contraction", "difficulty": 1, "translation": "Tiền"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "money", "type": "noun", "difficulty": 1, "translation": "tiền"},
+        {"word": "going", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "towards", "type": "preposition", "difficulty": 1, "translation": "vào việc gì"}
+      ]
+    },
+    {
+      "segment_id": 30,
+      "audio_timestamp_start": 83.0,
+      "audio_timestamp_end": 85.5,
+      "text": "It's going to the local hospital.",
+      "tokens": [
+        {"word": "It's", "type": "contraction", "difficulty": 1, "translation": "Nó sẽ"},
+        {"word": "going", "type": "verb", "difficulty": 1, "translation": "đi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "tới"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "local", "type": "adjective", "difficulty": 1, "translation": "địa phương"},
+        {"word": "hospital", "type": "noun", "difficulty": 1, "translation": "bệnh viện"}
+      ]
+    },
+    {
+      "segment_id": 31,
+      "audio_timestamp_start": 86.0,
+      "audio_timestamp_end": 89.0,
+      "text": "We'd like every group to raise £45.",
+      "tokens": [
+        {"word": "We'd", "type": "contraction", "difficulty": 1, "translation": "Chúng tôi"},
+        {"word": "like", "type": "verb", "difficulty": 1, "translation": "muốn"},
+        {"word": "every", "type": "determiner", "difficulty": 1, "translation": "mỗi"},
+        {"word": "group", "type": "noun", "difficulty": 1, "translation": "nhóm"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "raise", "type": "verb", "difficulty": 2, "translation": "quyên góp"},
+        {"word": "£45", "type": "noun", "difficulty": 1, "translation": "45 bảng Anh"}
+      ]
+    },
+    {
+      "segment_id": 32,
+      "audio_timestamp_start": 89.5,
+      "audio_timestamp_end": 96.5,
+      "text": "Every member of each team will get a free bag of goodies from local businesses if they can raise £500 or more.",
+      "tokens": [
+        {"word": "Every", "type": "determiner", "difficulty": 1, "translation": "Mỗi"},
+        {"word": "member", "type": "noun", "difficulty": 1, "translation": "thành viên"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "each", "type": "determiner", "difficulty": 1, "translation": "mỗi"},
+        {"word": "team", "type": "noun", "difficulty": 1, "translation": "đội"},
+        {"word": "will", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "get", "type": "verb", "difficulty": 1, "translation": "nhận"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "free", "type": "adjective", "difficulty": 1, "translation": "miễn phí"},
+        {"word": "bag", "type": "noun", "difficulty": 1, "translation": "túi"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "goodies", "type": "noun", "difficulty": 2, "translation": "đồ ngọt/quà"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "local", "type": "adjective", "difficulty": 1, "translation": "địa phương"},
+        {"word": "businesses", "type": "noun", "difficulty": 1, "translation": "doanh nghiệp"},
+        {"word": "if", "type": "conjunction", "difficulty": 1, "translation": "nếu"},
+        {"word": "they", "type": "pronoun", "difficulty": 1, "translation": "họ"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "raise", "type": "verb", "difficulty": 2, "translation": "quyên góp"},
+        {"word": "£500", "type": "noun", "difficulty": 1, "translation": "500 bảng Anh"},
+        {"word": "or", "type": "conjunction", "difficulty": 1, "translation": "hoặc"},
+        {"word": "more", "type": "adjective", "difficulty": 1, "translation": "nhiều hơn"}
+      ]
+    },
+    {
+      "segment_id": 33,
+      "audio_timestamp_start": 97.0,
+      "audio_timestamp_end": 98.0,
+      "text": "Oh, that's nice.",
+      "tokens": [
+        {"word": "Oh", "type": "interjection", "difficulty": 1, "translation": "Ồ"},
+        {"word": "that's", "type": "contraction", "difficulty": 1, "translation": "điều đó thì"},
+        {"word": "nice", "type": "adjective", "difficulty": 1, "translation": "tuyệt"}
+      ]
+    },
+    {
+      "segment_id": 34,
+      "audio_timestamp_start": 98.5,
+      "audio_timestamp_end": 101.5,
+      "text": "Also, there'll be a quiz game in the end.",
+      "tokens": [
+        {"word": "Also", "type": "adverb", "difficulty": 1, "translation": "Ngoài ra"},
+        {"word": "there'll", "type": "contraction", "difficulty": 1, "translation": "sẽ có"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "là/có"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "quiz", "type": "noun", "difficulty": 1, "translation": "câu đố"},
+        {"word": "game", "type": "noun", "difficulty": 1, "translation": "trò chơi"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "vào"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "lúc"},
+        {"word": "end", "type": "noun", "difficulty": 1, "translation": "cuối"}
+      ]
+    },
+    {
+      "segment_id": 35,
+      "audio_timestamp_start": 102.0,
+      "audio_timestamp_end": 104.0,
+      "text": "Oh, what will the winner receive?",
+      "tokens": [
+        {"word": "Oh", "type": "interjection", "difficulty": 1, "translation": "Ồ"},
+        {"word": "what", "type": "pronoun", "difficulty": 1, "translation": "cái gì"},
+        {"word": "will", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "người"},
+        {"word": "winner", "type": "noun", "difficulty": 1, "translation": "chiến thắng"},
+        {"word": "receive", "type": "verb", "difficulty": 2, "translation": "nhận được"}
+      ]
+    },
+    {
+      "segment_id": 36,
+      "audio_timestamp_start": 104.0,
+      "audio_timestamp_end": 105.5,
+      "text": "A new motorcycle.",
+      "tokens": [
+        {"word": "A", "type": "article", "difficulty": 1, "translation": "Một"},
+        {"word": "new", "type": "adjective", "difficulty": 1, "translation": "mới"},
+        {"word": "motorcycle", "type": "noun", "difficulty": 1, "translation": "xe máy"}
+      ]
+    },
+    {
+      "segment_id": 37,
+      "audio_timestamp_start": 106.0,
+      "audio_timestamp_end": 108.0,
+      "text": "That sounds amazing.",
+      "tokens": [
+        {"word": "That", "type": "pronoun", "difficulty": 1, "translation": "Nghe"},
+        {"word": "sounds", "type": "verb", "difficulty": 1, "translation": "có vẻ"},
+        {"word": "amazing", "type": "adjective", "difficulty": 1, "translation": "tuyệt vời"}
+      ]
+    }
+  ]
+}

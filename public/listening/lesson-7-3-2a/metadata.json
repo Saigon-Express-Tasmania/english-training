@@ -1,0 +1,290 @@
+{
+  "title": "Festival Details: Activities, Food, and Booking",
+  "transcript": "Okay, so can you tell me when the activity will begin? It starts at the end of August, from the 24th to the 27th. Can you tell me about the celebrities that will be there? Well, there is a band called The Face. Oh, cool, The Face. They're absolutely amazing. We've also booked the jazz singer Elena who is famous for Latin American music. Great. And what about food and drink? What kinds of snacks will be available? Mainly Spanish food, stuff like tapas, paella, and we're hiring a Spanish chef to cook everything outside in the open air. Will there be anything for children to do? Of course. There'll be plenty of things for the kids to do. There's a small castle, a jungle gym... Where will people be able to stay? Most people tend to bring their own tents and sleep in the field. Oh right. And do we need to book? Can we buy tickets here? No, you'll need to book them in advance by calling the ticket office.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 3.0,
+      "text": "Okay, so can you tell me when the activity will begin?",
+      "tokens": [
+        {"word": "Okay", "type": "interjection", "difficulty": 1, "translation": "Được rồi"},
+        {"word": "so", "type": "conjunction", "difficulty": 1, "translation": "vậy"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "tell", "type": "verb", "difficulty": 1, "translation": "nói"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "when", "type": "adverb", "difficulty": 1, "translation": "khi nào"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/sự"},
+        {"word": "activity", "type": "noun", "difficulty": 2, "translation": "hoạt động"},
+        {"word": "will", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "begin", "type": "verb", "difficulty": 1, "translation": "bắt đầu"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 3.5,
+      "audio_timestamp_end": 7.5,
+      "text": "It starts at the end of August, from the 24th to the 27th.",
+      "tokens": [
+        {"word": "It", "type": "pronoun", "difficulty": 1, "translation": "Nó"},
+        {"word": "starts", "type": "verb", "difficulty": 1, "translation": "bắt đầu"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "vào"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "thời điểm"},
+        {"word": "end", "type": "noun", "difficulty": 1, "translation": "cuối"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "August", "type": "noun", "difficulty": 1, "translation": "tháng Tám"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "ngày"},
+        {"word": "24th", "type": "noun", "difficulty": 1, "translation": "24"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "đến"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "ngày"},
+        {"word": "27th", "type": "noun", "difficulty": 1, "translation": "27"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 8.0,
+      "audio_timestamp_end": 10.5,
+      "text": "Can you tell me about the celebrities that will be there?",
+      "tokens": [
+        {"word": "Can", "type": "verb", "difficulty": 1, "translation": "Có thể"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "tell", "type": "verb", "difficulty": 1, "translation": "nói"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "celebrities", "type": "noun", "difficulty": 2, "translation": "người nổi tiếng"},
+        {"word": "that", "type": "pronoun", "difficulty": 1, "translation": "người mà"},
+        {"word": "will", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "ở"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "đó"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 11.0,
+      "audio_timestamp_end": 13.5,
+      "text": "Well, there is a band called The Face.",
+      "tokens": [
+        {"word": "Well", "type": "interjection", "difficulty": 1, "translation": "À/Chà"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "có"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "band", "type": "noun", "difficulty": 1, "translation": "ban nhạc"},
+        {"word": "called", "type": "verb", "difficulty": 1, "translation": "được gọi là"},
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "The"},
+        {"word": "Face", "type": "noun", "difficulty": 1, "translation": "Face"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 14.0,
+      "audio_timestamp_end": 17.5,
+      "text": "Oh, cool, The Face. They're absolutely amazing.",
+      "tokens": [
+        {"word": "Oh", "type": "interjection", "difficulty": 1, "translation": "Ồ"},
+        {"word": "cool", "type": "adjective", "difficulty": 1, "translation": "tuyệt"},
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "The"},
+        {"word": "Face", "type": "noun", "difficulty": 1, "translation": "Face"},
+        {"word": "They're", "type": "contraction", "difficulty": 1, "translation": "Họ thì"},
+        {"word": "absolutely", "type": "adverb", "difficulty": 2, "translation": "hoàn toàn"},
+        {"word": "amazing", "type": "adjective", "difficulty": 1, "translation": "tuyệt vời"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 18.0,
+      "audio_timestamp_end": 22.5,
+      "text": "We've also booked the jazz singer Elena who is famous for Latin American music.",
+      "tokens": [
+        {"word": "We've", "type": "contraction", "difficulty": 1, "translation": "Chúng tôi đã"},
+        {"word": "also", "type": "adverb", "difficulty": 1, "translation": "cũng"},
+        {"word": "booked", "type": "verb", "difficulty": 2, "translation": "đặt trước/mời"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "người"},
+        {"word": "jazz", "type": "noun", "difficulty": 1, "translation": "nhạc jazz"},
+        {"word": "singer", "type": "noun", "difficulty": 1, "translation": "ca sĩ"},
+        {"word": "Elena", "type": "noun", "difficulty": 1, "translation": "Elena"},
+        {"word": "who", "type": "pronoun", "difficulty": 1, "translation": "người mà"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "thì"},
+        {"word": "famous", "type": "adjective", "difficulty": 1, "translation": "nổi tiếng"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "vì"},
+        {"word": "Latin", "type": "adjective", "difficulty": 1, "translation": "Latinh"},
+        {"word": "American", "type": "adjective", "difficulty": 1, "translation": "Mỹ"},
+        {"word": "music", "type": "noun", "difficulty": 1, "translation": "âm nhạc"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 23.0,
+      "audio_timestamp_end": 26.5,
+      "text": "Great. And what about food and drink? What kinds of snacks will be available?",
+      "tokens": [
+        {"word": "Great", "type": "adjective", "difficulty": 1, "translation": "Tuyệt vời"},
+        {"word": "And", "type": "conjunction", "difficulty": 1, "translation": "Và"},
+        {"word": "what", "type": "pronoun", "difficulty": 1, "translation": "cái gì"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "food", "type": "noun", "difficulty": 1, "translation": "thức ăn"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "drink", "type": "noun", "difficulty": 1, "translation": "đồ uống"},
+        {"word": "What", "type": "pronoun", "difficulty": 1, "translation": "Những"},
+        {"word": "kinds", "type": "noun", "difficulty": 1, "translation": "loại"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "snacks", "type": "noun", "difficulty": 1, "translation": "đồ ăn nhẹ"},
+        {"word": "will", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "available", "type": "adjective", "difficulty": 2, "translation": "sẵn sàng/có sẵn"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 27.0,
+      "audio_timestamp_end": 35.0,
+      "text": "Mainly Spanish food, stuff like tapas, paella, and we're hiring a Spanish chef to cook everything outside in the open air.",
+      "tokens": [
+        {"word": "Mainly", "type": "adverb", "difficulty": 2, "translation": "Chủ yếu"},
+        {"word": "Spanish", "type": "adjective", "difficulty": 1, "translation": "Tây Ban Nha"},
+        {"word": "food", "type": "noun", "difficulty": 1, "translation": "thức ăn"},
+        {"word": "stuff", "type": "noun", "difficulty": 1, "translation": "những thứ"},
+        {"word": "like", "type": "preposition", "difficulty": 1, "translation": "như"},
+        {"word": "tapas", "type": "noun", "difficulty": 3, "translation": "món khai vị Tây Ban Nha"},
+        {"word": "paella", "type": "noun", "difficulty": 3, "translation": "cơm thập cẩm Tây Ban Nha"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "we're", "type": "contraction", "difficulty": 1, "translation": "chúng tôi đang"},
+        {"word": "hiring", "type": "verb", "difficulty": 2, "translation": "thuê"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "Spanish", "type": "adjective", "difficulty": 1, "translation": "Tây Ban Nha"},
+        {"word": "chef", "type": "noun", "difficulty": 2, "translation": "đầu bếp"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "cook", "type": "verb", "difficulty": 1, "translation": "nấu"},
+        {"word": "everything", "type": "pronoun", "difficulty": 1, "translation": "mọi thứ"},
+        {"word": "outside", "type": "adverb", "difficulty": 1, "translation": "bên ngoài"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "không gian"},
+        {"word": "open", "type": "adjective", "difficulty": 1, "translation": "mở/ngoài"},
+        {"word": "air", "type": "noun", "difficulty": 1, "translation": "trời"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 35.5,
+      "audio_timestamp_end": 37.5,
+      "text": "Will there be anything for children to do?",
+      "tokens": [
+        {"word": "Will", "type": "verb", "difficulty": 1, "translation": "Sẽ"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "có"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "anything", "type": "pronoun", "difficulty": 1, "translation": "bất cứ thứ gì"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "children", "type": "noun", "difficulty": 1, "translation": "trẻ em"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "làm"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 38.0,
+      "audio_timestamp_end": 43.5,
+      "text": "Of course. There'll be plenty of things for the kids to do. There's a small castle, a jungle gym...",
+      "tokens": [
+        {"word": "Of", "type": "preposition", "difficulty": 1, "translation": "Dĩ"},
+        {"word": "course", "type": "noun", "difficulty": 1, "translation": "nhiên"},
+        {"word": "There'll", "type": "contraction", "difficulty": 1, "translation": "Sẽ có"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "plenty", "type": "noun", "difficulty": 2, "translation": "nhiều"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của/những"},
+        {"word": "things", "type": "noun", "difficulty": 1, "translation": "thứ"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "kids", "type": "noun", "difficulty": 1, "translation": "trẻ em"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "làm"},
+        {"word": "There's", "type": "contraction", "difficulty": 1, "translation": "Có"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "small", "type": "adjective", "difficulty": 1, "translation": "nhỏ"},
+        {"word": "castle", "type": "noun", "difficulty": 2, "translation": "lâu đài"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "jungle", "type": "noun", "difficulty": 2, "translation": "khu vui chơi/rừng"},
+        {"word": "gym", "type": "noun", "difficulty": 2, "translation": "khung leo trèo"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 44.0,
+      "audio_timestamp_end": 46.0,
+      "text": "Where will people be able to stay?",
+      "tokens": [
+        {"word": "Where", "type": "adverb", "difficulty": 1, "translation": "Ở đâu"},
+        {"word": "will", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "mọi người"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "able", "type": "adjective", "difficulty": 1, "translation": "khả năng"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "stay", "type": "verb", "difficulty": 1, "translation": "ở lại"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 46.5,
+      "audio_timestamp_end": 50.0,
+      "text": "Most people tend to bring their own tents and sleep in the field.",
+      "tokens": [
+        {"word": "Most", "type": "adjective", "difficulty": 1, "translation": "Hầu hết"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "mọi người"},
+        {"word": "tend", "type": "verb", "difficulty": 2, "translation": "có xu hướng"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "bring", "type": "verb", "difficulty": 1, "translation": "mang"},
+        {"word": "their", "type": "pronoun", "difficulty": 1, "translation": "của họ"},
+        {"word": "own", "type": "adjective", "difficulty": 1, "translation": "riêng"},
+        {"word": "tents", "type": "noun", "difficulty": 2, "translation": "lều"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "sleep", "type": "verb", "difficulty": 1, "translation": "ngủ"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "field", "type": "noun", "difficulty": 1, "translation": "cánh đồng"}
+      ]
+    },
+    {
+      "segment_id": 13,
+      "audio_timestamp_start": 50.5,
+      "audio_timestamp_end": 54.0,
+      "text": "Oh right. And do we need to book? Can we buy tickets here?",
+      "tokens": [
+        {"word": "Oh", "type": "interjection", "difficulty": 1, "translation": "Ồ"},
+        {"word": "right", "type": "adjective", "difficulty": 1, "translation": "đúng vậy"},
+        {"word": "And", "type": "conjunction", "difficulty": 1, "translation": "Và"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "trợ động từ"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "chúng ta"},
+        {"word": "need", "type": "verb", "difficulty": 1, "translation": "cần"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "book", "type": "verb", "difficulty": 1, "translation": "đặt chỗ"},
+        {"word": "Can", "type": "verb", "difficulty": 1, "translation": "Có thể"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "chúng ta"},
+        {"word": "buy", "type": "verb", "difficulty": 1, "translation": "mua"},
+        {"word": "tickets", "type": "noun", "difficulty": 1, "translation": "vé"},
+        {"word": "here", "type": "adverb", "difficulty": 1, "translation": "ở đây"}
+      ]
+    },
+    {
+      "segment_id": 14,
+      "audio_timestamp_start": 54.5,
+      "audio_timestamp_end": 59.0,
+      "text": "No, you'll need to book them in advance by calling the ticket office.",
+      "tokens": [
+        {"word": "No", "type": "interjection", "difficulty": 1, "translation": "Không"},
+        {"word": "you'll", "type": "contraction", "difficulty": 1, "translation": "bạn sẽ"},
+        {"word": "need", "type": "verb", "difficulty": 1, "translation": "cần"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "book", "type": "verb", "difficulty": 1, "translation": "đặt"},
+        {"word": "them", "type": "pronoun", "difficulty": 1, "translation": "chúng"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trước"},
+        {"word": "advance", "type": "noun", "difficulty": 2, "translation": "sự ứng trước"},
+        {"word": "by", "type": "preposition", "difficulty": 1, "translation": "bằng cách"},
+        {"word": "calling", "type": "verb", "difficulty": 1, "translation": "gọi"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "ticket", "type": "noun", "difficulty": 1, "translation": "vé"},
+        {"word": "office", "type": "noun", "difficulty": 1, "translation": "văn phòng"}
+      ]
+    }
+  ]
+}
