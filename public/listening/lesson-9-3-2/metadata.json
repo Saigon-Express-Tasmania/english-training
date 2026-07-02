@@ -1,0 +1,151 @@
+﻿{
+  "title": "A Visit to the Park and Improvements",
+  "transcript": "The last time I went to a park was actually a couple of weeks ago. My friends and I decided to play soccer to keep fit and enjoy the bright sunny day. The air was fresh, which enabled us to appreciate the scenery. To better the park near my house, I would advise the local government to set up more public facilities, such as basketball courts or tennis courts for residents to spend their leisure time. It would also be beneficial to plant more flowers. This will beautify the surrounding area and make the park more attractive.[cite: 1]",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 5.97,
+      "text": "The last time I went to a park was actually a couple of weeks ago.[cite: 1]",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Cái/Các"},
+        {"word": "last", "type": "adjective", "difficulty": 1, "translation": "Trước/Cuối cùng"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "Lần/Thời gian"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "went", "type": "verb", "difficulty": 1, "translation": "Đã đi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "Đến"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "Một"},
+        {"word": "park", "type": "noun", "difficulty": 1, "translation": "Công viên"},
+        {"word": "was", "type": "verb", "difficulty": 1, "translation": "Đã là"},
+        {"word": "actually", "type": "adverb", "difficulty": 2, "translation": "Thực sự"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "Một"},
+        {"word": "couple", "type": "noun", "difficulty": 2, "translation": "Vài/Cặp"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "Của"},
+        {"word": "weeks", "type": "noun", "difficulty": 1, "translation": "Tuần"},
+        {"word": "ago", "type": "adverb", "difficulty": 1, "translation": "Trước đây"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 5.97,
+      "audio_timestamp_end": 8.91,
+      "text": "My friends and I decided to play soccer to keep fit and enjoy the bright sunny day.[cite: 1]",
+      "tokens": [
+        {"word": "My", "type": "pronoun", "difficulty": 1, "translation": "Của tôi"},
+        {"word": "friends", "type": "noun", "difficulty": 1, "translation": "Bạn bè"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "Và"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "decided", "type": "verb", "difficulty": 2, "translation": "Đã quyết định"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "Để"},
+        {"word": "play", "type": "verb", "difficulty": 1, "translation": "Chơi"},
+        {"word": "soccer", "type": "noun", "difficulty": 1, "translation": "Bóng đá"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "Để"},
+        {"word": "keep", "type": "verb", "difficulty": 1, "translation": "Giữ"},
+        {"word": "fit", "type": "adjective", "difficulty": 2, "translation": "Cân đối/Khỏe mạnh"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "Và"},
+        {"word": "enjoy", "type": "verb", "difficulty": 2, "translation": "Thưởng thức/Tận hưởng"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "Cái/Các"},
+        {"word": "bright", "type": "adjective", "difficulty": 2, "translation": "Tươi sáng"},
+        {"word": "sunny", "type": "adjective", "difficulty": 1, "translation": "Có nắng"},
+        {"word": "day", "type": "noun", "difficulty": 1, "translation": "Ngày"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 8.93,
+      "audio_timestamp_end": 14.31,
+      "text": "The air was fresh, which enabled us to appreciate the scenery.[cite: 1]",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Cái/Các"},
+        {"word": "air", "type": "noun", "difficulty": 1, "translation": "Không khí"},
+        {"word": "was", "type": "verb", "difficulty": 1, "translation": "Đã là"},
+        {"word": "fresh", "type": "adjective", "difficulty": 2, "translation": "Trong lành"},
+        {"word": "which", "type": "pronoun", "difficulty": 2, "translation": "Điều mà"},
+        {"word": "enabled", "type": "verb", "difficulty": 3, "translation": "Đã cho phép/Giúp"},
+        {"word": "us", "type": "pronoun", "difficulty": 1, "translation": "Chúng tôi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "Để"},
+        {"word": "appreciate", "type": "verb", "difficulty": 3, "translation": "Trân trọng/Thưởng thức"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "Cái/Các"},
+        {"word": "scenery", "type": "noun", "difficulty": 3, "translation": "Phong cảnh"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 14.88,
+      "audio_timestamp_end": 26.22,
+      "text": "To better the park near my house, I would advise the local government to set up more public facilities, such as basketball courts or tennis courts for residents to spend their leisure time.[cite: 1]",
+      "tokens": [
+        {"word": "To", "type": "preposition", "difficulty": 1, "translation": "Để"},
+        {"word": "better", "type": "verb", "difficulty": 2, "translation": "Cải thiện/Làm tốt hơn"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "Cái/Các"},
+        {"word": "park", "type": "noun", "difficulty": 1, "translation": "Công viên"},
+        {"word": "near", "type": "preposition", "difficulty": 1, "translation": "Gần"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "Của tôi"},
+        {"word": "house", "type": "noun", "difficulty": 1, "translation": "Nhà"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "would", "type": "verb", "difficulty": 2, "translation": "Sẽ"},
+        {"word": "advise", "type": "verb", "difficulty": 3, "translation": "Khuyên"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "Cái/Các"},
+        {"word": "local", "type": "adjective", "difficulty": 2, "translation": "Địa phương"},
+        {"word": "government", "type": "noun", "difficulty": 3, "translation": "Chính quyền/Chính phủ"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "Để"},
+        {"word": "set", "type": "verb", "difficulty": 1, "translation": "Thiết lập"},
+        {"word": "up", "type": "preposition", "difficulty": 1, "translation": "Lên"},
+        {"word": "more", "type": "adjective", "difficulty": 1, "translation": "Nhiều hơn"},
+        {"word": "public", "type": "adjective", "difficulty": 2, "translation": "Công cộng"},
+        {"word": "facilities", "type": "noun", "difficulty": 3, "translation": "Cơ sở vật chất"},
+        {"word": "such", "type": "adjective", "difficulty": 2, "translation": "Như"},
+        {"word": "as", "type": "preposition", "difficulty": 1, "translation": "Là"},
+        {"word": "basketball", "type": "noun", "difficulty": 1, "translation": "Bóng rổ"},
+        {"word": "courts", "type": "noun", "difficulty": 2, "translation": "Sân"},
+        {"word": "or", "type": "conjunction", "difficulty": 1, "translation": "Hoặc"},
+        {"word": "tennis", "type": "noun", "difficulty": 1, "translation": "Quần vợt"},
+        {"word": "courts", "type": "noun", "difficulty": 2, "translation": "Sân"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "Cho"},
+        {"word": "residents", "type": "noun", "difficulty": 3, "translation": "Cư dân"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "Để"},
+        {"word": "spend", "type": "verb", "difficulty": 2, "translation": "Dành/Tiêu"},
+        {"word": "their", "type": "pronoun", "difficulty": 1, "translation": "Của họ"},
+        {"word": "leisure", "type": "noun", "difficulty": 3, "translation": "Giải trí/Rảnh rỗi"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "Thời gian"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 26.80,
+      "audio_timestamp_end": 29.80,
+      "text": "It would also be beneficial to plant more flowers.[cite: 1]",
+      "tokens": [
+        {"word": "It", "type": "pronoun", "difficulty": 1, "translation": "Nó"},
+        {"word": "would", "type": "verb", "difficulty": 2, "translation": "Sẽ"},
+        {"word": "also", "type": "adverb", "difficulty": 1, "translation": "Cũng"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "Là/Trở thành"},
+        {"word": "beneficial", "type": "adjective", "difficulty": 4, "translation": "Có lợi/Hữu ích"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "Để"},
+        {"word": "plant", "type": "verb", "difficulty": 2, "translation": "Trồng"},
+        {"word": "more", "type": "adjective", "difficulty": 1, "translation": "Nhiều hơn"},
+        {"word": "flowers", "type": "noun", "difficulty": 1, "translation": "Hoa"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 29.77,
+      "audio_timestamp_end": 34.75,
+      "text": "This will beautify the surrounding area and make the park more attractive.[cite: 1]",
+      "tokens": [
+        {"word": "This", "type": "pronoun", "difficulty": 1, "translation": "Điều này"},
+        {"word": "will", "type": "verb", "difficulty": 1, "translation": "Sẽ"},
+        {"word": "beautify", "type": "verb", "difficulty": 4, "translation": "Làm đẹp"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "Cái/Các"},
+        {"word": "surrounding", "type": "adjective", "difficulty": 3, "translation": "Xung quanh"},
+        {"word": "area", "type": "noun", "difficulty": 1, "translation": "Khu vực"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "Và"},
+        {"word": "make", "type": "verb", "difficulty": 1, "translation": "Làm cho"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "Cái/Các"},
+        {"word": "park", "type": "noun", "difficulty": 1, "translation": "Công viên"},
+        {"word": "more", "type": "adverb", "difficulty": 1, "translation": "Hơn"},
+        {"word": "attractive", "type": "adjective", "difficulty": 3, "translation": "Hấp dẫn/Thu hút"}
+      ]
+    }
+  ]
+}

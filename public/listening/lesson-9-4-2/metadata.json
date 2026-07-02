@@ -1,0 +1,154 @@
+﻿{
+  "title": "Ordering Flowers for Mother's Day",
+  "transcript": "Hi, how can I help you? I'd like to buy flowers for my mum since today is Mother's Day. In that case, I recommend you to buy carnations. They are very popular on Mother's Day. I prefer to buy some special flowers different from others. No problem. Do you like lilies? Lilies are related to purity and virtue. Mmm, it's lovely, could you help me wrap them? Sure. Would you like a thank you note with the flowers? Yes, that would be perfect. Your mother's name? Sylvia. S-I-L-V-I-A. No, it's S-Y-L-V-I-A. Okay, would you like to put a sentence? Oh, just I love you. May I have the address you'd like to deliver them to? It's 18 Drakefell Road. Could you tell me how to spell it? Yes, D-R-A-K-E-F-E-L-L. Okay, when do you like the flowers to be delivered? Um, probably 10 a.m. Oh, I forgot we would visit my aunt until 1 p.m. Can you deliver them at 3:30 p.m.? No problem. The delivery fee is 5 pounds. It's 25 pounds altogether. I have given you a discount of 10%. Well... That's great, thank you.[cite: 2]",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 2.6,
+      "text": "Hi, how can I help you?[cite: 2]",
+      "tokens": [
+        {"word": "Hi", "type": "interjection", "difficulty": 1, "translation": "Xin chào"},
+        {"word": "how", "type": "adverb", "difficulty": 1, "translation": "Như thế nào"},
+        {"word": "can", "type": "modal_verb", "difficulty": 1, "translation": "Có thể"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "help", "type": "verb", "difficulty": 1, "translation": "Giúp"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "Bạn"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 2.97,
+      "audio_timestamp_end": 8.95,
+      "text": "I'd like to buy flowers for my mum since today is Mother's Day.[cite: 2]",
+      "tokens": [
+        {"word": "I'd", "type": "pronoun", "difficulty": 2, "translation": "Tôi muốn"},
+        {"word": "like", "type": "verb", "difficulty": 1, "translation": "Thích/Muốn"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "Để"},
+        {"word": "buy", "type": "verb", "difficulty": 1, "translation": "Mua"},
+        {"word": "flowers", "type": "noun", "difficulty": 1, "translation": "Hoa"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "Cho"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "Của tôi"},
+        {"word": "mum", "type": "noun", "difficulty": 1, "translation": "Mẹ"},
+        {"word": "since", "type": "conjunction", "difficulty": 2, "translation": "Vì/Bởi vì"},
+        {"word": "today", "type": "noun", "difficulty": 1, "translation": "Hôm nay"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "Là"},
+        {"word": "Mother's", "type": "noun", "difficulty": 1, "translation": "Của Mẹ"},
+        {"word": "Day", "type": "noun", "difficulty": 1, "translation": "Ngày"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 5.95,
+      "audio_timestamp_end": 11.93,
+      "text": "In that case, I recommend you to buy carnations.[cite: 2]",
+      "tokens": [
+        {"word": "In", "type": "preposition", "difficulty": 1, "translation": "Trong"},
+        {"word": "that", "type": "pronoun", "difficulty": 1, "translation": "Đó"},
+        {"word": "case", "type": "noun", "difficulty": 2, "translation": "Trường hợp"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "recommend", "type": "verb", "difficulty": 3, "translation": "Gợi ý/Khuyên"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "Bạn"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "Để"},
+        {"word": "buy", "type": "verb", "difficulty": 1, "translation": "Mua"},
+        {"word": "carnations", "type": "noun", "difficulty": 4, "translation": "Hoa cẩm chướng"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 8.93,
+      "audio_timestamp_end": 11.93,
+      "text": "They are very popular on Mother's Day.[cite: 2]",
+      "tokens": [
+        {"word": "They", "type": "pronoun", "difficulty": 1, "translation": "Chúng"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "Là"},
+        {"word": "very", "type": "adverb", "difficulty": 1, "translation": "Rất"},
+        {"word": "popular", "type": "adjective", "difficulty": 2, "translation": "Phổ biến"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "Vào"},
+        {"word": "Mother's", "type": "noun", "difficulty": 1, "translation": "Của Mẹ"},
+        {"word": "Day", "type": "noun", "difficulty": 1, "translation": "Ngày"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 11.91,
+      "audio_timestamp_end": 16.88,
+      "text": "I prefer to buy some special flowers different from others.[cite: 2]",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "prefer", "type": "verb", "difficulty": 2, "translation": "Thích hơn"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "Để"},
+        {"word": "buy", "type": "verb", "difficulty": 1, "translation": "Mua"},
+        {"word": "some", "type": "adjective", "difficulty": 1, "translation": "Một vài"},
+        {"word": "special", "type": "adjective", "difficulty": 2, "translation": "Đặc biệt"},
+        {"word": "flowers", "type": "noun", "difficulty": 1, "translation": "Hoa"},
+        {"word": "different", "type": "adjective", "difficulty": 2, "translation": "Khác biệt"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "Từ/Với"},
+        {"word": "others", "type": "noun", "difficulty": 2, "translation": "Những người/cái khác"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 16.88,
+      "audio_timestamp_end": 17.88,
+      "text": "No problem.[cite: 2]",
+      "tokens": [
+        {"word": "No", "type": "adjective", "difficulty": 1, "translation": "Không"},
+        {"word": "problem", "type": "noun", "difficulty": 1, "translation": "Vấn đề"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 17.86,
+      "audio_timestamp_end": 19.30,
+      "text": "Do you like lilies?[cite: 2]",
+      "tokens": [
+        {"word": "Do", "type": "verb", "difficulty": 1, "translation": "Làm/Trợ động từ"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "Bạn"},
+        {"word": "like", "type": "verb", "difficulty": 1, "translation": "Thích"},
+        {"word": "lilies", "type": "noun", "difficulty": 3, "translation": "Hoa huệ tây/Hoa ly"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 19.30,
+      "audio_timestamp_end": 23.80,
+      "text": "Lilies are related to purity and virtue.[cite: 2]",
+      "tokens": [
+        {"word": "Lilies", "type": "noun", "difficulty": 3, "translation": "Hoa huệ tây/Hoa ly"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "Là"},
+        {"word": "related", "type": "adjective", "difficulty": 2, "translation": "Liên quan"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "Đến"},
+        {"word": "purity", "type": "noun", "difficulty": 4, "translation": "Sự thuần khiết"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "Và"},
+        {"word": "virtue", "type": "noun", "difficulty": 4, "translation": "Đức hạnh"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 20.84,
+      "audio_timestamp_end": 25.22,
+      "text": "Mmm, it's lovely, could you help me wrap them?[cite: 2]",
+      "tokens": [
+        {"word": "Mmm", "type": "interjection", "difficulty": 1, "translation": "Ừm"},
+        {"word": "it's", "type": "pronoun", "difficulty": 1, "translation": "Nó thì"},
+        {"word": "lovely", "type": "adjective", "difficulty": 2, "translation": "Đáng yêu/Tuyệt đẹp"},
+        {"word": "could", "type": "modal_verb", "difficulty": 2, "translation": "Có thể"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "Bạn"},
+        {"word": "help", "type": "verb", "difficulty": 1, "translation": "Giúp"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "wrap", "type": "verb", "difficulty": 3, "translation": "Gói/Bọc"},
+        {"word": "them", "type": "pronoun", "difficulty": 1, "translation": "Chúng"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 25.22,
+      "audio_timestamp_end": 26.22,
+      "text": "Sure.[cite: 2]",
+      "tokens": [
+        {"word": "Sure", "type": "adverb", "difficulty": 1, "translation": "Chắc chắn rồi"}
+      ]
+    }
+  ]
+}

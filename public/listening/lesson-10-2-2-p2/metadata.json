@@ -1,0 +1,472 @@
+﻿{
+  "title": "Family, Free Time, and School Memories",
+  "transcript": "So, Hussein, I'm going to ask you some questions about your family. Do you come from a large family or a small family? I'm sorry, I didn't catch that. Do you come from a large family or a small family? Well actually, my family is pretty, um, how do you say it, it's half size, no, no, sorry, it's medium-sized. I have three sisters who are all younger than me. Do you spend more time with your family or your friends? Oh, I think I definitely spend more time with my friends now, though I do still spend time with my sisters. I live quite far away from my family these days, so I don't have as much time to spend with them. That's why I hang out with my friends so often. How do you spend your free time? When I was a kid, I played football quite a lot, especially when I was about seven or eight. A lot of kids nowadays stay indoors, but we always played outside. I've always been into sports, but now I like less active things like chess. What do you enjoy most about school? My favorite subject was definitely English. I loved learning English songs and watching movies, and I always read English books when I got home. When you were at school, who was your favourite teacher? Oh, definitely my English teacher, because she always made classes fun. Also, she was very, I'm not sure what the word is. Happy, no, passionate. She cared about our feelings. I mean, whenever we had a problem, we could talk to her. I never missed any of her lessons.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 3.0,
+      "text": "So, Hussein, I'm going to ask you some questions about your family.",
+      "tokens": [
+        {"word": "So", "type": "conjunction", "difficulty": 1, "translation": "Vậy thì"},
+        {"word": "Hussein", "type": "noun", "difficulty": 1, "translation": "Hussein (tên riêng)"},
+        {"word": "I'm", "type": "pronoun_verb", "difficulty": 1, "translation": "tôi sẽ/đang"},
+        {"word": "going", "type": "verb", "difficulty": 1, "translation": "dự định"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "ask", "type": "verb", "difficulty": 1, "translation": "hỏi"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "some", "type": "determiner", "difficulty": 1, "translation": "một vài"},
+        {"word": "questions", "type": "noun", "difficulty": 1, "translation": "câu hỏi"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "family", "type": "noun", "difficulty": 1, "translation": "gia đình"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 3.0,
+      "audio_timestamp_end": 8.3,
+      "text": "Do you come from a large family or a small family?",
+      "tokens": [
+        {"word": "Do", "type": "verb", "difficulty": 1, "translation": "(trợ động từ)"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "come", "type": "verb", "difficulty": 1, "translation": "đến"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "large", "type": "adjective", "difficulty": 1, "translation": "lớn"},
+        {"word": "family", "type": "noun", "difficulty": 1, "translation": "gia đình"},
+        {"word": "or", "type": "conjunction", "difficulty": 1, "translation": "hay/hoặc"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "small", "type": "adjective", "difficulty": 1, "translation": "nhỏ"},
+        {"word": "family", "type": "noun", "difficulty": 1, "translation": "gia đình"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 8.9,
+      "audio_timestamp_end": 10.9,
+      "text": "I'm sorry, I didn't catch that.",
+      "tokens": [
+        {"word": "I'm", "type": "pronoun_verb", "difficulty": 1, "translation": "Tôi thì"},
+        {"word": "sorry", "type": "adjective", "difficulty": 1, "translation": "xin lỗi"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "didn't", "type": "verb", "difficulty": 1, "translation": "đã không"},
+        {"word": "catch", "type": "verb", "difficulty": 2, "translation": "bắt được/nghe rõ"},
+        {"word": "that", "type": "pronoun", "difficulty": 1, "translation": "điều đó"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 10.9,
+      "audio_timestamp_end": 14.4,
+      "text": "Do you come from a large family or a small family?",
+      "tokens": [
+        {"word": "Do", "type": "verb", "difficulty": 1, "translation": "(trợ động từ)"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "come", "type": "verb", "difficulty": 1, "translation": "đến"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "large", "type": "adjective", "difficulty": 1, "translation": "lớn"},
+        {"word": "family", "type": "noun", "difficulty": 1, "translation": "gia đình"},
+        {"word": "or", "type": "conjunction", "difficulty": 1, "translation": "hay/hoặc"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "small", "type": "adjective", "difficulty": 1, "translation": "nhỏ"},
+        {"word": "family", "type": "noun", "difficulty": 1, "translation": "gia đình"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 14.4,
+      "audio_timestamp_end": 20.8,
+      "text": "Well actually, my family is pretty, um, how do you say it, it's half size, no, no, sorry, it's medium-sized.",
+      "tokens": [
+        {"word": "Well", "type": "interjection", "difficulty": 1, "translation": "À"},
+        {"word": "actually", "type": "adverb", "difficulty": 2, "translation": "thực ra"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "family", "type": "noun", "difficulty": 1, "translation": "gia đình"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "pretty", "type": "adverb", "difficulty": 2, "translation": "khá"},
+        {"word": "um", "type": "interjection", "difficulty": 1, "translation": "ừm"},
+        {"word": "how", "type": "adverb", "difficulty": 1, "translation": "thế nào"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "(trợ động từ)"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "say", "type": "verb", "difficulty": 1, "translation": "nói"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "it's", "type": "pronoun_verb", "difficulty": 1, "translation": "nó là"},
+        {"word": "half", "type": "adjective", "difficulty": 1, "translation": "nửa"},
+        {"word": "size", "type": "noun", "difficulty": 1, "translation": "kích cỡ"},
+        {"word": "no", "type": "interjection", "difficulty": 1, "translation": "không"},
+        {"word": "sorry", "type": "adjective", "difficulty": 1, "translation": "xin lỗi"},
+        {"word": "it's", "type": "pronoun_verb", "difficulty": 1, "translation": "nó là"},
+        {"word": "medium-sized", "type": "adjective", "difficulty": 2, "translation": "cỡ vừa"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 20.8,
+      "audio_timestamp_end": 26.5,
+      "text": "I have three sisters who are all younger than me.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "three", "type": "number", "difficulty": 1, "translation": "ba"},
+        {"word": "sisters", "type": "noun", "difficulty": 1, "translation": "chị/em gái"},
+        {"word": "who", "type": "pronoun", "difficulty": 1, "translation": "người mà"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "thì"},
+        {"word": "all", "type": "adverb", "difficulty": 1, "translation": "tất cả"},
+        {"word": "younger", "type": "adjective", "difficulty": 1, "translation": "trẻ hơn"},
+        {"word": "than", "type": "preposition", "difficulty": 1, "translation": "hơn"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 26.8,
+      "audio_timestamp_end": 29.7,
+      "text": "Do you spend more time with your family or your friends?",
+      "tokens": [
+        {"word": "Do", "type": "verb", "difficulty": 1, "translation": "(trợ động từ)"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "spend", "type": "verb", "difficulty": 2, "translation": "dành (thời gian)"},
+        {"word": "more", "type": "adjective", "difficulty": 1, "translation": "nhiều hơn"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "thời gian"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "family", "type": "noun", "difficulty": 1, "translation": "gia đình"},
+        {"word": "or", "type": "conjunction", "difficulty": 1, "translation": "hay"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "friends", "type": "noun", "difficulty": 1, "translation": "bạn bè"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 29.7,
+      "audio_timestamp_end": 35.7,
+      "text": "Oh, I think I definitely spend more time with my friends now, though I do still spend time with my sisters.",
+      "tokens": [
+        {"word": "Oh", "type": "interjection", "difficulty": 1, "translation": "Ồ"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "think", "type": "verb", "difficulty": 1, "translation": "nghĩ"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "definitely", "type": "adverb", "difficulty": 2, "translation": "chắc chắn"},
+        {"word": "spend", "type": "verb", "difficulty": 1, "translation": "dành"},
+        {"word": "more", "type": "adjective", "difficulty": 1, "translation": "nhiều hơn"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "thời gian"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "friends", "type": "noun", "difficulty": 1, "translation": "bạn bè"},
+        {"word": "now", "type": "adverb", "difficulty": 1, "translation": "bây giờ"},
+        {"word": "though", "type": "conjunction", "difficulty": 2, "translation": "mặc dù"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "(nhấn mạnh)"},
+        {"word": "still", "type": "adverb", "difficulty": 1, "translation": "vẫn"},
+        {"word": "spend", "type": "verb", "difficulty": 1, "translation": "dành"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "thời gian"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "sisters", "type": "noun", "difficulty": 1, "translation": "chị em gái"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 35.7,
+      "audio_timestamp_end": 41.6,
+      "text": "I live quite far away from my family these days, so I don't have as much time to spend with them.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "live", "type": "verb", "difficulty": 1, "translation": "sống"},
+        {"word": "quite", "type": "adverb", "difficulty": 2, "translation": "khá"},
+        {"word": "far", "type": "adverb", "difficulty": 1, "translation": "xa"},
+        {"word": "away", "type": "adverb", "difficulty": 1, "translation": "cách xa"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "family", "type": "noun", "difficulty": 1, "translation": "gia đình"},
+        {"word": "these", "type": "determiner", "difficulty": 1, "translation": "những"},
+        {"word": "days", "type": "noun", "difficulty": 1, "translation": "ngày nay"},
+        {"word": "so", "type": "conjunction", "difficulty": 1, "translation": "vì vậy"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "don't", "type": "verb", "difficulty": 1, "translation": "không"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "as", "type": "adverb", "difficulty": 2, "translation": "như"},
+        {"word": "much", "type": "adjective", "difficulty": 1, "translation": "nhiều"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "thời gian"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "spend", "type": "verb", "difficulty": 1, "translation": "dành"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "them", "type": "pronoun", "difficulty": 1, "translation": "họ"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 41.6,
+      "audio_timestamp_end": 44.3,
+      "text": "That's why I hang out with my friends so often.",
+      "tokens": [
+        {"word": "That's", "type": "pronoun_verb", "difficulty": 1, "translation": "Đó là"},
+        {"word": "why", "type": "adverb", "difficulty": 1, "translation": "tại sao"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "hang", "type": "phrasal_verb", "difficulty": 2, "translation": "đi chơi"},
+        {"word": "out", "type": "phrasal_verb", "difficulty": 2, "translation": "(đi kèm hang)"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "friends", "type": "noun", "difficulty": 1, "translation": "bạn bè"},
+        {"word": "so", "type": "adverb", "difficulty": 1, "translation": "rất"},
+        {"word": "often", "type": "adverb", "difficulty": 1, "translation": "thường xuyên"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 44.3,
+      "audio_timestamp_end": 46.6,
+      "text": "How do you spend your free time?",
+      "tokens": [
+        {"word": "How", "type": "adverb", "difficulty": 1, "translation": "Như thế nào"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "(trợ động từ)"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "spend", "type": "verb", "difficulty": 1, "translation": "dành"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "free", "type": "adjective", "difficulty": 1, "translation": "rảnh rỗi"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "thời gian"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 46.6,
+      "audio_timestamp_end": 52.8,
+      "text": "When I was a kid, I played football quite a lot, especially when I was about seven or eight.",
+      "tokens": [
+        {"word": "When", "type": "conjunction", "difficulty": 1, "translation": "Khi"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "was", "type": "verb", "difficulty": 1, "translation": "đã là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "kid", "type": "noun", "difficulty": 1, "translation": "đứa trẻ"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "played", "type": "verb", "difficulty": 1, "translation": "đã chơi"},
+        {"word": "football", "type": "noun", "difficulty": 1, "translation": "bóng đá"},
+        {"word": "quite", "type": "adverb", "difficulty": 2, "translation": "khá"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "(đi kèm lot)"},
+        {"word": "lot", "type": "noun", "difficulty": 1, "translation": "nhiều"},
+        {"word": "especially", "type": "adverb", "difficulty": 3, "translation": "đặc biệt"},
+        {"word": "when", "type": "conjunction", "difficulty": 1, "translation": "khi"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "was", "type": "verb", "difficulty": 1, "translation": "đã"},
+        {"word": "about", "type": "adverb", "difficulty": 1, "translation": "khoảng"},
+        {"word": "seven", "type": "number", "difficulty": 1, "translation": "bảy"},
+        {"word": "or", "type": "conjunction", "difficulty": 1, "translation": "hoặc"},
+        {"word": "eight", "type": "number", "difficulty": 1, "translation": "tám"}
+      ]
+    },
+    {
+      "segment_id": 13,
+      "audio_timestamp_start": 52.8,
+      "audio_timestamp_end": 56.6,
+      "text": "A lot of kids nowadays stay indoors, but we always played outside.",
+      "tokens": [
+        {"word": "A", "type": "article", "difficulty": 1, "translation": "Một"},
+        {"word": "lot", "type": "noun", "difficulty": 1, "translation": "nhiều"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "kids", "type": "noun", "difficulty": 1, "translation": "trẻ em"},
+        {"word": "nowadays", "type": "adverb", "difficulty": 2, "translation": "ngày nay"},
+        {"word": "stay", "type": "verb", "difficulty": 1, "translation": "ở"},
+        {"word": "indoors", "type": "adverb", "difficulty": 2, "translation": "trong nhà"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "always", "type": "adverb", "difficulty": 1, "translation": "luôn luôn"},
+        {"word": "played", "type": "verb", "difficulty": 1, "translation": "đã chơi"},
+        {"word": "outside", "type": "adverb", "difficulty": 1, "translation": "bên ngoài"}
+      ]
+    },
+    {
+      "segment_id": 14,
+      "audio_timestamp_start": 56.6,
+      "audio_timestamp_end": 62.5,
+      "text": "I've always been into sports, but now I like less active things like chess.",
+      "tokens": [
+        {"word": "I've", "type": "pronoun_verb", "difficulty": 1, "translation": "Tôi đã"},
+        {"word": "always", "type": "adverb", "difficulty": 1, "translation": "luôn"},
+        {"word": "been", "type": "verb", "difficulty": 1, "translation": "từng"},
+        {"word": "into", "type": "preposition", "difficulty": 2, "translation": "thích/đam mê"},
+        {"word": "sports", "type": "noun", "difficulty": 1, "translation": "thể thao"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "now", "type": "adverb", "difficulty": 1, "translation": "bây giờ"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "like", "type": "verb", "difficulty": 1, "translation": "thích"},
+        {"word": "less", "type": "adverb", "difficulty": 1, "translation": "ít"},
+        {"word": "active", "type": "adjective", "difficulty": 2, "translation": "vận động/năng động"},
+        {"word": "things", "type": "noun", "difficulty": 1, "translation": "những thứ"},
+        {"word": "like", "type": "preposition", "difficulty": 1, "translation": "như"},
+        {"word": "chess", "type": "noun", "difficulty": 2, "translation": "cờ vua"}
+      ]
+    },
+    {
+      "segment_id": 15,
+      "audio_timestamp_start": 62.5,
+      "audio_timestamp_end": 65.0,
+      "text": "What do you enjoy most about school?",
+      "tokens": [
+        {"word": "What", "type": "pronoun", "difficulty": 1, "translation": "Cái gì"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "(trợ động từ)"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "enjoy", "type": "verb", "difficulty": 2, "translation": "thích thú"},
+        {"word": "most", "type": "adverb", "difficulty": 1, "translation": "nhất"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "school", "type": "noun", "difficulty": 1, "translation": "trường học"}
+      ]
+    },
+    {
+      "segment_id": 16,
+      "audio_timestamp_start": 65.0,
+      "audio_timestamp_end": 68.4,
+      "text": "My favorite subject was definitely English.",
+      "tokens": [
+        {"word": "My", "type": "pronoun", "difficulty": 1, "translation": "Của tôi"},
+        {"word": "favorite", "type": "adjective", "difficulty": 1, "translation": "yêu thích"},
+        {"word": "subject", "type": "noun", "difficulty": 1, "translation": "môn học"},
+        {"word": "was", "type": "verb", "difficulty": 1, "translation": "đã là"},
+        {"word": "definitely", "type": "adverb", "difficulty": 2, "translation": "chắc chắn"},
+        {"word": "English", "type": "noun", "difficulty": 1, "translation": "tiếng Anh"}
+      ]
+    },
+    {
+      "segment_id": 17,
+      "audio_timestamp_start": 68.4,
+      "audio_timestamp_end": 74.4,
+      "text": "I loved learning English songs and watching movies, and I always read English books when I got home.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "loved", "type": "verb", "difficulty": 1, "translation": "đã yêu thích"},
+        {"word": "learning", "type": "verb", "difficulty": 1, "translation": "học"},
+        {"word": "English", "type": "noun", "difficulty": 1, "translation": "tiếng Anh"},
+        {"word": "songs", "type": "noun", "difficulty": 1, "translation": "bài hát"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "watching", "type": "verb", "difficulty": 1, "translation": "xem"},
+        {"word": "movies", "type": "noun", "difficulty": 1, "translation": "phim"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "always", "type": "adverb", "difficulty": 1, "translation": "luôn luôn"},
+        {"word": "read", "type": "verb", "difficulty": 1, "translation": "đã đọc"},
+        {"word": "English", "type": "noun", "difficulty": 1, "translation": "tiếng Anh"},
+        {"word": "books", "type": "noun", "difficulty": 1, "translation": "sách"},
+        {"word": "when", "type": "conjunction", "difficulty": 1, "translation": "khi"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "got", "type": "verb", "difficulty": 1, "translation": "về tới"},
+        {"word": "home", "type": "noun", "difficulty": 1, "translation": "nhà"}
+      ]
+    },
+    {
+      "segment_id": 18,
+      "audio_timestamp_start": 74.4,
+      "audio_timestamp_end": 77.2,
+      "text": "When you were at school, who was your favourite teacher?",
+      "tokens": [
+        {"word": "When", "type": "conjunction", "difficulty": 1, "translation": "Khi"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "were", "type": "verb", "difficulty": 1, "translation": "đã ở"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "tại"},
+        {"word": "school", "type": "noun", "difficulty": 1, "translation": "trường"},
+        {"word": "who", "type": "pronoun", "difficulty": 1, "translation": "ai"},
+        {"word": "was", "type": "verb", "difficulty": 1, "translation": "đã là"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "favourite", "type": "adjective", "difficulty": 1, "translation": "yêu thích"},
+        {"word": "teacher", "type": "noun", "difficulty": 1, "translation": "giáo viên"}
+      ]
+    },
+    {
+      "segment_id": 19,
+      "audio_timestamp_start": 77.4,
+      "audio_timestamp_end": 83.0,
+      "text": "Oh, definitely my English teacher, because she always made classes fun.",
+      "tokens": [
+        {"word": "Oh", "type": "interjection", "difficulty": 1, "translation": "Ồ"},
+        {"word": "definitely", "type": "adverb", "difficulty": 2, "translation": "chắc chắn"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "English", "type": "noun", "difficulty": 1, "translation": "tiếng Anh"},
+        {"word": "teacher", "type": "noun", "difficulty": 1, "translation": "giáo viên"},
+        {"word": "because", "type": "conjunction", "difficulty": 1, "translation": "bởi vì"},
+        {"word": "she", "type": "pronoun", "difficulty": 1, "translation": "cô ấy"},
+        {"word": "always", "type": "adverb", "difficulty": 1, "translation": "luôn luôn"},
+        {"word": "made", "type": "verb", "difficulty": 1, "translation": "đã làm cho"},
+        {"word": "classes", "type": "noun", "difficulty": 1, "translation": "lớp học"},
+        {"word": "fun", "type": "adjective", "difficulty": 1, "translation": "vui vẻ"}
+      ]
+    },
+    {
+      "segment_id": 20,
+      "audio_timestamp_start": 83.3,
+      "audio_timestamp_end": 86.3,
+      "text": "Also, she was very, I'm not sure what the word is.",
+      "tokens": [
+        {"word": "Also", "type": "adverb", "difficulty": 1, "translation": "Ngoài ra"},
+        {"word": "she", "type": "pronoun", "difficulty": 1, "translation": "cô ấy"},
+        {"word": "was", "type": "verb", "difficulty": 1, "translation": "thì"},
+        {"word": "very", "type": "adverb", "difficulty": 1, "translation": "rất"},
+        {"word": "I'm", "type": "pronoun_verb", "difficulty": 1, "translation": "tôi"},
+        {"word": "not", "type": "adverb", "difficulty": 1, "translation": "không"},
+        {"word": "sure", "type": "adjective", "difficulty": 1, "translation": "chắc"},
+        {"word": "what", "type": "pronoun", "difficulty": 1, "translation": "từ gì"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "(mạo từ xác định)"},
+        {"word": "word", "type": "noun", "difficulty": 1, "translation": "từ"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"}
+      ]
+    },
+    {
+      "segment_id": 21,
+      "audio_timestamp_start": 86.3,
+      "audio_timestamp_end": 89.3,
+      "text": "Happy, no, passionate.",
+      "tokens": [
+        {"word": "Happy", "type": "adjective", "difficulty": 1, "translation": "Hạnh phúc"},
+        {"word": "no", "type": "interjection", "difficulty": 1, "translation": "không"},
+        {"word": "passionate", "type": "adjective", "difficulty": 3, "translation": "đam mê/nhiệt huyết"}
+      ]
+    },
+    {
+      "segment_id": 22,
+      "audio_timestamp_start": 89.3,
+      "audio_timestamp_end": 91.3,
+      "text": "She cared about our feelings.",
+      "tokens": [
+        {"word": "She", "type": "pronoun", "difficulty": 1, "translation": "Cô ấy"},
+        {"word": "cared", "type": "verb", "difficulty": 2, "translation": "đã quan tâm"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "đến"},
+        {"word": "our", "type": "pronoun", "difficulty": 1, "translation": "của chúng tôi"},
+        {"word": "feelings", "type": "noun", "difficulty": 2, "translation": "cảm xúc"}
+      ]
+    },
+    {
+      "segment_id": 23,
+      "audio_timestamp_start": 91.3,
+      "audio_timestamp_end": 95.1,
+      "text": "I mean, whenever we had a problem, we could talk to her.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "mean", "type": "verb", "difficulty": 1, "translation": "có ý là"},
+        {"word": "whenever", "type": "conjunction", "difficulty": 2, "translation": "bất cứ khi nào"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "had", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "problem", "type": "noun", "difficulty": 1, "translation": "vấn đề"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "could", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "talk", "type": "verb", "difficulty": 1, "translation": "nói chuyện"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "her", "type": "pronoun", "difficulty": 1, "translation": "cô ấy"}
+      ]
+    },
+    {
+      "segment_id": 24,
+      "audio_timestamp_start": 95.2,
+      "audio_timestamp_end": 96.7,
+      "text": "I never missed any of her lessons.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "never", "type": "adverb", "difficulty": 1, "translation": "không bao giờ"},
+        {"word": "missed", "type": "verb", "difficulty": 2, "translation": "bỏ lỡ"},
+        {"word": "any", "type": "pronoun", "difficulty": 1, "translation": "bất kỳ"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "trong số"},
+        {"word": "her", "type": "pronoun", "difficulty": 1, "translation": "của cô ấy"},
+        {"word": "lessons", "type": "noun", "difficulty": 1, "translation": "bài học"}
+      ]
+    }
+  ]
+}

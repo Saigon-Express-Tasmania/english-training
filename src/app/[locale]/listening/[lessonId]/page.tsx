@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 
 import { locales } from "@/i18n/routing";
 import {
+  getListeningLessonStatus,
   listListeningLessonIds,
   loadListeningLesson,
 } from "@/views/listening/lib/load-lesson";
@@ -31,5 +32,8 @@ export default async function ListeningLessonPage({ params }: ListeningLessonPag
     notFound();
   }
 
-  return <Listening lessonId={lessonId} />;
+  const status = getListeningLessonStatus(lessonId);
+  const pinRequired = status !== "old";
+
+  return <Listening lessonId={lessonId} pinRequired={pinRequired} />;
 }

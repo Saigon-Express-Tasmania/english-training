@@ -1,0 +1,259 @@
+﻿{
+  "title": "Welcome to the Red Herring Shopping Centre",
+  "transcript": "Hi, and welcome to the Red Herring Shopping Centre. This is the largest shopping centre in our town, and we have over 200 stores on seven separate floors. You'll also find our restaurants and cafes, as well as an 8-screen cinema in the centre. Red Herring is accessible, and the Metro line stops right here. You can get on Line 5 and arrive at Red Herring. You can drive here as well, and our car park can accommodate up to 4,500 vehicles. The parking fare begins at £3 per hour, and there is a regular shuttle bus service between Red Herring and the park and bus terminal, which leaves every 20 minutes. The shopping centre opens at 9 am and stays open until late. 7:30 pm from Monday to Friday. On Saturdays and Sundays it shuts at 9 pm. Thank you for listening. If you have more questions, please feel free to stay behind until the end.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 3.0,
+      "text": "Hi, and welcome to the Red Herring Shopping Centre.",
+      "tokens": [
+        {"word": "Hi", "type": "interjection", "difficulty": 1, "translation": "Chào"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "welcome", "type": "verb", "difficulty": 1, "translation": "chào mừng"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "đến"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "Red", "type": "proper_noun", "difficulty": 2, "translation": "Red"},
+        {"word": "Herring", "type": "proper_noun", "difficulty": 2, "translation": "Herring"},
+        {"word": "Shopping", "type": "noun", "difficulty": 1, "translation": "mua sắm"},
+        {"word": "Centre", "type": "noun", "difficulty": 1, "translation": "trung tâm"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 3.0,
+      "audio_timestamp_end": 11.0,
+      "text": "This is the largest shopping centre in our town, and we have over 200 stores on seven separate floors.",
+      "tokens": [
+        {"word": "This", "type": "pronoun", "difficulty": 1, "translation": "Đây"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "largest", "type": "adjective", "difficulty": 2, "translation": "lớn nhất"},
+        {"word": "shopping", "type": "noun", "difficulty": 1, "translation": "mua sắm"},
+        {"word": "centre", "type": "noun", "difficulty": 1, "translation": "trung tâm"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở/trong"},
+        {"word": "our", "type": "pronoun", "difficulty": 1, "translation": "của chúng tôi"},
+        {"word": "town", "type": "noun", "difficulty": 1, "translation": "thị trấn"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "over", "type": "preposition", "difficulty": 1, "translation": "hơn"},
+        {"word": "200", "type": "number", "difficulty": 1, "translation": "200"},
+        {"word": "stores", "type": "noun", "difficulty": 1, "translation": "cửa hàng"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "trên"},
+        {"word": "seven", "type": "number", "difficulty": 1, "translation": "bảy"},
+        {"word": "separate", "type": "adjective", "difficulty": 2, "translation": "riêng biệt"},
+        {"word": "floors", "type": "noun", "difficulty": 1, "translation": "tầng"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 11.0,
+      "audio_timestamp_end": 17.0,
+      "text": "You'll also find our restaurants and cafes, as well as an 8-screen cinema in the centre.",
+      "tokens": [
+        {"word": "You'll", "type": "contraction", "difficulty": 1, "translation": "bạn sẽ"},
+        {"word": "also", "type": "adverb", "difficulty": 1, "translation": "cũng"},
+        {"word": "find", "type": "verb", "difficulty": 1, "translation": "tìm thấy"},
+        {"word": "our", "type": "pronoun", "difficulty": 1, "translation": "của chúng tôi"},
+        {"word": "restaurants", "type": "noun", "difficulty": 1, "translation": "nhà hàng"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "cafes", "type": "noun", "difficulty": 1, "translation": "quán cà phê"},
+        {"word": "as", "type": "adverb", "difficulty": 1, "translation": "cũng"},
+        {"word": "well", "type": "adverb", "difficulty": 1, "translation": "như"},
+        {"word": "as", "type": "preposition", "difficulty": 1, "translation": "như"},
+        {"word": "an", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "8-screen", "type": "adjective", "difficulty": 2, "translation": "8 màn hình"},
+        {"word": "cinema", "type": "noun", "difficulty": 1, "translation": "rạp chiếu phim"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "centre", "type": "noun", "difficulty": 1, "translation": "trung tâm"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 17.0,
+      "audio_timestamp_end": 21.0,
+      "text": "Red Herring is accessible, and the Metro line stops right here.",
+      "tokens": [
+        {"word": "Red", "type": "proper_noun", "difficulty": 2, "translation": "Red"},
+        {"word": "Herring", "type": "proper_noun", "difficulty": 2, "translation": "Herring"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "thì"},
+        {"word": "accessible", "type": "adjective", "difficulty": 3, "translation": "có thể tiếp cận"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "Metro", "type": "proper_noun", "difficulty": 1, "translation": "tàu điện ngầm"},
+        {"word": "line", "type": "noun", "difficulty": 1, "translation": "tuyến đường"},
+        {"word": "stops", "type": "verb", "difficulty": 1, "translation": "dừng"},
+        {"word": "right", "type": "adverb", "difficulty": 1, "translation": "ngay"},
+        {"word": "here", "type": "adverb", "difficulty": 1, "translation": "tại đây"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 21.0,
+      "audio_timestamp_end": 25.0,
+      "text": "You can get on Line 5 and arrive at Red Herring.",
+      "tokens": [
+        {"word": "You", "type": "pronoun", "difficulty": 1, "translation": "Bạn"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "get", "type": "verb", "difficulty": 1, "translation": "lên"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "trên"},
+        {"word": "Line", "type": "noun", "difficulty": 1, "translation": "tuyến"},
+        {"word": "5", "type": "number", "difficulty": 1, "translation": "5"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "arrive", "type": "verb", "difficulty": 2, "translation": "đến"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "tại"},
+        {"word": "Red", "type": "proper_noun", "difficulty": 2, "translation": "Red"},
+        {"word": "Herring", "type": "proper_noun", "difficulty": 2, "translation": "Herring"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 25.0,
+      "audio_timestamp_end": 32.0,
+      "text": "You can drive here as well, and our car park can accommodate up to 4,500 vehicles.",
+      "tokens": [
+        {"word": "You", "type": "pronoun", "difficulty": 1, "translation": "Bạn"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "drive", "type": "verb", "difficulty": 1, "translation": "lái xe"},
+        {"word": "here", "type": "adverb", "difficulty": 1, "translation": "đến đây"},
+        {"word": "as", "type": "adverb", "difficulty": 1, "translation": "cũng"},
+        {"word": "well", "type": "adverb", "difficulty": 1, "translation": "vậy"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "our", "type": "pronoun", "difficulty": 1, "translation": "của chúng tôi"},
+        {"word": "car", "type": "noun", "difficulty": 1, "translation": "ô tô"},
+        {"word": "park", "type": "noun", "difficulty": 1, "translation": "bãi đỗ"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "accommodate", "type": "verb", "difficulty": 4, "translation": "chứa/đáp ứng"},
+        {"word": "up", "type": "adverb", "difficulty": 1, "translation": "lên"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "tới"},
+        {"word": "4,500", "type": "number", "difficulty": 1, "translation": "4,500"},
+        {"word": "vehicles", "type": "noun", "difficulty": 2, "translation": "phương tiện"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 32.0,
+      "audio_timestamp_end": 45.0,
+      "text": "The parking fare begins at £3 per hour, and there is a regular shuttle bus service between Red Herring and the park and bus terminal, which leaves every 20 minutes.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Cái/các"},
+        {"word": "parking", "type": "noun", "difficulty": 1, "translation": "đỗ xe"},
+        {"word": "fare", "type": "noun", "difficulty": 2, "translation": "giá vé/phí"},
+        {"word": "begins", "type": "verb", "difficulty": 1, "translation": "bắt đầu"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "ở mức"},
+        {"word": "£3", "type": "noun", "difficulty": 1, "translation": "3 bảng Anh"},
+        {"word": "per", "type": "preposition", "difficulty": 1, "translation": "mỗi"},
+        {"word": "hour", "type": "noun", "difficulty": 1, "translation": "giờ"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "there", "type": "pronoun", "difficulty": 1, "translation": "có"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "regular", "type": "adjective", "difficulty": 2, "translation": "thường xuyên"},
+        {"word": "shuttle", "type": "noun", "difficulty": 3, "translation": "xe đưa đón"},
+        {"word": "bus", "type": "noun", "difficulty": 1, "translation": "xe buýt"},
+        {"word": "service", "type": "noun", "difficulty": 1, "translation": "dịch vụ"},
+        {"word": "between", "type": "preposition", "difficulty": 1, "translation": "giữa"},
+        {"word": "Red", "type": "proper_noun", "difficulty": 2, "translation": "Red"},
+        {"word": "Herring", "type": "proper_noun", "difficulty": 2, "translation": "Herring"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "park", "type": "noun", "difficulty": 1, "translation": "công viên/bãi đỗ"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "bus", "type": "noun", "difficulty": 1, "translation": "xe buýt"},
+        {"word": "terminal", "type": "noun", "difficulty": 3, "translation": "bến xe"},
+        {"word": "which", "type": "pronoun", "difficulty": 1, "translation": "cái mà"},
+        {"word": "leaves", "type": "verb", "difficulty": 1, "translation": "rời đi"},
+        {"word": "every", "type": "determiner", "difficulty": 1, "translation": "mỗi"},
+        {"word": "20", "type": "number", "difficulty": 1, "translation": "20"},
+        {"word": "minutes", "type": "noun", "difficulty": 1, "translation": "phút"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 45.0,
+      "audio_timestamp_end": 50.5,
+      "text": "The shopping centre opens at 9 am and stays open until late.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Cái/các"},
+        {"word": "shopping", "type": "noun", "difficulty": 1, "translation": "mua sắm"},
+        {"word": "centre", "type": "noun", "difficulty": 1, "translation": "trung tâm"},
+        {"word": "opens", "type": "verb", "difficulty": 1, "translation": "mở cửa"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "vào lúc"},
+        {"word": "9", "type": "number", "difficulty": 1, "translation": "9"},
+        {"word": "am", "type": "noun", "difficulty": 1, "translation": "sáng"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "stays", "type": "verb", "difficulty": 2, "translation": "duy trì"},
+        {"word": "open", "type": "adjective", "difficulty": 1, "translation": "mở"},
+        {"word": "until", "type": "preposition", "difficulty": 1, "translation": "cho đến"},
+        {"word": "late", "type": "adverb", "difficulty": 1, "translation": "muộn"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 50.5,
+      "audio_timestamp_end": 53.6,
+      "text": "7:30 pm from Monday to Friday.",
+      "tokens": [
+        {"word": "7:30", "type": "number", "difficulty": 1, "translation": "7:30"},
+        {"word": "pm", "type": "noun", "difficulty": 1, "translation": "tối"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "Monday", "type": "noun", "difficulty": 1, "translation": "Thứ Hai"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "đến"},
+        {"word": "Friday", "type": "noun", "difficulty": 1, "translation": "Thứ Sáu"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 53.6,
+      "audio_timestamp_end": 57.0,
+      "text": "On Saturdays and Sundays it shuts at 9 pm.",
+      "tokens": [
+        {"word": "On", "type": "preposition", "difficulty": 1, "translation": "Vào"},
+        {"word": "Saturdays", "type": "noun", "difficulty": 1, "translation": "Thứ Bảy"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "Sundays", "type": "noun", "difficulty": 1, "translation": "Chủ Nhật"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "shuts", "type": "verb", "difficulty": 2, "translation": "đóng cửa"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "vào lúc"},
+        {"word": "9", "type": "number", "difficulty": 1, "translation": "9"},
+        {"word": "pm", "type": "noun", "difficulty": 1, "translation": "tối"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 57.0,
+      "audio_timestamp_end": 59.6,
+      "text": "Thank you for listening.",
+      "tokens": [
+        {"word": "Thank", "type": "verb", "difficulty": 1, "translation": "Cảm ơn"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "vì"},
+        {"word": "listening", "type": "noun", "difficulty": 1, "translation": "việc lắng nghe"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 59.6,
+      "audio_timestamp_end": 65.0,
+      "text": "If you have more questions, please feel free to stay behind until the end.",
+      "tokens": [
+        {"word": "If", "type": "conjunction", "difficulty": 1, "translation": "Nếu"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "more", "type": "adjective", "difficulty": 1, "translation": "thêm/nhiều hơn"},
+        {"word": "questions", "type": "noun", "difficulty": 1, "translation": "câu hỏi"},
+        {"word": "please", "type": "adverb", "difficulty": 1, "translation": "vui lòng"},
+        {"word": "feel", "type": "verb", "difficulty": 1, "translation": "cảm thấy"},
+        {"word": "free", "type": "adjective", "difficulty": 1, "translation": "thoải mái/tự do"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "stay", "type": "verb", "difficulty": 1, "translation": "ở lại"},
+        {"word": "behind", "type": "adverb", "difficulty": 2, "translation": "phía sau"},
+        {"word": "until", "type": "preposition", "difficulty": 1, "translation": "cho đến"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "end", "type": "noun", "difficulty": 1, "translation": "cuối cùng/kết thúc"}
+      ]
+    }
+  ]
+}

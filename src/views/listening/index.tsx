@@ -16,9 +16,10 @@ import "./index.css";
 
 type ListeningProps = {
   lessonId: string;
+  pinRequired?: boolean;
 };
 
-export default function Listening({ lessonId }: ListeningProps) {
+export default function Listening({ lessonId, pinRequired = true }: ListeningProps) {
   const lesson = loadListeningLesson(lessonId);
   const shuffleSeed = createShuffleSeed();
   const blanks = selectBlankTokens(
@@ -39,6 +40,7 @@ export default function Listening({ lessonId }: ListeningProps) {
         blanks={blanks}
         shuffleSeed={shuffleSeed}
         vocabularyWords={vocabularyWords}
+        pinRequired={pinRequired}
       />
       <Footer />
     </HomeShell>

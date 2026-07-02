@@ -1,0 +1,520 @@
+﻿{
+  "title": "Improving Our Hometown: Problems and Solutions",
+  "transcript": "How do you think your hometown will change in the future, Charlie? Our town is a mess right now, and this is really putting people off visiting. Far too many public places are poorly maintained. The local government really needs to do something about it. I don't understand why they ignore the problem. Not only the local government, but the local residents can help. Everyone can contribute a little to the local environment. Is that all? I think we also need to stop people from walking their dogs across the park. They make too much mess. I see. What do you think, Alex? Young people get blamed for everything. People don't like us to hang out in the recreation areas. They think we're breaking the law, but that's not true. We just hang out and chat. The only reason why we go there is that there's nowhere else to hang out. It's not the best place to grow up. There aren't enough things for young people to do, and we need more community centers. How to do that? There are so many empty buildings in town. The local government could renovate one of them. That sounds like a good idea. What do you think, Erica? I think it's a good idea too. Nowadays, too many people own cars, and the public transport facilities aren't great. It's hard to get a seat on the bus most days. I've got a bike, so that's how I usually get around. The problem is that the cycle lanes aren't well maintained, and they're full of bumps and holes. With a little bit of investment, the problem would be solved. Yes, I see. Thanks for your sharing.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 4.0,
+      "text": "How do you think your hometown will change in the future, Charlie?",
+      "tokens": [
+        {"word": "How", "type": "adverb", "difficulty": 1, "translation": "Làm thế nào/Như thế nào"},
+        {"word": "do", "type": "auxiliary_verb", "difficulty": 1, "translation": "trợ động từ"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "think", "type": "verb", "difficulty": 1, "translation": "nghĩ"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "hometown", "type": "noun", "difficulty": 2, "translation": "quê hương"},
+        {"word": "will", "type": "modal_verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "change", "type": "verb", "difficulty": 1, "translation": "thay đổi"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "future", "type": "noun", "difficulty": 1, "translation": "tương lai"},
+        {"word": "Charlie", "type": "proper_noun", "difficulty": 1, "translation": "Charlie"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 4.0,
+      "audio_timestamp_end": 10.0,
+      "text": "Our town is a mess right now, and this is really putting people off visiting.",
+      "tokens": [
+        {"word": "Our", "type": "pronoun", "difficulty": 1, "translation": "Của chúng ta"},
+        {"word": "town", "type": "noun", "difficulty": 1, "translation": "thị trấn"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "thì/là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "mess", "type": "noun", "difficulty": 2, "translation": "mớ hỗn độn"},
+        {"word": "right", "type": "adverb", "difficulty": 1, "translation": "ngay"},
+        {"word": "now", "type": "adverb", "difficulty": 1, "translation": "bây giờ"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "this", "type": "pronoun", "difficulty": 1, "translation": "điều này"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "đang"},
+        {"word": "really", "type": "adverb", "difficulty": 1, "translation": "thực sự"},
+        {"word": "putting", "type": "verb", "difficulty": 3, "translation": "làm (nản lòng)"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "mọi người"},
+        {"word": "off", "type": "adverb", "difficulty": 3, "translation": "khỏi/nản lòng"},
+        {"word": "visiting", "type": "verb", "difficulty": 1, "translation": "thăm viếng"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 10.0,
+      "audio_timestamp_end": 14.5,
+      "text": "Far too many public places are poorly maintained.",
+      "tokens": [
+        {"word": "Far", "type": "adverb", "difficulty": 2, "translation": "Rất/Quá"},
+        {"word": "too", "type": "adverb", "difficulty": 1, "translation": "quá"},
+        {"word": "many", "type": "adjective", "difficulty": 1, "translation": "nhiều"},
+        {"word": "public", "type": "adjective", "difficulty": 1, "translation": "công cộng"},
+        {"word": "places", "type": "noun", "difficulty": 1, "translation": "những nơi"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "bị/được"},
+        {"word": "poorly", "type": "adverb", "difficulty": 3, "translation": "kém cỏi/tồi tàn"},
+        {"word": "maintained", "type": "verb", "difficulty": 3, "translation": "bảo trì"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 14.5,
+      "audio_timestamp_end": 18.0,
+      "text": "The local government really needs to do something about it.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Các"},
+        {"word": "local", "type": "adjective", "difficulty": 2, "translation": "địa phương"},
+        {"word": "government", "type": "noun", "difficulty": 2, "translation": "chính quyền"},
+        {"word": "really", "type": "adverb", "difficulty": 1, "translation": "thực sự"},
+        {"word": "needs", "type": "verb", "difficulty": 1, "translation": "cần"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "làm"},
+        {"word": "something", "type": "pronoun", "difficulty": 1, "translation": "điều gì đó"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 18.0,
+      "audio_timestamp_end": 21.0,
+      "text": "I don't understand why they ignore the problem.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "don't", "type": "verb", "difficulty": 1, "translation": "không"},
+        {"word": "understand", "type": "verb", "difficulty": 1, "translation": "hiểu"},
+        {"word": "why", "type": "adverb", "difficulty": 1, "translation": "tại sao"},
+        {"word": "they", "type": "pronoun", "difficulty": 1, "translation": "họ"},
+        {"word": "ignore", "type": "verb", "difficulty": 3, "translation": "phớt lờ"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "problem", "type": "noun", "difficulty": 1, "translation": "vấn đề"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 21.0,
+      "audio_timestamp_end": 25.5,
+      "text": "Not only the local government, but the local residents can help.",
+      "tokens": [
+        {"word": "Not", "type": "adverb", "difficulty": 1, "translation": "Không"},
+        {"word": "only", "type": "adverb", "difficulty": 1, "translation": "chỉ"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "local", "type": "adjective", "difficulty": 2, "translation": "địa phương"},
+        {"word": "government", "type": "noun", "difficulty": 2, "translation": "chính quyền"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "mà"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "local", "type": "adjective", "difficulty": 2, "translation": "địa phương"},
+        {"word": "residents", "type": "noun", "difficulty": 3, "translation": "cư dân"},
+        {"word": "can", "type": "modal_verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "help", "type": "verb", "difficulty": 1, "translation": "giúp đỡ"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 25.5,
+      "audio_timestamp_end": 29.5,
+      "text": "Everyone can contribute a little to the local environment.",
+      "tokens": [
+        {"word": "Everyone", "type": "pronoun", "difficulty": 1, "translation": "Mọi người"},
+        {"word": "can", "type": "modal_verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "contribute", "type": "verb", "difficulty": 3, "translation": "đóng góp"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "little", "type": "adjective", "difficulty": 1, "translation": "chút ít"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "local", "type": "adjective", "difficulty": 2, "translation": "địa phương"},
+        {"word": "environment", "type": "noun", "difficulty": 2, "translation": "môi trường"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 29.5,
+      "audio_timestamp_end": 31.5,
+      "text": "Is that all?",
+      "tokens": [
+        {"word": "Is", "type": "verb", "difficulty": 1, "translation": "Là/Có phải"},
+        {"word": "that", "type": "pronoun", "difficulty": 1, "translation": "đó"},
+        {"word": "all", "type": "pronoun", "difficulty": 1, "translation": "tất cả"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 32.0,
+      "audio_timestamp_end": 38.5,
+      "text": "I think we also need to stop people from walking their dogs across the park.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "think", "type": "verb", "difficulty": 1, "translation": "nghĩ"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "chúng ta"},
+        {"word": "also", "type": "adverb", "difficulty": 1, "translation": "cũng"},
+        {"word": "need", "type": "verb", "difficulty": 1, "translation": "cần"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "stop", "type": "verb", "difficulty": 1, "translation": "ngăn chặn"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "mọi người"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "khỏi"},
+        {"word": "walking", "type": "verb", "difficulty": 2, "translation": "dắt đi dạo"},
+        {"word": "their", "type": "pronoun", "difficulty": 1, "translation": "của họ"},
+        {"word": "dogs", "type": "noun", "difficulty": 1, "translation": "những con chó"},
+        {"word": "across", "type": "preposition", "difficulty": 2, "translation": "ngang qua"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "park", "type": "noun", "difficulty": 1, "translation": "công viên"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 38.5,
+      "audio_timestamp_end": 41.0,
+      "text": "They make too much mess.",
+      "tokens": [
+        {"word": "They", "type": "pronoun", "difficulty": 1, "translation": "Chúng"},
+        {"word": "make", "type": "verb", "difficulty": 1, "translation": "tạo ra"},
+        {"word": "too", "type": "adverb", "difficulty": 1, "translation": "quá"},
+        {"word": "much", "type": "adjective", "difficulty": 1, "translation": "nhiều"},
+        {"word": "mess", "type": "noun", "difficulty": 2, "translation": "sự bừa bộn"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 41.0,
+      "audio_timestamp_end": 44.0,
+      "text": "I see. What do you think, Alex?",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "see", "type": "verb", "difficulty": 1, "translation": "hiểu/thấy"},
+        {"word": "What", "type": "pronoun", "difficulty": 1, "translation": "Cái gì"},
+        {"word": "do", "type": "auxiliary_verb", "difficulty": 1, "translation": "trợ động từ"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "think", "type": "verb", "difficulty": 1, "translation": "nghĩ"},
+        {"word": "Alex", "type": "proper_noun", "difficulty": 1, "translation": "Alex"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 44.0,
+      "audio_timestamp_end": 46.0,
+      "text": "Young people get blamed for everything.",
+      "tokens": [
+        {"word": "Young", "type": "adjective", "difficulty": 1, "translation": "Trẻ"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người"},
+        {"word": "get", "type": "verb", "difficulty": 1, "translation": "bị"},
+        {"word": "blamed", "type": "verb", "difficulty": 3, "translation": "đổ lỗi"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "everything", "type": "pronoun", "difficulty": 1, "translation": "mọi thứ"}
+      ]
+    },
+    {
+      "segment_id": 13,
+      "audio_timestamp_start": 46.0,
+      "audio_timestamp_end": 49.5,
+      "text": "People don't like us to hang out in the recreation areas.",
+      "tokens": [
+        {"word": "People", "type": "noun", "difficulty": 1, "translation": "Mọi người"},
+        {"word": "don't", "type": "verb", "difficulty": 1, "translation": "không"},
+        {"word": "like", "type": "verb", "difficulty": 1, "translation": "thích"},
+        {"word": "us", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "hang", "type": "verb", "difficulty": 2, "translation": "tụ tập"},
+        {"word": "out", "type": "adverb", "difficulty": 2, "translation": "ngoài (đi kèm hang)"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "recreation", "type": "noun", "difficulty": 4, "translation": "giải trí"},
+        {"word": "areas", "type": "noun", "difficulty": 2, "translation": "khu vực"}
+      ]
+    },
+    {
+      "segment_id": 14,
+      "audio_timestamp_start": 49.5,
+      "audio_timestamp_end": 53.5,
+      "text": "They think we're breaking the law, but that's not true.",
+      "tokens": [
+        {"word": "They", "type": "pronoun", "difficulty": 1, "translation": "Họ"},
+        {"word": "think", "type": "verb", "difficulty": 1, "translation": "nghĩ"},
+        {"word": "we're", "type": "pronoun_verb", "difficulty": 1, "translation": "chúng tôi đang"},
+        {"word": "breaking", "type": "verb", "difficulty": 2, "translation": "vi phạm"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "law", "type": "noun", "difficulty": 2, "translation": "luật pháp"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "that's", "type": "pronoun_verb", "difficulty": 1, "translation": "điều đó thì"},
+        {"word": "not", "type": "adverb", "difficulty": 1, "translation": "không"},
+        {"word": "true", "type": "adjective", "difficulty": 1, "translation": "đúng"}
+      ]
+    },
+    {
+      "segment_id": 15,
+      "audio_timestamp_start": 53.5,
+      "audio_timestamp_end": 55.5,
+      "text": "We just hang out and chat.",
+      "tokens": [
+        {"word": "We", "type": "pronoun", "difficulty": 1, "translation": "Chúng tôi"},
+        {"word": "just", "type": "adverb", "difficulty": 1, "translation": "chỉ"},
+        {"word": "hang", "type": "verb", "difficulty": 2, "translation": "tụ tập"},
+        {"word": "out", "type": "adverb", "difficulty": 2, "translation": "ngoài (đi kèm hang)"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "chat", "type": "verb", "difficulty": 1, "translation": "trò chuyện"}
+      ]
+    },
+    {
+      "segment_id": 16,
+      "audio_timestamp_start": 55.5,
+      "audio_timestamp_end": 59.5,
+      "text": "The only reason why we go there is that there's nowhere else to hang out.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Cái"},
+        {"word": "only", "type": "adjective", "difficulty": 1, "translation": "duy nhất"},
+        {"word": "reason", "type": "noun", "difficulty": 1, "translation": "lý do"},
+        {"word": "why", "type": "adverb", "difficulty": 1, "translation": "tại sao"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "go", "type": "verb", "difficulty": 1, "translation": "đi"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "đó"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "that", "type": "conjunction", "difficulty": 1, "translation": "rằng"},
+        {"word": "there's", "type": "pronoun_verb", "difficulty": 1, "translation": "có"},
+        {"word": "nowhere", "type": "adverb", "difficulty": 2, "translation": "không nơi nào"},
+        {"word": "else", "type": "adverb", "difficulty": 1, "translation": "khác"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "hang", "type": "verb", "difficulty": 2, "translation": "tụ tập"},
+        {"word": "out", "type": "adverb", "difficulty": 2, "translation": "ngoài (đi kèm hang)"}
+      ]
+    },
+    {
+      "segment_id": 17,
+      "audio_timestamp_start": 59.5,
+      "audio_timestamp_end": 62.0,
+      "text": "It's not the best place to grow up.",
+      "tokens": [
+        {"word": "It's", "type": "pronoun_verb", "difficulty": 1, "translation": "Nó thì"},
+        {"word": "not", "type": "adverb", "difficulty": 1, "translation": "không"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "best", "type": "adjective", "difficulty": 1, "translation": "tốt nhất"},
+        {"word": "place", "type": "noun", "difficulty": 1, "translation": "nơi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "grow", "type": "verb", "difficulty": 1, "translation": "lớn lên"},
+        {"word": "up", "type": "adverb", "difficulty": 1, "translation": "lên (đi kèm grow)"}
+      ]
+    },
+    {
+      "segment_id": 18,
+      "audio_timestamp_start": 62.0,
+      "audio_timestamp_end": 68.0,
+      "text": "There aren't enough things for young people to do, and we need more community centers.",
+      "tokens": [
+        {"word": "There", "type": "adverb", "difficulty": 1, "translation": "Có (với to be)"},
+        {"word": "aren't", "type": "verb", "difficulty": 1, "translation": "không có"},
+        {"word": "enough", "type": "adjective", "difficulty": 1, "translation": "đủ"},
+        {"word": "things", "type": "noun", "difficulty": 1, "translation": "thứ"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "young", "type": "adjective", "difficulty": 1, "translation": "trẻ"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "làm"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "need", "type": "verb", "difficulty": 1, "translation": "cần"},
+        {"word": "more", "type": "adjective", "difficulty": 1, "translation": "thêm/nhiều hơn"},
+        {"word": "community", "type": "noun", "difficulty": 2, "translation": "cộng đồng"},
+        {"word": "centers", "type": "noun", "difficulty": 2, "translation": "trung tâm"}
+      ]
+    },
+    {
+      "segment_id": 19,
+      "audio_timestamp_start": 68.0,
+      "audio_timestamp_end": 69.5,
+      "text": "How to do that?",
+      "tokens": [
+        {"word": "How", "type": "adverb", "difficulty": 1, "translation": "Làm thế nào"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "làm"},
+        {"word": "that", "type": "pronoun", "difficulty": 1, "translation": "điều đó"}
+      ]
+    },
+    {
+      "segment_id": 20,
+      "audio_timestamp_start": 69.5,
+      "audio_timestamp_end": 72.5,
+      "text": "There are so many empty buildings in town.",
+      "tokens": [
+        {"word": "There", "type": "adverb", "difficulty": 1, "translation": "Có"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là/có"},
+        {"word": "so", "type": "adverb", "difficulty": 1, "translation": "rất"},
+        {"word": "many", "type": "adjective", "difficulty": 1, "translation": "nhiều"},
+        {"word": "empty", "type": "adjective", "difficulty": 1, "translation": "trống rỗng"},
+        {"word": "buildings", "type": "noun", "difficulty": 2, "translation": "tòa nhà"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "town", "type": "noun", "difficulty": 1, "translation": "thị trấn"}
+      ]
+    },
+    {
+      "segment_id": 21,
+      "audio_timestamp_start": 72.5,
+      "audio_timestamp_end": 76.0,
+      "text": "The local government could renovate one of them.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Các"},
+        {"word": "local", "type": "adjective", "difficulty": 2, "translation": "địa phương"},
+        {"word": "government", "type": "noun", "difficulty": 2, "translation": "chính quyền"},
+        {"word": "could", "type": "modal_verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "renovate", "type": "verb", "difficulty": 4, "translation": "cải tạo/nâng cấp"},
+        {"word": "one", "type": "pronoun", "difficulty": 1, "translation": "một"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "trong số"},
+        {"word": "them", "type": "pronoun", "difficulty": 1, "translation": "chúng"}
+      ]
+    },
+    {
+      "segment_id": 22,
+      "audio_timestamp_start": 76.0,
+      "audio_timestamp_end": 80.5,
+      "text": "That sounds like a good idea. What do you think, Erica?",
+      "tokens": [
+        {"word": "That", "type": "pronoun", "difficulty": 1, "translation": "Điều đó"},
+        {"word": "sounds", "type": "verb", "difficulty": 2, "translation": "nghe có vẻ"},
+        {"word": "like", "type": "preposition", "difficulty": 1, "translation": "như"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "good", "type": "adjective", "difficulty": 1, "translation": "tốt"},
+        {"word": "idea", "type": "noun", "difficulty": 1, "translation": "ý tưởng"},
+        {"word": "What", "type": "pronoun", "difficulty": 1, "translation": "Cái gì"},
+        {"word": "do", "type": "auxiliary_verb", "difficulty": 1, "translation": "trợ động từ"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "think", "type": "verb", "difficulty": 1, "translation": "nghĩ"},
+        {"word": "Erica", "type": "proper_noun", "difficulty": 1, "translation": "Erica"}
+      ]
+    },
+    {
+      "segment_id": 23,
+      "audio_timestamp_start": 80.5,
+      "audio_timestamp_end": 83.0,
+      "text": "I think it's a good idea too.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "think", "type": "verb", "difficulty": 1, "translation": "nghĩ"},
+        {"word": "it's", "type": "pronoun_verb", "difficulty": 1, "translation": "đó là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "good", "type": "adjective", "difficulty": 1, "translation": "tốt"},
+        {"word": "idea", "type": "noun", "difficulty": 1, "translation": "ý tưởng"},
+        {"word": "too", "type": "adverb", "difficulty": 1, "translation": "cũng vậy"}
+      ]
+    },
+    {
+      "segment_id": 24,
+      "audio_timestamp_start": 83.0,
+      "audio_timestamp_end": 88.0,
+      "text": "Nowadays, too many people own cars, and the public transport facilities aren't great.",
+      "tokens": [
+        {"word": "Nowadays", "type": "adverb", "difficulty": 2, "translation": "Ngày nay"},
+        {"word": "too", "type": "adverb", "difficulty": 1, "translation": "quá"},
+        {"word": "many", "type": "adjective", "difficulty": 1, "translation": "nhiều"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người"},
+        {"word": "own", "type": "verb", "difficulty": 2, "translation": "sở hữu"},
+        {"word": "cars", "type": "noun", "difficulty": 1, "translation": "xe hơi"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "các"},
+        {"word": "public", "type": "adjective", "difficulty": 2, "translation": "công cộng"},
+        {"word": "transport", "type": "noun", "difficulty": 2, "translation": "giao thông"},
+        {"word": "facilities", "type": "noun", "difficulty": 3, "translation": "cơ sở vật chất"},
+        {"word": "aren't", "type": "verb", "difficulty": 1, "translation": "thì không"},
+        {"word": "great", "type": "adjective", "difficulty": 1, "translation": "tuyệt vời"}
+      ]
+    },
+    {
+      "segment_id": 25,
+      "audio_timestamp_start": 88.0,
+      "audio_timestamp_end": 91.5,
+      "text": "It's hard to get a seat on the bus most days.",
+      "tokens": [
+        {"word": "It's", "type": "pronoun_verb", "difficulty": 1, "translation": "Thật là"},
+        {"word": "hard", "type": "adjective", "difficulty": 1, "translation": "khó"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "get", "type": "verb", "difficulty": 1, "translation": "lấy/có được"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "seat", "type": "noun", "difficulty": 1, "translation": "chỗ ngồi"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "trên"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "chiếc"},
+        {"word": "bus", "type": "noun", "difficulty": 1, "translation": "xe buýt"},
+        {"word": "most", "type": "adjective", "difficulty": 1, "translation": "hầu hết"},
+        {"word": "days", "type": "noun", "difficulty": 1, "translation": "những ngày"}
+      ]
+    },
+    {
+      "segment_id": 26,
+      "audio_timestamp_start": 91.5,
+      "audio_timestamp_end": 94.5,
+      "text": "I've got a bike, so that's how I usually get around.",
+      "tokens": [
+        {"word": "I've", "type": "pronoun_verb", "difficulty": 1, "translation": "Tôi có"},
+        {"word": "got", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một chiếc"},
+        {"word": "bike", "type": "noun", "difficulty": 1, "translation": "xe đạp"},
+        {"word": "so", "type": "conjunction", "difficulty": 1, "translation": "vì vậy"},
+        {"word": "that's", "type": "pronoun_verb", "difficulty": 1, "translation": "đó là"},
+        {"word": "how", "type": "adverb", "difficulty": 1, "translation": "cách"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "usually", "type": "adverb", "difficulty": 1, "translation": "thường"},
+        {"word": "get", "type": "verb", "difficulty": 1, "translation": "đi (cùng around)"},
+        {"word": "around", "type": "adverb", "difficulty": 1, "translation": "quanh/khắp nơi"}
+      ]
+    },
+    {
+      "segment_id": 27,
+      "audio_timestamp_start": 94.5,
+      "audio_timestamp_end": 100.5,
+      "text": "The problem is that the cycle lanes aren't well maintained, and they're full of bumps and holes.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Cái"},
+        {"word": "problem", "type": "noun", "difficulty": 1, "translation": "vấn đề"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "that", "type": "conjunction", "difficulty": 1, "translation": "rằng"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "cycle", "type": "noun", "difficulty": 2, "translation": "xe đạp"},
+        {"word": "lanes", "type": "noun", "difficulty": 2, "translation": "làn đường"},
+        {"word": "aren't", "type": "verb", "difficulty": 1, "translation": "không"},
+        {"word": "well", "type": "adverb", "difficulty": 1, "translation": "tốt"},
+        {"word": "maintained", "type": "verb", "difficulty": 3, "translation": "bảo trì"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "they're", "type": "pronoun_verb", "difficulty": 1, "translation": "chúng thì"},
+        {"word": "full", "type": "adjective", "difficulty": 1, "translation": "đầy"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của/với"},
+        {"word": "bumps", "type": "noun", "difficulty": 3, "translation": "chỗ lồi lõm/ổ gà"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "holes", "type": "noun", "difficulty": 2, "translation": "những cái lỗ"}
+      ]
+    },
+    {
+      "segment_id": 28,
+      "audio_timestamp_start": 100.5,
+      "audio_timestamp_end": 104.5,
+      "text": "With a little bit of investment, the problem would be solved.",
+      "tokens": [
+        {"word": "With", "type": "preposition", "difficulty": 1, "translation": "Với"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "little", "type": "adjective", "difficulty": 1, "translation": "chút ít"},
+        {"word": "bit", "type": "noun", "difficulty": 1, "translation": "phần nhỏ"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "investment", "type": "noun", "difficulty": 3, "translation": "sự đầu tư"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "problem", "type": "noun", "difficulty": 1, "translation": "vấn đề"},
+        {"word": "would", "type": "modal_verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "được"},
+        {"word": "solved", "type": "verb", "difficulty": 2, "translation": "giải quyết"}
+      ]
+    },
+    {
+      "segment_id": 29,
+      "audio_timestamp_start": 104.5,
+      "audio_timestamp_end": 107.5,
+      "text": "Yes, I see. Thanks for your sharing.",
+      "tokens": [
+        {"word": "Yes", "type": "adverb", "difficulty": 1, "translation": "Vâng/Có"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "see", "type": "verb", "difficulty": 1, "translation": "hiểu"},
+        {"word": "Thanks", "type": "noun", "difficulty": 1, "translation": "Cảm ơn"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "vì"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "sharing", "type": "noun", "difficulty": 2, "translation": "sự chia sẻ"}
+      ]
+    }
+  ]
+}

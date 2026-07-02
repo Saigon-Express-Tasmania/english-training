@@ -2,7 +2,11 @@
 
 import { isUnlockPinValid } from "@/views/listening/lib/unlock-pin";
 
-export async function promptUnlockPin(): Promise<boolean> {
+export async function promptUnlockPin(options?: { bypass?: boolean }): Promise<boolean> {
+  if (options?.bypass) {
+    return true;
+  }
+
   const { default: Swal } = await import("sweetalert2");
 
   const result = await Swal.fire({

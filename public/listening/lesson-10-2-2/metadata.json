@@ -1,0 +1,441 @@
+﻿{
+  "title": "Vocabulary Lesson: Everyday Words and Sentences",
+  "transcript": "Relax. A hot bath should help to relax you. Fix. The shelves should be fixed to the wall with screws. Box. Pearls are essentials in every woman's jewelry box. Yard. It's not easy to buy a house with a yard in downtown. Yogurt. The farm sells yogurt and soft cheese. Young. As young people like online shopping, luxury goods retailers are building more websites. Sky. The sky in the countryside seems clearer and higher than in the city. Recycle. The fashion world just keeps recycling old ideas. Try. The style of this skirt is very nice. You can try it on. Opportunity. I haven't had the opportunity to live in the countryside for a long period. Especially. My grandparents live in the suburb of Beijing, and it is common for us to visit them, especially on holidays. Countryside. Educational facilities are in shortage in the countryside. Crazy. I've been crazy about the heels since the first time I saw them. Breeze. We will roll the windows down and feel the breeze when driving on the country road. Size. I can hardly find any clothes in my size.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 2.977,
+      "audio_timestamp_end": 3.977,
+      "text": "Relax.",
+      "tokens": [
+        {"word": "Relax", "type": "verb", "difficulty": 1, "translation": "Thư giãn"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 3.977,
+      "audio_timestamp_end": 7.315,
+      "text": "A hot bath should help to relax you.",
+      "tokens": [
+        {"word": "A", "type": "article", "difficulty": 1, "translation": "Một"},
+        {"word": "hot", "type": "adjective", "difficulty": 1, "translation": "nóng"},
+        {"word": "bath", "type": "noun", "difficulty": 1, "translation": "bồn tắm / việc tắm"},
+        {"word": "should", "type": "modal_verb", "difficulty": 1, "translation": "nên"},
+        {"word": "help", "type": "verb", "difficulty": 1, "translation": "giúp"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "relax", "type": "verb", "difficulty": 2, "translation": "thư giãn"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 8.933,
+      "audio_timestamp_end": 10.000,
+      "text": "Fix.",
+      "tokens": [
+        {"word": "Fix", "type": "verb", "difficulty": 1, "translation": "Sửa chữa / Cố định"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 10.000,
+      "audio_timestamp_end": 14.191,
+      "text": "The shelves should be fixed to the wall with screws.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Các"},
+        {"word": "shelves", "type": "noun", "difficulty": 2, "translation": "cái kệ"},
+        {"word": "should", "type": "modal_verb", "difficulty": 1, "translation": "nên"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "được (bị động)"},
+        {"word": "fixed", "type": "verb", "difficulty": 2, "translation": "cố định"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "vào"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "wall", "type": "noun", "difficulty": 1, "translation": "tường"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "bằng / với"},
+        {"word": "screws", "type": "noun", "difficulty": 3, "translation": "ốc vít"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 14.889,
+      "audio_timestamp_end": 17.449,
+      "text": "Box.",
+      "tokens": [
+        {"word": "Box", "type": "noun", "difficulty": 1, "translation": "Cái hộp"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 17.867,
+      "audio_timestamp_end": 21.745,
+      "text": "Pearls are essentials in every woman's jewelry box.",
+      "tokens": [
+        {"word": "Pearls", "type": "noun", "difficulty": 3, "translation": "Ngọc trai"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "essentials", "type": "noun", "difficulty": 3, "translation": "những thứ thiết yếu"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "every", "type": "adjective", "difficulty": 1, "translation": "mọi"},
+        {"word": "woman's", "type": "noun", "difficulty": 1, "translation": "của phụ nữ"},
+        {"word": "jewelry", "type": "noun", "difficulty": 2, "translation": "trang sức"},
+        {"word": "box", "type": "noun", "difficulty": 1, "translation": "hộp"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 26.801,
+      "audio_timestamp_end": 28.801,
+      "text": "Yard.",
+      "tokens": [
+        {"word": "Yard", "type": "noun", "difficulty": 1, "translation": "Cái sân"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 29.779,
+      "audio_timestamp_end": 35.757,
+      "text": "It's not easy to buy a house with a yard in downtown.",
+      "tokens": [
+        {"word": "It's", "type": "pronoun_verb", "difficulty": 1, "translation": "Nó là"},
+        {"word": "not", "type": "adverb", "difficulty": 1, "translation": "không"},
+        {"word": "easy", "type": "adjective", "difficulty": 1, "translation": "dễ dàng"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "buy", "type": "verb", "difficulty": 1, "translation": "mua"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "house", "type": "noun", "difficulty": 1, "translation": "ngôi nhà"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "yard", "type": "noun", "difficulty": 1, "translation": "cái sân"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở"},
+        {"word": "downtown", "type": "noun", "difficulty": 2, "translation": "khu trung tâm thành phố"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 35.735,
+      "audio_timestamp_end": 36.500,
+      "text": "Yogurt.",
+      "tokens": [
+        {"word": "Yogurt", "type": "noun", "difficulty": 2, "translation": "Sữa chua"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 36.500,
+      "audio_timestamp_end": 39.712,
+      "text": "The farm sells yogurt and soft cheese.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Cái"},
+        {"word": "farm", "type": "noun", "difficulty": 1, "translation": "nông trại"},
+        {"word": "sells", "type": "verb", "difficulty": 1, "translation": "bán"},
+        {"word": "yogurt", "type": "noun", "difficulty": 2, "translation": "sữa chua"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "soft", "type": "adjective", "difficulty": 1, "translation": "mềm"},
+        {"word": "cheese", "type": "noun", "difficulty": 1, "translation": "phô mai"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 41.690,
+      "audio_timestamp_end": 43.000,
+      "text": "Young.",
+      "tokens": [
+        {"word": "Young", "type": "adjective", "difficulty": 1, "translation": "Trẻ"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 43.000,
+      "audio_timestamp_end": 49.646,
+      "text": "As young people like online shopping, luxury goods retailers are building more websites.",
+      "tokens": [
+        {"word": "As", "type": "conjunction", "difficulty": 2, "translation": "Bởi vì / Khi"},
+        {"word": "young", "type": "adjective", "difficulty": 1, "translation": "trẻ"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người"},
+        {"word": "like", "type": "verb", "difficulty": 1, "translation": "thích"},
+        {"word": "online", "type": "adjective", "difficulty": 1, "translation": "trực tuyến"},
+        {"word": "shopping", "type": "noun", "difficulty": 1, "translation": "mua sắm"},
+        {"word": "luxury", "type": "adjective", "difficulty": 3, "translation": "xa xỉ"},
+        {"word": "goods", "type": "noun", "difficulty": 2, "translation": "hàng hóa"},
+        {"word": "retailers", "type": "noun", "difficulty": 3, "translation": "nhà bán lẻ"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "đang"},
+        {"word": "building", "type": "verb", "difficulty": 1, "translation": "xây dựng"},
+        {"word": "more", "type": "adjective", "difficulty": 1, "translation": "nhiều hơn"},
+        {"word": "websites", "type": "noun", "difficulty": 1, "translation": "trang web"}
+      ]
+    },
+    {
+      "segment_id": 13,
+      "audio_timestamp_start": 53.602,
+      "audio_timestamp_end": 56.602,
+      "text": "Sky.",
+      "tokens": [
+        {"word": "Sky", "type": "noun", "difficulty": 1, "translation": "Bầu trời"}
+      ]
+    },
+    {
+      "segment_id": 14,
+      "audio_timestamp_start": 56.580,
+      "audio_timestamp_end": 61.838,
+      "text": "The sky in the countryside seems clearer and higher than in the city.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Cái"},
+        {"word": "sky", "type": "noun", "difficulty": 1, "translation": "bầu trời"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "vùng"},
+        {"word": "countryside", "type": "noun", "difficulty": 2, "translation": "nông thôn"},
+        {"word": "seems", "type": "verb", "difficulty": 2, "translation": "có vẻ"},
+        {"word": "clearer", "type": "adjective", "difficulty": 2, "translation": "trong xanh hơn"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "higher", "type": "adjective", "difficulty": 1, "translation": "cao hơn"},
+        {"word": "than", "type": "preposition", "difficulty": 1, "translation": "hơn"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "khu"},
+        {"word": "city", "type": "noun", "difficulty": 1, "translation": "thành phố"}
+      ]
+    },
+    {
+      "segment_id": 15,
+      "audio_timestamp_start": 62.536,
+      "audio_timestamp_end": 65.536,
+      "text": "Recycle.",
+      "tokens": [
+        {"word": "Recycle", "type": "verb", "difficulty": 2, "translation": "Tái chế"}
+      ]
+    },
+    {
+      "segment_id": 16,
+      "audio_timestamp_start": 65.514,
+      "audio_timestamp_end": 69.492,
+      "text": "The fashion world just keeps recycling old ideas.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Cái"},
+        {"word": "fashion", "type": "noun", "difficulty": 1, "translation": "thời trang"},
+        {"word": "world", "type": "noun", "difficulty": 1, "translation": "thế giới"},
+        {"word": "just", "type": "adverb", "difficulty": 1, "translation": "chỉ"},
+        {"word": "keeps", "type": "verb", "difficulty": 2, "translation": "tiếp tục"},
+        {"word": "recycling", "type": "verb", "difficulty": 2, "translation": "tái chế"},
+        {"word": "old", "type": "adjective", "difficulty": 1, "translation": "cũ"},
+        {"word": "ideas", "type": "noun", "difficulty": 2, "translation": "ý tưởng"}
+      ]
+    },
+    {
+      "segment_id": 17,
+      "audio_timestamp_start": 71.470,
+      "audio_timestamp_end": 73.470,
+      "text": "Try.",
+      "tokens": [
+        {"word": "Try", "type": "verb", "difficulty": 1, "translation": "Thử"}
+      ]
+    },
+    {
+      "segment_id": 18,
+      "audio_timestamp_start": 73.470,
+      "audio_timestamp_end": 75.470,
+      "text": "The style of this skirt is very nice.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Cái"},
+        {"word": "style", "type": "noun", "difficulty": 2, "translation": "kiểu dáng"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "this", "type": "pronoun", "difficulty": 1, "translation": "này"},
+        {"word": "skirt", "type": "noun", "difficulty": 1, "translation": "váy"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "thì"},
+        {"word": "very", "type": "adverb", "difficulty": 1, "translation": "rất"},
+        {"word": "nice", "type": "adjective", "difficulty": 1, "translation": "đẹp"}
+      ]
+    },
+    {
+      "segment_id": 19,
+      "audio_timestamp_start": 75.470,
+      "audio_timestamp_end": 77.248,
+      "text": "You can try it on.",
+      "tokens": [
+        {"word": "You", "type": "pronoun", "difficulty": 1, "translation": "Bạn"},
+        {"word": "can", "type": "modal_verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "try", "type": "verb", "difficulty": 1, "translation": "thử"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "vào"}
+      ]
+    },
+    {
+      "segment_id": 20,
+      "audio_timestamp_start": 83.382,
+      "audio_timestamp_end": 85.000,
+      "text": "Opportunity.",
+      "tokens": [
+        {"word": "Opportunity", "type": "noun", "difficulty": 3, "translation": "Cơ hội"}
+      ]
+    },
+    {
+      "segment_id": 21,
+      "audio_timestamp_start": 85.000,
+      "audio_timestamp_end": 92.338,
+      "text": "I haven't had the opportunity to live in the countryside for a long period.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "haven't", "type": "verb", "difficulty": 2, "translation": "chưa"},
+        {"word": "had", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "opportunity", "type": "noun", "difficulty": 3, "translation": "cơ hội"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "live", "type": "verb", "difficulty": 1, "translation": "sống"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "vùng"},
+        {"word": "countryside", "type": "noun", "difficulty": 2, "translation": "nông thôn"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "long", "type": "adjective", "difficulty": 1, "translation": "dài"},
+        {"word": "period", "type": "noun", "difficulty": 2, "translation": "khoảng thời gian"}
+      ]
+    },
+    {
+      "segment_id": 22,
+      "audio_timestamp_start": 92.316,
+      "audio_timestamp_end": 94.000,
+      "text": "Especially.",
+      "tokens": [
+        {"word": "Especially", "type": "adverb", "difficulty": 3, "translation": "Đặc biệt là"}
+      ]
+    },
+    {
+      "segment_id": 23,
+      "audio_timestamp_start": 94.000,
+      "audio_timestamp_end": 100.672,
+      "text": "My grandparents live in the suburb of Beijing, and it is common for us to visit them, especially on holidays.",
+      "tokens": [
+        {"word": "My", "type": "pronoun", "difficulty": 1, "translation": "Của tôi"},
+        {"word": "grandparents", "type": "noun", "difficulty": 2, "translation": "ông bà"},
+        {"word": "live", "type": "verb", "difficulty": 1, "translation": "sống"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "khu"},
+        {"word": "suburb", "type": "noun", "difficulty": 3, "translation": "ngoại ô"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "Beijing", "type": "noun", "difficulty": 2, "translation": "Bắc Kinh"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "điều đó"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "thì"},
+        {"word": "common", "type": "adjective", "difficulty": 2, "translation": "phổ biến"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "đối với"},
+        {"word": "us", "type": "pronoun", "difficulty": 1, "translation": "chúng tôi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "visit", "type": "verb", "difficulty": 1, "translation": "thăm"},
+        {"word": "them", "type": "pronoun", "difficulty": 1, "translation": "họ"},
+        {"word": "especially", "type": "adverb", "difficulty": 3, "translation": "đặc biệt là"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "vào"},
+        {"word": "holidays", "type": "noun", "difficulty": 1, "translation": "những ngày lễ"}
+      ]
+    },
+    {
+      "segment_id": 24,
+      "audio_timestamp_start": 101.250,
+      "audio_timestamp_end": 104.250,
+      "text": "Countryside.",
+      "tokens": [
+        {"word": "Countryside", "type": "noun", "difficulty": 2, "translation": "Nông thôn"}
+      ]
+    },
+    {
+      "segment_id": 25,
+      "audio_timestamp_start": 104.228,
+      "audio_timestamp_end": 108.286,
+      "text": "Educational facilities are in shortage in the countryside.",
+      "tokens": [
+        {"word": "Educational", "type": "adjective", "difficulty": 3, "translation": "Thuộc giáo dục"},
+        {"word": "facilities", "type": "noun", "difficulty": 3, "translation": "cơ sở vật chất"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "thì"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "shortage", "type": "noun", "difficulty": 3, "translation": "sự thiếu hụt"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "vùng"},
+        {"word": "countryside", "type": "noun", "difficulty": 2, "translation": "nông thôn"}
+      ]
+    },
+    {
+      "segment_id": 26,
+      "audio_timestamp_start": 113.161,
+      "audio_timestamp_end": 115.161,
+      "text": "Crazy.",
+      "tokens": [
+        {"word": "Crazy", "type": "adjective", "difficulty": 1, "translation": "Điên cuồng / Đam mê"}
+      ]
+    },
+    {
+      "segment_id": 27,
+      "audio_timestamp_start": 116.139,
+      "audio_timestamp_end": 120.117,
+      "text": "I've been crazy about the heels since the first time I saw them.",
+      "tokens": [
+        {"word": "I've", "type": "pronoun_verb", "difficulty": 2, "translation": "Tôi đã"},
+        {"word": "been", "type": "verb", "difficulty": 1, "translation": "từng"},
+        {"word": "crazy", "type": "adjective", "difficulty": 2, "translation": "phát cuồng"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "heels", "type": "noun", "difficulty": 2, "translation": "đôi giày cao gót"},
+        {"word": "since", "type": "preposition", "difficulty": 2, "translation": "từ"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "lần"},
+        {"word": "first", "type": "adjective", "difficulty": 1, "translation": "đầu tiên"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "lúc"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "saw", "type": "verb", "difficulty": 1, "translation": "thấy"},
+        {"word": "them", "type": "pronoun", "difficulty": 1, "translation": "chúng"}
+      ]
+    },
+    {
+      "segment_id": 28,
+      "audio_timestamp_start": 122.095,
+      "audio_timestamp_end": 124.000,
+      "text": "Breeze.",
+      "tokens": [
+        {"word": "Breeze", "type": "noun", "difficulty": 3, "translation": "Cơn gió nhẹ"}
+      ]
+    },
+    {
+      "segment_id": 29,
+      "audio_timestamp_start": 124.000,
+      "audio_timestamp_end": 128.033,
+      "text": "We will roll the windows down and feel the breeze when driving on the country road.",
+      "tokens": [
+        {"word": "We", "type": "pronoun", "difficulty": 1, "translation": "Chúng ta"},
+        {"word": "will", "type": "modal_verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "roll", "type": "verb", "difficulty": 2, "translation": "cuộn / hạ"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "windows", "type": "noun", "difficulty": 1, "translation": "cửa sổ"},
+        {"word": "down", "type": "adverb", "difficulty": 1, "translation": "xuống"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "feel", "type": "verb", "difficulty": 1, "translation": "cảm nhận"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cơn"},
+        {"word": "breeze", "type": "noun", "difficulty": 3, "translation": "gió nhẹ"},
+        {"word": "when", "type": "conjunction", "difficulty": 1, "translation": "khi"},
+        {"word": "driving", "type": "verb", "difficulty": 1, "translation": "lái xe"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "trên"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "con"},
+        {"word": "country", "type": "noun", "difficulty": 1, "translation": "nông thôn"},
+        {"word": "road", "type": "noun", "difficulty": 1, "translation": "đường"}
+      ]
+    },
+    {
+      "segment_id": 30,
+      "audio_timestamp_start": 128.051,
+      "audio_timestamp_end": 131.051,
+      "text": "Size.",
+      "tokens": [
+        {"word": "Size", "type": "noun", "difficulty": 1, "translation": "Kích cỡ"}
+      ]
+    },
+    {
+      "segment_id": 31,
+      "audio_timestamp_start": 131.029,
+      "audio_timestamp_end": 136.807,
+      "text": "I can hardly find any clothes in my size.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "can", "type": "modal_verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "hardly", "type": "adverb", "difficulty": 3, "translation": "hầu như không"},
+        {"word": "find", "type": "verb", "difficulty": 1, "translation": "tìm thấy"},
+        {"word": "any", "type": "adjective", "difficulty": 1, "translation": "bất kỳ"},
+        {"word": "clothes", "type": "noun", "difficulty": 1, "translation": "quần áo"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "thuộc"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "size", "type": "noun", "difficulty": 1, "translation": "kích cỡ"}
+      ]
+    }
+  ]
+}

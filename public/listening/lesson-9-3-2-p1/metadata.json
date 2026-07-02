@@ -1,0 +1,172 @@
+﻿{
+  "title": "Photography Trip Preparation[cite: 1]",
+  "transcript": "Right. So, does anyone have- questions about the upcoming trip. So actually, I'd like to know if anyone has checked. the weather. I have heard it's going to rain. Well, yes, but it won't be a problem. There will be plenty of opportunities for photogr- graphs. But you just need to take care. and make sure you don't slip on any rocks. What about snow? Well, yeah. Yes, that will make things complicated. but it shouldn't affect your close-up images. It might even make them more attractive. I guess snow-covered flowers look good. Well, absolutely. Hmm, I see. Yeah, I can't wait to find... photograph the Scots pine trees. They really... look great when covered in snow. Be patient. You'll get some great shots if you go to the right place and if the light is good. Now, is there anything else? Well, I've seen some of the landscape paintings by well- artists. I thought they might give me some inspiration. Good idea. Portrait photographers can be helpful too. They can help give you ideas about camera angles. and how to use natural light. Hmm, I'll definitely bear that in mind. One other thing, is it important for us to... to take into account the environmental issues in the area? Yes, it is, because, well... We need to take care when we're working inside and natural habitat like this and do not draw any garbage because the area is That's what we have to bear in mind.[cite: 1]",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 2.9,
+      "text": "Right. So, does anyone have-[cite: 1]",
+      "tokens": [
+        {"word": "Right", "type": "interjection", "difficulty": 1, "translation": "Đúng/Được rồi"},
+        {"word": "So", "type": "conjunction", "difficulty": 1, "translation": "Vậy thì"},
+        {"word": "does", "type": "auxiliary_verb", "difficulty": 1, "translation": "có (trợ động từ)"},
+        {"word": "anyone", "type": "pronoun", "difficulty": 1, "translation": "bất cứ ai"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "có"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 2.999,
+      "audio_timestamp_end": 5.999,
+      "text": "questions about the upcoming trip.[cite: 1]",
+      "tokens": [
+        {"word": "questions", "type": "noun", "difficulty": 1, "translation": "câu hỏi"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "upcoming", "type": "adjective", "difficulty": 2, "translation": "sắp tới"},
+        {"word": "trip", "type": "noun", "difficulty": 1, "translation": "chuyến đi"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 5.999,
+      "audio_timestamp_end": 8.899,
+      "text": "So actually, I'd like to know if anyone has checked.[cite: 1]",
+      "tokens": [
+        {"word": "So", "type": "conjunction", "difficulty": 1, "translation": "Vậy"},
+        {"word": "actually", "type": "adverb", "difficulty": 2, "translation": "thực ra"},
+        {"word": "I'd", "type": "pronoun", "difficulty": 1, "translation": "tôi muốn (I would)"},
+        {"word": "like", "type": "verb", "difficulty": 1, "translation": "thích/muốn"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "know", "type": "verb", "difficulty": 1, "translation": "biết"},
+        {"word": "if", "type": "conjunction", "difficulty": 1, "translation": "nếu/liệu"},
+        {"word": "anyone", "type": "pronoun", "difficulty": 1, "translation": "bất cứ ai"},
+        {"word": "has", "type": "auxiliary_verb", "difficulty": 1, "translation": "đã"},
+        {"word": "checked", "type": "verb", "difficulty": 1, "translation": "kiểm tra"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 8.999,
+      "audio_timestamp_end": 11.779,
+      "text": "the weather. I have heard it's going to rain.[cite: 1]",
+      "tokens": [
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "weather", "type": "noun", "difficulty": 1, "translation": "thời tiết"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "have", "type": "auxiliary_verb", "difficulty": 1, "translation": "đã"},
+        {"word": "heard", "type": "verb", "difficulty": 1, "translation": "nghe"},
+        {"word": "it's", "type": "pronoun", "difficulty": 1, "translation": "nó sẽ (it is)"},
+        {"word": "going", "type": "verb", "difficulty": 1, "translation": "sắp (going to)"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "rain", "type": "verb", "difficulty": 1, "translation": "mưa"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 11.999,
+      "audio_timestamp_end": 14.999,
+      "text": "Well, yes, but it won't be a problem.[cite: 1]",
+      "tokens": [
+        {"word": "Well", "type": "interjection", "difficulty": 1, "translation": "À/Chà"},
+        {"word": "yes", "type": "interjection", "difficulty": 1, "translation": "vâng/có"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "won't", "type": "verb", "difficulty": 1, "translation": "sẽ không (will not)"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "là/trở thành"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "problem", "type": "noun", "difficulty": 1, "translation": "vấn đề"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 14.999,
+      "audio_timestamp_end": 20.999,
+      "text": "There will be plenty of opportunities for photographs. But you just need to take care.[cite: 1]",
+      "tokens": [
+        {"word": "There", "type": "pronoun", "difficulty": 1, "translation": "Sẽ có"},
+        {"word": "will", "type": "auxiliary_verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "là/có"},
+        {"word": "plenty", "type": "pronoun", "difficulty": 2, "translation": "nhiều"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "opportunities", "type": "noun", "difficulty": 3, "translation": "cơ hội"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "photographs", "type": "noun", "difficulty": 2, "translation": "bức ảnh"},
+        {"word": "But", "type": "conjunction", "difficulty": 1, "translation": "Nhưng"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "just", "type": "adverb", "difficulty": 1, "translation": "chỉ"},
+        {"word": "need", "type": "verb", "difficulty": 1, "translation": "cần"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "take", "type": "verb", "difficulty": 1, "translation": "lấy"},
+        {"word": "care", "type": "noun", "difficulty": 1, "translation": "sự cẩn thận (take care: cẩn thận)"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 20.999,
+      "audio_timestamp_end": 23.839,
+      "text": "and make sure you don't slip on any rocks.[cite: 1]",
+      "tokens": [
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "make", "type": "verb", "difficulty": 1, "translation": "làm"},
+        {"word": "sure", "type": "adjective", "difficulty": 1, "translation": "chắc chắn (make sure: đảm bảo)"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "don't", "type": "auxiliary_verb", "difficulty": 1, "translation": "không"},
+        {"word": "slip", "type": "verb", "difficulty": 2, "translation": "trượt ngã"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "trên"},
+        {"word": "any", "type": "pronoun", "difficulty": 1, "translation": "bất kỳ"},
+        {"word": "rocks", "type": "noun", "difficulty": 1, "translation": "tảng đá"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 23.999,
+      "audio_timestamp_end": 25.999,
+      "text": "What about snow?[cite: 1]",
+      "tokens": [
+        {"word": "What", "type": "pronoun", "difficulty": 1, "translation": "Cái gì"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về (what about: thế còn)"},
+        {"word": "snow", "type": "noun", "difficulty": 1, "translation": "tuyết"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 25.999,
+      "audio_timestamp_end": 29.599,
+      "text": "Well, yeah. Yes, that will make things complicated.[cite: 1]",
+      "tokens": [
+        {"word": "Well", "type": "interjection", "difficulty": 1, "translation": "À"},
+        {"word": "yeah", "type": "interjection", "difficulty": 1, "translation": "vâng"},
+        {"word": "Yes", "type": "interjection", "difficulty": 1, "translation": "Đúng"},
+        {"word": "that", "type": "pronoun", "difficulty": 1, "translation": "điều đó"},
+        {"word": "will", "type": "auxiliary_verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "make", "type": "verb", "difficulty": 1, "translation": "làm cho"},
+        {"word": "things", "type": "noun", "difficulty": 1, "translation": "mọi thứ"},
+        {"word": "complicated", "type": "adjective", "difficulty": 3, "translation": "phức tạp"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 29.999,
+      "audio_timestamp_end": 35.399,
+      "text": "but it shouldn't affect your close-up images. It might even make them more attractive.[cite: 1]",
+      "tokens": [
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "shouldn't", "type": "verb", "difficulty": 1, "translation": "không nên/không có lẽ"},
+        {"word": "affect", "type": "verb", "difficulty": 2, "translation": "ảnh hưởng"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "close-up", "type": "adjective", "difficulty": 2, "translation": "cận cảnh"},
+        {"word": "images", "type": "noun", "difficulty": 1, "translation": "hình ảnh"},
+        {"word": "It", "type": "pronoun", "difficulty": 1, "translation": "Nó"},
+        {"word": "might", "type": "auxiliary_verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "even", "type": "adverb", "difficulty": 2, "translation": "thậm chí"},
+        {"word": "make", "type": "verb", "difficulty": 1, "translation": "làm cho"},
+        {"word": "them", "type": "pronoun", "difficulty": 1, "translation": "chúng"},
+        {"word": "more", "type": "adverb", "difficulty": 1, "translation": "hơn"},
+        {"word": "attractive", "type": "adjective", "difficulty": 3, "translation": "hấp dẫn"}
+      ]
+    }
+  ]
+}

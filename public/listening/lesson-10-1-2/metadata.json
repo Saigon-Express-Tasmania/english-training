@@ -1,0 +1,194 @@
+﻿{
+  "title": "Describing Hometowns",
+  "transcript": "Helen, can you tell me where you are from? Yeah, I'm from India. Can you describe your hometown to me? Sure, it's a comparatively small city located deep in a spectacular valley. It's an ancient city with many historical relics. Actually, it's a historic trading city. Summers can be intensely hot, but winters tend to be mild. And where do you come from, Kim? I come from Japan. Can you describe your hometown to me? Well, it's a comparatively big place. The food is pretty mild and the atmosphere is very civilized.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 3.5,
+      "text": "Helen, can you tell me where you are from?",
+      "tokens": [
+        {"word": "Helen", "type": "noun", "difficulty": 1, "translation": "Helen"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "tell", "type": "verb", "difficulty": 1, "translation": "nói/kể"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "where", "type": "adverb", "difficulty": 1, "translation": "ở đâu"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là/ở"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 3.6,
+      "audio_timestamp_end": 5.8,
+      "text": "Yeah, I'm from India.",
+      "tokens": [
+        {"word": "Yeah", "type": "interjection", "difficulty": 1, "translation": "Vâng/Đúng"},
+        {"word": "I'm", "type": "pronoun_verb", "difficulty": 1, "translation": "tôi đến"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "India", "type": "noun", "difficulty": 1, "translation": "Ấn Độ"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 5.9,
+      "audio_timestamp_end": 8.9,
+      "text": "Can you describe your hometown to me?",
+      "tokens": [
+        {"word": "Can", "type": "verb", "difficulty": 1, "translation": "Có thể"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "describe", "type": "verb", "difficulty": 2, "translation": "miêu tả"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "hometown", "type": "noun", "difficulty": 2, "translation": "quê hương"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "cho/với"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 9.0,
+      "audio_timestamp_end": 14.9,
+      "text": "Sure, it's a comparatively small city located deep in a spectacular valley.",
+      "tokens": [
+        {"word": "Sure", "type": "adverb", "difficulty": 1, "translation": "Chắc chắn rồi"},
+        {"word": "it's", "type": "pronoun_verb", "difficulty": 1, "translation": "nó là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "comparatively", "type": "adverb", "difficulty": 3, "translation": "tương đối"},
+        {"word": "small", "type": "adjective", "difficulty": 1, "translation": "nhỏ"},
+        {"word": "city", "type": "noun", "difficulty": 1, "translation": "thành phố"},
+        {"word": "located", "type": "verb", "difficulty": 2, "translation": "toạ lạc"},
+        {"word": "deep", "type": "adverb", "difficulty": 2, "translation": "sâu"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "spectacular", "type": "adjective", "difficulty": 3, "translation": "ngoạn mục"},
+        {"word": "valley", "type": "noun", "difficulty": 2, "translation": "thung lũng"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 15.0,
+      "audio_timestamp_end": 19.5,
+      "text": "It's an ancient city with many historical relics.",
+      "tokens": [
+        {"word": "It's", "type": "pronoun_verb", "difficulty": 1, "translation": "Nó là"},
+        {"word": "an", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "ancient", "type": "adjective", "difficulty": 3, "translation": "cổ kính"},
+        {"word": "city", "type": "noun", "difficulty": 1, "translation": "thành phố"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "many", "type": "adjective", "difficulty": 1, "translation": "nhiều"},
+        {"word": "historical", "type": "adjective", "difficulty": 2, "translation": "thuộc về lịch sử"},
+        {"word": "relics", "type": "noun", "difficulty": 3, "translation": "di tích"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 19.6,
+      "audio_timestamp_end": 22.9,
+      "text": "Actually, it's a historic trading city.",
+      "tokens": [
+        {"word": "Actually", "type": "adverb", "difficulty": 2, "translation": "Thực ra"},
+        {"word": "it's", "type": "pronoun_verb", "difficulty": 1, "translation": "nó là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "historic", "type": "adjective", "difficulty": 2, "translation": "mang tính lịch sử"},
+        {"word": "trading", "type": "noun", "difficulty": 2, "translation": "giao thương"},
+        {"word": "city", "type": "noun", "difficulty": 1, "translation": "thành phố"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 23.0,
+      "audio_timestamp_end": 26.9,
+      "text": "Summers can be intensely hot, but winters tend to be mild.",
+      "tokens": [
+        {"word": "Summers", "type": "noun", "difficulty": 1, "translation": "Mùa hè"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "trở nên"},
+        {"word": "intensely", "type": "adverb", "difficulty": 3, "translation": "dữ dội/vô cùng"},
+        {"word": "hot", "type": "adjective", "difficulty": 1, "translation": "nóng"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "winters", "type": "noun", "difficulty": 1, "translation": "mùa đông"},
+        {"word": "tend", "type": "verb", "difficulty": 2, "translation": "có xu hướng"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "trở nên/là"},
+        {"word": "mild", "type": "adjective", "difficulty": 2, "translation": "ôn hòa"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 27.0,
+      "audio_timestamp_end": 29.7,
+      "text": "And where do you come from, Kim?",
+      "tokens": [
+        {"word": "And", "type": "conjunction", "difficulty": 1, "translation": "Và"},
+        {"word": "where", "type": "adverb", "difficulty": 1, "translation": "ở đâu"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "(trợ động từ)"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "come", "type": "verb", "difficulty": 1, "translation": "đến"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "Kim", "type": "noun", "difficulty": 1, "translation": "Kim"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 30.0,
+      "audio_timestamp_end": 31.9,
+      "text": "I come from Japan.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "come", "type": "verb", "difficulty": 1, "translation": "đến"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "Japan", "type": "noun", "difficulty": 1, "translation": "Nhật Bản"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 33.0,
+      "audio_timestamp_end": 35.3,
+      "text": "Can you describe your hometown to me?",
+      "tokens": [
+        {"word": "Can", "type": "verb", "difficulty": 1, "translation": "Có thể"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "describe", "type": "verb", "difficulty": 2, "translation": "miêu tả"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "hometown", "type": "noun", "difficulty": 2, "translation": "quê hương"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "cho/với"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 35.4,
+      "audio_timestamp_end": 38.8,
+      "text": "Well, it's a comparatively big place.",
+      "tokens": [
+        {"word": "Well", "type": "interjection", "difficulty": 1, "translation": "À/Ừm"},
+        {"word": "it's", "type": "pronoun_verb", "difficulty": 1, "translation": "nó là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "comparatively", "type": "adverb", "difficulty": 3, "translation": "tương đối"},
+        {"word": "big", "type": "adjective", "difficulty": 1, "translation": "lớn"},
+        {"word": "place", "type": "noun", "difficulty": 1, "translation": "nơi/chốn"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 38.9,
+      "audio_timestamp_end": 44.6,
+      "text": "The food is pretty mild and the atmosphere is very civilized.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "(mạo từ xác định)"},
+        {"word": "food", "type": "noun", "difficulty": 1, "translation": "đồ ăn"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "pretty", "type": "adverb", "difficulty": 2, "translation": "khá"},
+        {"word": "mild", "type": "adjective", "difficulty": 2, "translation": "nhẹ nhàng/thanh đạm"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "(mạo từ xác định)"},
+        {"word": "atmosphere", "type": "noun", "difficulty": 3, "translation": "bầu không khí"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "very", "type": "adverb", "difficulty": 1, "translation": "rất"},
+        {"word": "civilized", "type": "adjective", "difficulty": 3, "translation": "văn minh"}
+      ]
+    }
+  ]
+}

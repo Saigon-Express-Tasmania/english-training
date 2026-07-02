@@ -1,0 +1,147 @@
+{
+  "title": "Vocabulary Lesson: Environment and Animals",
+  "transcript": "Adorable. Dogs are adorable and always perk people up when they play together. Respect. We should show our respect towards the Earth's environment, otherwise it will punish us. Promote. The Kyoto protocol aims to promote the effort on minimizing climate change worldwide. Serious. We are now witnessing serious problems in global warming. Suffer. Some countries are suffering from extreme weather conditions. Storm. This terrible snowstorm has made people's life in Moscow inconvenient. Decision. It must be hard for you to make such a decision. Usually. Dogs usually bark when they see strangers. Pleasure. The pleasure of keeping a pet comes partly from feeding it. Reuse. One way I help in environmental protection is to reuse rainwater to water my lawn, garden and house plants. Raise. What should we do to raise people's awareness of protecting the endangered species? Hesitate. Many young people do not hesitate to spend money on pets and take care of them like babies. Goldfish. I kept goldfish and turtles, both of which left me with wonderful feelings and memories. Wish. Some birds are believed to represent good wishes and therefore bring good luck. Sheet. I print on both sides of every sheet of paper, which is quite economical and environmentally friendly. Climate. The changes in the climate result in extreme weather conditions such as typhoons and flood. Protect. Protecting the environment is of great importance. Blacklist. People who drop litter will be put on the blacklist. Faithful. Dogs are faithful animals, and will help their owners no matter what the situation is. Something. Climate change is something that needs to be taken very seriously. Think. I think governments all over the world should think thoroughly to review their environmental laws. There. Are there any pollution problems in your hometown? Weather. The environmental problems also have an impact on the weather. Breathe. The poor little cat is still breathing.[cite: 1]",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 2.977,
+      "audio_timestamp_end": 3.977,
+      "text": "Adorable.[cite: 1]",
+      "tokens": [
+        {"word": "Adorable", "type": "adjective", "difficulty": 2, "translation": "Đáng yêu"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 3.977,
+      "audio_timestamp_end": 8.955,
+      "text": "Dogs are adorable and always perk people up when they play together.[cite: 1]",
+      "tokens": [
+        {"word": "Dogs", "type": "noun", "difficulty": 1, "translation": "Những con chó"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "adorable", "type": "adjective", "difficulty": 2, "translation": "đáng yêu"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "always", "type": "adverb", "difficulty": 1, "translation": "luôn luôn"},
+        {"word": "perk", "type": "verb", "difficulty": 3, "translation": "làm tươi tỉnh"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "mọi người"},
+        {"word": "up", "type": "preposition", "difficulty": 1, "translation": "lên"},
+        {"word": "when", "type": "conjunction", "difficulty": 1, "translation": "khi"},
+        {"word": "they", "type": "pronoun", "difficulty": 1, "translation": "chúng"},
+        {"word": "play", "type": "verb", "difficulty": 1, "translation": "chơi"},
+        {"word": "together", "type": "adverb", "difficulty": 1, "translation": "cùng nhau"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 8.933,
+      "audio_timestamp_end": 11.933,
+      "text": "Respect.[cite: 1]",
+      "tokens": [
+        {"word": "Respect", "type": "noun", "difficulty": 2, "translation": "Sự tôn trọng"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 11.911,
+      "audio_timestamp_end": 18.867,
+      "text": "We should show our respect towards the Earth's environment, otherwise it will punish us.[cite: 1]",
+      "tokens": [
+        {"word": "We", "type": "pronoun", "difficulty": 1, "translation": "Chúng ta"},
+        {"word": "should", "type": "verb", "difficulty": 1, "translation": "nên"},
+        {"word": "show", "type": "verb", "difficulty": 1, "translation": "thể hiện"},
+        {"word": "our", "type": "pronoun", "difficulty": 1, "translation": "của chúng ta"},
+        {"word": "respect", "type": "noun", "difficulty": 2, "translation": "sự tôn trọng"},
+        {"word": "towards", "type": "preposition", "difficulty": 2, "translation": "đối với"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "Earth's", "type": "noun", "difficulty": 1, "translation": "của Trái Đất"},
+        {"word": "environment", "type": "noun", "difficulty": 2, "translation": "môi trường"},
+        {"word": "otherwise", "type": "adverb", "difficulty": 3, "translation": "nếu không thì"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "will", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "punish", "type": "verb", "difficulty": 2, "translation": "trừng phạt"},
+        {"word": "us", "type": "pronoun", "difficulty": 1, "translation": "chúng ta"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 20.845,
+      "audio_timestamp_end": 25.845,
+      "text": "Promote.[cite: 1]",
+      "tokens": [
+        {"word": "Promote", "type": "verb", "difficulty": 2, "translation": "Thúc đẩy"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 23.823,
+      "audio_timestamp_end": 28.801,
+      "text": "The Kyoto protocol aims to promote the effort on minimizing climate change worldwide.[cite: 1]",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Cái/các"},
+        {"word": "Kyoto", "type": "noun", "difficulty": 3, "translation": "Kyoto (tên riêng)"},
+        {"word": "protocol", "type": "noun", "difficulty": 4, "translation": "nghị định thư"},
+        {"word": "aims", "type": "verb", "difficulty": 3, "translation": "nhằm mục đích"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "promote", "type": "verb", "difficulty": 2, "translation": "thúc đẩy"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "effort", "type": "noun", "difficulty": 2, "translation": "nỗ lực"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "minimizing", "type": "verb", "difficulty": 3, "translation": "giảm thiểu"},
+        {"word": "climate", "type": "noun", "difficulty": 2, "translation": "khí hậu"},
+        {"word": "change", "type": "noun", "difficulty": 2, "translation": "sự biến đổi"},
+        {"word": "worldwide", "type": "adverb", "difficulty": 3, "translation": "trên toàn thế giới"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 35.735,
+      "audio_timestamp_end": 38.735,
+      "text": "Serious.[cite: 1]",
+      "tokens": [
+        {"word": "Serious", "type": "adjective", "difficulty": 2, "translation": "Nghiêm trọng"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 38.712,
+      "audio_timestamp_end": 40.712,
+      "text": "We are now witnessing serious problems in global warming.[cite: 1]",
+      "tokens": [
+        {"word": "We", "type": "pronoun", "difficulty": 1, "translation": "Chúng ta"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "đang"},
+        {"word": "now", "type": "adverb", "difficulty": 1, "translation": "bây giờ"},
+        {"word": "witnessing", "type": "verb", "difficulty": 3, "translation": "chứng kiến"},
+        {"word": "serious", "type": "adjective", "difficulty": 2, "translation": "nghiêm trọng"},
+        {"word": "problems", "type": "noun", "difficulty": 2, "translation": "các vấn đề"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "global", "type": "adjective", "difficulty": 2, "translation": "toàn cầu"},
+        {"word": "warming", "type": "noun", "difficulty": 2, "translation": "sự nóng lên"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 41.690,
+      "audio_timestamp_end": 43.690,
+      "text": "Suffer.[cite: 1]",
+      "tokens": [
+        {"word": "Suffer", "type": "verb", "difficulty": 2, "translation": "Chịu đựng"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 44.668,
+      "audio_timestamp_end": 47.668,
+      "text": "Some countries are suffering from extreme weather conditions.[cite: 1]",
+      "tokens": [
+        {"word": "Some", "type": "adjective", "difficulty": 1, "translation": "Một vài"},
+        {"word": "countries", "type": "noun", "difficulty": 1, "translation": "các quốc gia"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "đang"},
+        {"word": "suffering", "type": "verb", "difficulty": 2, "translation": "chịu đựng"},
+        {"word": "from", "type": "preposition", "difficulty": 1, "translation": "từ"},
+        {"word": "extreme", "type": "adjective", "difficulty": 3, "translation": "khắc nghiệt"},
+        {"word": "weather", "type": "noun", "difficulty": 1, "translation": "thời tiết"},
+        {"word": "conditions", "type": "noun", "difficulty": 2, "translation": "điều kiện"}
+      ]
+    }
+  ]
+}

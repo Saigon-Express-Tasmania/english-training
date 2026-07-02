@@ -8,10 +8,16 @@ import type { VocabularyItem } from "@/views/listening/lib/collect-vocabulary";
 type VocabularySidebarProps = {
   words: VocabularyItem[];
   unlocked: boolean;
+  pinRequired?: boolean;
   onUnlock: () => void;
 };
 
-export function VocabularySidebar({ words, unlocked, onUnlock }: VocabularySidebarProps) {
+export function VocabularySidebar({
+  words,
+  unlocked,
+  pinRequired = true,
+  onUnlock,
+}: VocabularySidebarProps) {
   const [revealed, setRevealed] = useState(false);
 
   return (
@@ -23,7 +29,7 @@ export function VocabularySidebar({ words, unlocked, onUnlock }: VocabularySideb
         </p>
       </div>
 
-      {!unlocked ? (
+      {!unlocked && pinRequired ? (
         <>
           <ListeningUnlockButton onUnlock={onUnlock} className="w-100" />
           <p className="listening-vocab__placeholder mt-12 mb-0 text-sm text-neutral-500">

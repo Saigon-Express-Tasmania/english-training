@@ -5,14 +5,16 @@ import { promptUnlockPin } from "@/views/listening/lib/prompt-unlock-pin";
 type ListeningUnlockButtonProps = {
   onUnlock: () => void;
   className?: string;
+  pinRequired?: boolean;
 };
 
 export function ListeningUnlockButton({
   onUnlock,
   className = "",
+  pinRequired = true,
 }: ListeningUnlockButtonProps) {
   async function handleUnlock() {
-    const unlocked = await promptUnlockPin();
+    const unlocked = await promptUnlockPin({ bypass: !pinRequired });
     if (unlocked) {
       onUnlock();
     }

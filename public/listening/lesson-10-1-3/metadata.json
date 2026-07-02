@@ -1,0 +1,202 @@
+﻿{
+  "title": "A New Lifestyle and School Facilities",
+  "transcript": "Hi Lisa, how is the lifestyle in the new place? It's great. My brother and I have enrolled at the Sir Brian Mulroney High School. The music auditorium is amazing, and I'll definitely join the orchestra. There's also an Olympic swimming pool. There is a shop beside it where you can buy all the swimming gear you need, including swimming suits, goggles and so on. If you want to be close to nature, you can choose to swim in the river, which is located in the suburb. The leisure facilities like the restaurants, cafes, bars, and cinemas open until midnight. Oh, and don't worry, I'll always stay in touch. Great, can't wait to see you again.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 3.5,
+      "text": "Hi Lisa, how is the lifestyle in the new place?",
+      "tokens": [
+        {"word": "Hi", "type": "interjection", "difficulty": 1, "translation": "Chào"},
+        {"word": "Lisa", "type": "proper_noun", "difficulty": 1, "translation": "Lisa"},
+        {"word": "how", "type": "adverb", "difficulty": 1, "translation": "như thế nào"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "thì/là"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "lifestyle", "type": "noun", "difficulty": 2, "translation": "lối sống"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở/trong"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "new", "type": "adjective", "difficulty": 1, "translation": "mới"},
+        {"word": "place", "type": "noun", "difficulty": 1, "translation": "nơi/chỗ"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 3.5,
+      "audio_timestamp_end": 4.5,
+      "text": "It's great.",
+      "tokens": [
+        {"word": "It's", "type": "contraction", "difficulty": 1, "translation": "nó thì"},
+        {"word": "great", "type": "adjective", "difficulty": 1, "translation": "tuyệt vời"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 4.5,
+      "audio_timestamp_end": 8.9,
+      "text": "My brother and I have enrolled at the Sir Brian Mulroney High School.",
+      "tokens": [
+        {"word": "My", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "brother", "type": "noun", "difficulty": 1, "translation": "anh/em trai"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "đã"},
+        {"word": "enrolled", "type": "verb", "difficulty": 3, "translation": "ghi danh/nhập học"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "tại"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "Sir", "type": "proper_noun", "difficulty": 2, "translation": "Ngài"},
+        {"word": "Brian", "type": "proper_noun", "difficulty": 1, "translation": "Brian"},
+        {"word": "Mulroney", "type": "proper_noun", "difficulty": 2, "translation": "Mulroney"},
+        {"word": "High", "type": "adjective", "difficulty": 1, "translation": "trung học (phổ thông)"},
+        {"word": "School", "type": "noun", "difficulty": 1, "translation": "trường học"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 8.9,
+      "audio_timestamp_end": 14.3,
+      "text": "The music auditorium is amazing, and I'll definitely join the orchestra.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "music", "type": "noun", "difficulty": 1, "translation": "âm nhạc"},
+        {"word": "auditorium", "type": "noun", "difficulty": 4, "translation": "khán phòng"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "thì/là"},
+        {"word": "amazing", "type": "adjective", "difficulty": 2, "translation": "tuyệt vời/đáng kinh ngạc"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "I'll", "type": "contraction", "difficulty": 1, "translation": "tôi sẽ"},
+        {"word": "definitely", "type": "adverb", "difficulty": 3, "translation": "chắc chắn"},
+        {"word": "join", "type": "verb", "difficulty": 1, "translation": "tham gia"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "orchestra", "type": "noun", "difficulty": 4, "translation": "dàn nhạc"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 14.3,
+      "audio_timestamp_end": 17.6,
+      "text": "There's also an Olympic swimming pool.",
+      "tokens": [
+        {"word": "There's", "type": "contraction", "difficulty": 1, "translation": "có"},
+        {"word": "also", "type": "adverb", "difficulty": 1, "translation": "cũng"},
+        {"word": "an", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "Olympic", "type": "adjective", "difficulty": 2, "translation": "thuộc Olympic"},
+        {"word": "swimming", "type": "noun", "difficulty": 1, "translation": "bơi lội"},
+        {"word": "pool", "type": "noun", "difficulty": 1, "translation": "hồ bơi"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 17.6,
+      "audio_timestamp_end": 25.5,
+      "text": "There is a shop beside it where you can buy all the swimming gear you need, including swimming suits, goggles and so on.",
+      "tokens": [
+        {"word": "There", "type": "pronoun", "difficulty": 1, "translation": "có"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là/thì"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "shop", "type": "noun", "difficulty": 1, "translation": "cửa hàng"},
+        {"word": "beside", "type": "preposition", "difficulty": 2, "translation": "bên cạnh"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "where", "type": "adverb", "difficulty": 1, "translation": "nơi mà"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "buy", "type": "verb", "difficulty": 1, "translation": "mua"},
+        {"word": "all", "type": "pronoun", "difficulty": 1, "translation": "tất cả"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "các"},
+        {"word": "swimming", "type": "noun", "difficulty": 1, "translation": "bơi lội"},
+        {"word": "gear", "type": "noun", "difficulty": 3, "translation": "đồ dùng/thiết bị"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "need", "type": "verb", "difficulty": 1, "translation": "cần"},
+        {"word": "including", "type": "preposition", "difficulty": 2, "translation": "bao gồm"},
+        {"word": "swimming", "type": "noun", "difficulty": 1, "translation": "bơi lội"},
+        {"word": "suits", "type": "noun", "difficulty": 2, "translation": "bộ đồ"},
+        {"word": "goggles", "type": "noun", "difficulty": 3, "translation": "kính bơi"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "so", "type": "adverb", "difficulty": 1, "translation": "như vậy"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "tiếp tục"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 25.5,
+      "audio_timestamp_end": 32.7,
+      "text": "If you want to be close to nature, you can choose to swim in the river, which is located in the suburb.",
+      "tokens": [
+        {"word": "If", "type": "conjunction", "difficulty": 1, "translation": "nếu"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "want", "type": "verb", "difficulty": 1, "translation": "muốn"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "là/ở"},
+        {"word": "close", "type": "adjective", "difficulty": 1, "translation": "gần"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "với/tới"},
+        {"word": "nature", "type": "noun", "difficulty": 2, "translation": "thiên nhiên"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "choose", "type": "verb", "difficulty": 1, "translation": "chọn"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "swim", "type": "verb", "difficulty": 1, "translation": "bơi"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở/trong"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "river", "type": "noun", "difficulty": 1, "translation": "dòng sông"},
+        {"word": "which", "type": "pronoun", "difficulty": 1, "translation": "cái mà"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "được/là"},
+        {"word": "located", "type": "adjective", "difficulty": 2, "translation": "nằm ở/tọa lạc"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "suburb", "type": "noun", "difficulty": 3, "translation": "vùng ngoại ô"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 32.7,
+      "audio_timestamp_end": 38.3,
+      "text": "The leisure facilities like the restaurants, cafes, bars, and cinemas open until midnight.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "các"},
+        {"word": "leisure", "type": "noun", "difficulty": 3, "translation": "giải trí/thời gian rảnh"},
+        {"word": "facilities", "type": "noun", "difficulty": 3, "translation": "cơ sở vật chất"},
+        {"word": "like", "type": "preposition", "difficulty": 1, "translation": "như là"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "các"},
+        {"word": "restaurants", "type": "noun", "difficulty": 1, "translation": "nhà hàng"},
+        {"word": "cafes", "type": "noun", "difficulty": 1, "translation": "quán cà phê"},
+        {"word": "bars", "type": "noun", "difficulty": 1, "translation": "quán bar"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "cinemas", "type": "noun", "difficulty": 2, "translation": "rạp chiếu phim"},
+        {"word": "open", "type": "verb", "difficulty": 1, "translation": "mở cửa"},
+        {"word": "until", "type": "preposition", "difficulty": 2, "translation": "cho đến khi"},
+        {"word": "midnight", "type": "noun", "difficulty": 2, "translation": "nửa đêm"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 38.3,
+      "audio_timestamp_end": 41.5,
+      "text": "Oh, and don't worry, I'll always stay in touch.",
+      "tokens": [
+        {"word": "Oh", "type": "interjection", "difficulty": 1, "translation": "Ồ"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "don't", "type": "contraction", "difficulty": 1, "translation": "đừng"},
+        {"word": "worry", "type": "verb", "difficulty": 1, "translation": "lo lắng"},
+        {"word": "I'll", "type": "contraction", "difficulty": 1, "translation": "tôi sẽ"},
+        {"word": "always", "type": "adverb", "difficulty": 1, "translation": "luôn luôn"},
+        {"word": "stay", "type": "verb", "difficulty": 1, "translation": "giữ/ở"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "touch", "type": "noun", "difficulty": 2, "translation": "liên lạc"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 41.5,
+      "audio_timestamp_end": 44.0,
+      "text": "Great, can't wait to see you again.",
+      "tokens": [
+        {"word": "Great", "type": "adjective", "difficulty": 1, "translation": "tuyệt vời"},
+        {"word": "can't", "type": "contraction", "difficulty": 1, "translation": "không thể"},
+        {"word": "wait", "type": "verb", "difficulty": 1, "translation": "chờ đợi"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "see", "type": "verb", "difficulty": 1, "translation": "gặp/thấy"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "again", "type": "adverb", "difficulty": 1, "translation": "lại/lần nữa"}
+      ]
+    }
+  ]
+}

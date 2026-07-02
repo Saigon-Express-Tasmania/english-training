@@ -1,0 +1,122 @@
+﻿{
+  "title": "Favorite Animal: The Dog",
+  "transcript": "My favourite animal is the dog, since most dogs are very friendly and loyal. Dogs are commonly welcomed in most Chinese families. They are people's best friends because they take care of their owners and are quite fun. I have kept a few pets in the past and it has been an enjoyable experience. Pets are like my family members, keeping a pet is like having a baby who needs love and encouragement all the time.[cite: 3]",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 5.137,
+      "text": "My favourite animal is the dog, since most dogs are very friendly and loyal.[cite: 3]",
+      "tokens": [
+        {"word": "My", "type": "pronoun", "difficulty": 1, "translation": "Của tôi"},
+        {"word": "favourite", "type": "adjective", "difficulty": 1, "translation": "yêu thích"},
+        {"word": "animal", "type": "noun", "difficulty": 1, "translation": "động vật"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/con"},
+        {"word": "dog", "type": "noun", "difficulty": 1, "translation": "con chó"},
+        {"word": "since", "type": "conjunction", "difficulty": 2, "translation": "bởi vì"},
+        {"word": "most", "type": "adjective", "difficulty": 1, "translation": "hầu hết"},
+        {"word": "dogs", "type": "noun", "difficulty": 1, "translation": "những con chó"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "very", "type": "adverb", "difficulty": 1, "translation": "rất"},
+        {"word": "friendly", "type": "adjective", "difficulty": 1, "translation": "thân thiện"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "loyal", "type": "adjective", "difficulty": 2, "translation": "trung thành"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 5.955,
+      "audio_timestamp_end": 8.915,
+      "text": "Dogs are commonly welcomed in most Chinese families.[cite: 3]",
+      "tokens": [
+        {"word": "Dogs", "type": "noun", "difficulty": 1, "translation": "Những con chó"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "được/là"},
+        {"word": "commonly", "type": "adverb", "difficulty": 2, "translation": "thông thường"},
+        {"word": "welcomed", "type": "verb", "difficulty": 2, "translation": "chào đón"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "most", "type": "adjective", "difficulty": 1, "translation": "hầu hết"},
+        {"word": "Chinese", "type": "adjective", "difficulty": 1, "translation": "Trung Quốc"},
+        {"word": "families", "type": "noun", "difficulty": 1, "translation": "các gia đình"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 8.933,
+      "audio_timestamp_end": 14.911,
+      "text": "They are people's best friends because they take care of their owners and are quite fun.[cite: 3]",
+      "tokens": [
+        {"word": "They", "type": "pronoun", "difficulty": 1, "translation": "Chúng"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "people's", "type": "noun", "difficulty": 1, "translation": "của con người"},
+        {"word": "best", "type": "adjective", "difficulty": 1, "translation": "tốt nhất"},
+        {"word": "friends", "type": "noun", "difficulty": 1, "translation": "những người bạn"},
+        {"word": "because", "type": "conjunction", "difficulty": 1, "translation": "bởi vì"},
+        {"word": "they", "type": "pronoun", "difficulty": 1, "translation": "chúng"},
+        {"word": "take", "type": "verb", "difficulty": 1, "translation": "nhận/lấy"},
+        {"word": "care", "type": "noun", "difficulty": 1, "translation": "sự chăm sóc"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "their", "type": "pronoun", "difficulty": 1, "translation": "của chúng"},
+        {"word": "owners", "type": "noun", "difficulty": 2, "translation": "những người chủ"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "quite", "type": "adverb", "difficulty": 1, "translation": "khá"},
+        {"word": "fun", "type": "adjective", "difficulty": 1, "translation": "vui vẻ"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 14.889,
+      "audio_timestamp_end": 20.867,
+      "text": "I have kept a few pets in the past and it has been an enjoyable experience.[cite: 3]",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "đã"},
+        {"word": "kept", "type": "verb", "difficulty": 1, "translation": "nuôi/giữ"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "few", "type": "adjective", "difficulty": 1, "translation": "vài"},
+        {"word": "pets", "type": "noun", "difficulty": 1, "translation": "thú cưng"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "past", "type": "noun", "difficulty": 1, "translation": "quá khứ"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "has", "type": "verb", "difficulty": 1, "translation": "đã"},
+        {"word": "been", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "an", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "enjoyable", "type": "adjective", "difficulty": 2, "translation": "thú vị"},
+        {"word": "experience", "type": "noun", "difficulty": 2, "translation": "trải nghiệm"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 20.845,
+      "audio_timestamp_end": 27.301,
+      "text": "Pets are like my family members, keeping a pet is like having a baby who needs love and encouragement all the time.[cite: 3]",
+      "tokens": [
+        {"word": "Pets", "type": "noun", "difficulty": 1, "translation": "Thú cưng"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "like", "type": "preposition", "difficulty": 1, "translation": "giống như"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "family", "type": "noun", "difficulty": 1, "translation": "gia đình"},
+        {"word": "members", "type": "noun", "difficulty": 1, "translation": "các thành viên"},
+        {"word": "keeping", "type": "verb", "difficulty": 2, "translation": "việc nuôi"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "pet", "type": "noun", "difficulty": 1, "translation": "thú cưng"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "like", "type": "preposition", "difficulty": 1, "translation": "giống như"},
+        {"word": "having", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "baby", "type": "noun", "difficulty": 1, "translation": "em bé"},
+        {"word": "who", "type": "pronoun", "difficulty": 1, "translation": "người mà"},
+        {"word": "needs", "type": "verb", "difficulty": 1, "translation": "cần"},
+        {"word": "love", "type": "noun", "difficulty": 1, "translation": "tình yêu"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "encouragement", "type": "noun", "difficulty": 3, "translation": "sự động viên"},
+        {"word": "all", "type": "adjective", "difficulty": 1, "translation": "tất cả"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "thời gian"}
+      ]
+    }
+  ]
+}

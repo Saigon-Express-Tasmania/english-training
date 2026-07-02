@@ -1,0 +1,326 @@
+﻿{
+  "title": "Moving to Canada and the Winter Fest",
+  "transcript": "Have you heard? We've moved to a new house. Really, where are you living now? We moved to Canada. I don't know if you've been there. Winters are freezing there. Summers are pretty warm though. What made you decide to move there? It's near my grandmother's place. She's old now and she needs her family around her. How do you find it? It's great! Every winter there is an amazing winter festival. It's called the Iceman Winter Fest. What happens is the locals build a huge ice sculpture near the lake. There are all kinds of activities and food to eat there, as well as fairground rides and games. You can even watch your favorite TV show on the side of the sculpture. It's hugely popular with young people, and there is always a big crowd there. Wow, you'll have to take me there sometime. You should come along during our next school holiday. Thank you, I'd love to go.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 3.0,
+      "text": "Have you heard? We've moved to a new house.",
+      "tokens": [
+        {"word": "Have", "type": "verb", "difficulty": 1, "translation": "Có/Đã"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "heard", "type": "verb", "difficulty": 1, "translation": "nghe"},
+        {"word": "We've", "type": "contraction", "difficulty": 1, "translation": "chúng tôi đã"},
+        {"word": "moved", "type": "verb", "difficulty": 1, "translation": "chuyển đi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "đến"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "new", "type": "adjective", "difficulty": 1, "translation": "mới"},
+        {"word": "house", "type": "noun", "difficulty": 1, "translation": "ngôi nhà"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 3.0,
+      "audio_timestamp_end": 5.5,
+      "text": "Really, where are you living now?",
+      "tokens": [
+        {"word": "Really", "type": "adverb", "difficulty": 1, "translation": "Thật sao"},
+        {"word": "where", "type": "adverb", "difficulty": 1, "translation": "ở đâu"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "thì/là"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "living", "type": "verb", "difficulty": 1, "translation": "sống"},
+        {"word": "now", "type": "adverb", "difficulty": 1, "translation": "bây giờ"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 5.5,
+      "audio_timestamp_end": 6.5,
+      "text": "We moved to Canada.",
+      "tokens": [
+        {"word": "We", "type": "pronoun", "difficulty": 1, "translation": "Chúng tôi"},
+        {"word": "moved", "type": "verb", "difficulty": 1, "translation": "đã chuyển"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "đến"},
+        {"word": "Canada", "type": "proper_noun", "difficulty": 1, "translation": "Canada"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 6.5,
+      "audio_timestamp_end": 8.9,
+      "text": "I don't know if you've been there.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "don't", "type": "contraction", "difficulty": 1, "translation": "không"},
+        {"word": "know", "type": "verb", "difficulty": 1, "translation": "biết"},
+        {"word": "if", "type": "conjunction", "difficulty": 1, "translation": "nếu/liệu"},
+        {"word": "you've", "type": "contraction", "difficulty": 1, "translation": "bạn đã"},
+        {"word": "been", "type": "verb", "difficulty": 1, "translation": "từng đến"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "đó"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 8.9,
+      "audio_timestamp_end": 11.0,
+      "text": "Winters are freezing there.",
+      "tokens": [
+        {"word": "Winters", "type": "noun", "difficulty": 1, "translation": "Mùa đông"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "thì"},
+        {"word": "freezing", "type": "adjective", "difficulty": 2, "translation": "lạnh giá/đóng băng"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "ở đó"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 11.0,
+      "audio_timestamp_end": 13.0,
+      "text": "Summers are pretty warm though.",
+      "tokens": [
+        {"word": "Summers", "type": "noun", "difficulty": 1, "translation": "Mùa hè"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "thì"},
+        {"word": "pretty", "type": "adverb", "difficulty": 2, "translation": "khá"},
+        {"word": "warm", "type": "adjective", "difficulty": 1, "translation": "ấm áp"},
+        {"word": "though", "type": "adverb", "difficulty": 2, "translation": "mặc dù/tuy nhiên"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 13.0,
+      "audio_timestamp_end": 14.5,
+      "text": "What made you decide to move there?",
+      "tokens": [
+        {"word": "What", "type": "pronoun", "difficulty": 1, "translation": "Điều gì"},
+        {"word": "made", "type": "verb", "difficulty": 1, "translation": "đã làm/khiến"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "decide", "type": "verb", "difficulty": 2, "translation": "quyết định"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "move", "type": "verb", "difficulty": 1, "translation": "chuyển đi"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "đó"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 14.5,
+      "audio_timestamp_end": 16.0,
+      "text": "It's near my grandmother's place.",
+      "tokens": [
+        {"word": "It's", "type": "contraction", "difficulty": 1, "translation": "Nó thì"},
+        {"word": "near", "type": "preposition", "difficulty": 1, "translation": "gần"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "grandmother's", "type": "noun", "difficulty": 1, "translation": "của bà"},
+        {"word": "place", "type": "noun", "difficulty": 1, "translation": "nơi/nhà"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 16.0,
+      "audio_timestamp_end": 18.8,
+      "text": "She's old now and she needs her family around her.",
+      "tokens": [
+        {"word": "She's", "type": "contraction", "difficulty": 1, "translation": "Bà ấy thì"},
+        {"word": "old", "type": "adjective", "difficulty": 1, "translation": "già/lớn tuổi"},
+        {"word": "now", "type": "adverb", "difficulty": 1, "translation": "bây giờ"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "she", "type": "pronoun", "difficulty": 1, "translation": "bà ấy"},
+        {"word": "needs", "type": "verb", "difficulty": 1, "translation": "cần"},
+        {"word": "her", "type": "pronoun", "difficulty": 1, "translation": "của bà ấy"},
+        {"word": "family", "type": "noun", "difficulty": 1, "translation": "gia đình"},
+        {"word": "around", "type": "preposition", "difficulty": 1, "translation": "xung quanh"},
+        {"word": "her", "type": "pronoun", "difficulty": 1, "translation": "bà ấy"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 18.8,
+      "audio_timestamp_end": 19.8,
+      "text": "How do you find it?",
+      "tokens": [
+        {"word": "How", "type": "adverb", "difficulty": 1, "translation": "Như thế nào"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "làm"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "find", "type": "verb", "difficulty": 1, "translation": "thấy/tìm thấy"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 19.8,
+      "audio_timestamp_end": 20.8,
+      "text": "It's great!",
+      "tokens": [
+        {"word": "It's", "type": "contraction", "difficulty": 1, "translation": "Nó thì"},
+        {"word": "great", "type": "adjective", "difficulty": 1, "translation": "tuyệt vời"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 20.8,
+      "audio_timestamp_end": 23.8,
+      "text": "Every winter there is an amazing winter festival.",
+      "tokens": [
+        {"word": "Every", "type": "determiner", "difficulty": 1, "translation": "Mỗi"},
+        {"word": "winter", "type": "noun", "difficulty": 1, "translation": "mùa đông"},
+        {"word": "there", "type": "pronoun", "difficulty": 1, "translation": "có"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "an", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "amazing", "type": "adjective", "difficulty": 2, "translation": "tuyệt vời"},
+        {"word": "winter", "type": "noun", "difficulty": 1, "translation": "mùa đông"},
+        {"word": "festival", "type": "noun", "difficulty": 2, "translation": "lễ hội"}
+      ]
+    },
+    {
+      "segment_id": 13,
+      "audio_timestamp_start": 23.8,
+      "audio_timestamp_end": 26.8,
+      "text": "It's called the Iceman Winter Fest.",
+      "tokens": [
+        {"word": "It's", "type": "contraction", "difficulty": 1, "translation": "Nó được"},
+        {"word": "called", "type": "verb", "difficulty": 1, "translation": "gọi là"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "Iceman", "type": "proper_noun", "difficulty": 2, "translation": "Người tuyết"},
+        {"word": "Winter", "type": "proper_noun", "difficulty": 1, "translation": "Mùa đông"},
+        {"word": "Fest", "type": "proper_noun", "difficulty": 2, "translation": "Lễ hội"}
+      ]
+    },
+    {
+      "segment_id": 14,
+      "audio_timestamp_start": 26.8,
+      "audio_timestamp_end": 32.6,
+      "text": "What happens is the locals build a huge ice sculpture near the lake.",
+      "tokens": [
+        {"word": "What", "type": "pronoun", "difficulty": 1, "translation": "Những gì"},
+        {"word": "happens", "type": "verb", "difficulty": 1, "translation": "xảy ra"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "các"},
+        {"word": "locals", "type": "noun", "difficulty": 2, "translation": "người dân địa phương"},
+        {"word": "build", "type": "verb", "difficulty": 1, "translation": "xây dựng/làm"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "huge", "type": "adjective", "difficulty": 2, "translation": "khổng lồ"},
+        {"word": "ice", "type": "noun", "difficulty": 1, "translation": "băng"},
+        {"word": "sculpture", "type": "noun", "difficulty": 3, "translation": "bức tượng điêu khắc"},
+        {"word": "near", "type": "preposition", "difficulty": 1, "translation": "gần"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "lake", "type": "noun", "difficulty": 1, "translation": "hồ"}
+      ]
+    },
+    {
+      "segment_id": 15,
+      "audio_timestamp_start": 32.6,
+      "audio_timestamp_end": 38.3,
+      "text": "There are all kinds of activities and food to eat there, as well as fairground rides and games.",
+      "tokens": [
+        {"word": "There", "type": "pronoun", "difficulty": 1, "translation": "Có"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "thì/là"},
+        {"word": "all", "type": "determiner", "difficulty": 1, "translation": "tất cả"},
+        {"word": "kinds", "type": "noun", "difficulty": 1, "translation": "các loại"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "activities", "type": "noun", "difficulty": 2, "translation": "hoạt động"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "food", "type": "noun", "difficulty": 1, "translation": "thức ăn"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "eat", "type": "verb", "difficulty": 1, "translation": "ăn"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "ở đó"},
+        {"word": "as", "type": "adverb", "difficulty": 1, "translation": "cũng"},
+        {"word": "well", "type": "adverb", "difficulty": 1, "translation": "như"},
+        {"word": "as", "type": "preposition", "difficulty": 1, "translation": "như"},
+        {"word": "fairground", "type": "noun", "difficulty": 3, "translation": "khu hội chợ"},
+        {"word": "rides", "type": "noun", "difficulty": 2, "translation": "trò chơi cưỡi"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "games", "type": "noun", "difficulty": 1, "translation": "trò chơi"}
+      ]
+    },
+    {
+      "segment_id": 16,
+      "audio_timestamp_start": 38.3,
+      "audio_timestamp_end": 41.6,
+      "text": "You can even watch your favorite TV show on the side of the sculpture.",
+      "tokens": [
+        {"word": "You", "type": "pronoun", "difficulty": 1, "translation": "Bạn"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "even", "type": "adverb", "difficulty": 2, "translation": "thậm chí"},
+        {"word": "watch", "type": "verb", "difficulty": 1, "translation": "xem"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "favorite", "type": "adjective", "difficulty": 1, "translation": "yêu thích"},
+        {"word": "TV", "type": "noun", "difficulty": 1, "translation": "TV"},
+        {"word": "show", "type": "noun", "difficulty": 1, "translation": "chương trình"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "trên"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "side", "type": "noun", "difficulty": 1, "translation": "mặt/bên"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "sculpture", "type": "noun", "difficulty": 3, "translation": "bức điêu khắc"}
+      ]
+    },
+    {
+      "segment_id": 17,
+      "audio_timestamp_start": 41.6,
+      "audio_timestamp_end": 47.0,
+      "text": "It's hugely popular with young people, and there is always a big crowd there.",
+      "tokens": [
+        {"word": "It's", "type": "contraction", "difficulty": 1, "translation": "Nó thì"},
+        {"word": "hugely", "type": "adverb", "difficulty": 3, "translation": "cực kỳ/rất lớn"},
+        {"word": "popular", "type": "adjective", "difficulty": 2, "translation": "phổ biến"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "young", "type": "adjective", "difficulty": 1, "translation": "trẻ"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "mọi người"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "there", "type": "pronoun", "difficulty": 1, "translation": "có"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "always", "type": "adverb", "difficulty": 1, "translation": "luôn luôn"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "big", "type": "adjective", "difficulty": 1, "translation": "lớn"},
+        {"word": "crowd", "type": "noun", "difficulty": 2, "translation": "đám đông"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "ở đó"}
+      ]
+    },
+    {
+      "segment_id": 18,
+      "audio_timestamp_start": 47.0,
+      "audio_timestamp_end": 50.0,
+      "text": "Wow, you'll have to take me there sometime.",
+      "tokens": [
+        {"word": "Wow", "type": "interjection", "difficulty": 1, "translation": "Chà/Ồ"},
+        {"word": "you'll", "type": "contraction", "difficulty": 1, "translation": "bạn sẽ"},
+        {"word": "have", "type": "verb", "difficulty": 1, "translation": "phải"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "take", "type": "verb", "difficulty": 1, "translation": "đưa/dẫn"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "đó"},
+        {"word": "sometime", "type": "adverb", "difficulty": 2, "translation": "một lúc nào đó"}
+      ]
+    },
+    {
+      "segment_id": 19,
+      "audio_timestamp_start": 50.0,
+      "audio_timestamp_end": 53.2,
+      "text": "You should come along during our next school holiday.",
+      "tokens": [
+        {"word": "You", "type": "pronoun", "difficulty": 1, "translation": "Bạn"},
+        {"word": "should", "type": "verb", "difficulty": 1, "translation": "nên"},
+        {"word": "come", "type": "verb", "difficulty": 1, "translation": "đến"},
+        {"word": "along", "type": "adverb", "difficulty": 2, "translation": "cùng"},
+        {"word": "during", "type": "preposition", "difficulty": 2, "translation": "trong suốt"},
+        {"word": "our", "type": "pronoun", "difficulty": 1, "translation": "của chúng ta"},
+        {"word": "next", "type": "adjective", "difficulty": 1, "translation": "tới/tiếp theo"},
+        {"word": "school", "type": "noun", "difficulty": 1, "translation": "trường học"},
+        {"word": "holiday", "type": "noun", "difficulty": 1, "translation": "kỳ nghỉ"}
+      ]
+    },
+    {
+      "segment_id": 20,
+      "audio_timestamp_start": 53.2,
+      "audio_timestamp_end": 55.6,
+      "text": "Thank you, I'd love to go.",
+      "tokens": [
+        {"word": "Thank", "type": "verb", "difficulty": 1, "translation": "Cảm ơn"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "I'd", "type": "contraction", "difficulty": 1, "translation": "tôi muốn/tôi sẽ"},
+        {"word": "love", "type": "verb", "difficulty": 1, "translation": "thích/yêu"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "go", "type": "verb", "difficulty": 1, "translation": "đi"}
+      ]
+    }
+  ]
+}

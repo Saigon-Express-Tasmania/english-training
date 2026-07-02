@@ -1,0 +1,258 @@
+﻿{
+  "title": "Hometowns, Work, and Local Changes",
+  "transcript": "Can you tell me what you do, Kwan? Do you work or are you a student? I used to be a salesman, but I signed up for a community college to finish my studies. Now I'm a student. What do you like about the area where you live? I love going to the mountain by cable car. It's one of the best things about my hometown and it's very easy to get to. It's a great way to relax and unwind. What do you dislike about your hometown? Well, there are not enough public transport facilities. In recent years, the population has increased, but there aren't enough buses to cope with all the people. How is the area changing? There are more shopping malls, so there are more choices for consumers. Also, there are more entertainment facilities for young people.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 2.6,
+      "text": "Can you tell me what you do, Kwan?",
+      "tokens": [
+        {"word": "Can", "type": "verb", "difficulty": 1, "translation": "Có thể"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "tell", "type": "verb", "difficulty": 1, "translation": "nói/kể"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "what", "type": "pronoun", "difficulty": 1, "translation": "những gì/cái gì"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "làm"},
+        {"word": "Kwan", "type": "noun", "difficulty": 1, "translation": "Kwan (tên riêng)"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 2.9,
+      "audio_timestamp_end": 5.1,
+      "text": "Do you work or are you a student?",
+      "tokens": [
+        {"word": "Do", "type": "verb", "difficulty": 1, "translation": "(trợ động từ)"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "work", "type": "verb", "difficulty": 1, "translation": "làm việc"},
+        {"word": "or", "type": "conjunction", "difficulty": 1, "translation": "hay/hoặc"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "student", "type": "noun", "difficulty": 1, "translation": "học sinh/sinh viên"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 5.1,
+      "audio_timestamp_end": 10.5,
+      "text": "I used to be a salesman, but I signed up for a community college to finish my studies.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "used", "type": "verb", "difficulty": 2, "translation": "từng"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để/kèm với used"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "salesman", "type": "noun", "difficulty": 2, "translation": "nhân viên bán hàng"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "signed", "type": "verb", "difficulty": 2, "translation": "đã ký/đăng ký"},
+        {"word": "up", "type": "adverb", "difficulty": 1, "translation": "(đi kèm sign)"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "community", "type": "noun", "difficulty": 2, "translation": "cộng đồng"},
+        {"word": "college", "type": "noun", "difficulty": 2, "translation": "trường cao đẳng/đại học"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "finish", "type": "verb", "difficulty": 1, "translation": "hoàn thành"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "studies", "type": "noun", "difficulty": 1, "translation": "việc học"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 10.5,
+      "audio_timestamp_end": 11.9,
+      "text": "Now I'm a student.",
+      "tokens": [
+        {"word": "Now", "type": "adverb", "difficulty": 1, "translation": "Bây giờ"},
+        {"word": "I'm", "type": "pronoun_verb", "difficulty": 1, "translation": "tôi là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "student", "type": "noun", "difficulty": 1, "translation": "học sinh/sinh viên"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 11.9,
+      "audio_timestamp_end": 14.8,
+      "text": "What do you like about the area where you live?",
+      "tokens": [
+        {"word": "What", "type": "pronoun", "difficulty": 1, "translation": "Cái gì/điều gì"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "(trợ động từ)"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "like", "type": "verb", "difficulty": 1, "translation": "thích"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "(mạo từ)"},
+        {"word": "area", "type": "noun", "difficulty": 1, "translation": "khu vực"},
+        {"word": "where", "type": "adverb", "difficulty": 1, "translation": "nơi mà"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "live", "type": "verb", "difficulty": 1, "translation": "sống"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 14.8,
+      "audio_timestamp_end": 17.6,
+      "text": "I love going to the mountain by cable car.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "love", "type": "verb", "difficulty": 1, "translation": "yêu/thích"},
+        {"word": "going", "type": "verb", "difficulty": 1, "translation": "đi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "tới"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "(mạo từ)"},
+        {"word": "mountain", "type": "noun", "difficulty": 1, "translation": "ngọn núi"},
+        {"word": "by", "type": "preposition", "difficulty": 1, "translation": "bằng"},
+        {"word": "cable", "type": "noun", "difficulty": 2, "translation": "cáp"},
+        {"word": "car", "type": "noun", "difficulty": 1, "translation": "xe (trong cáp treo)"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 17.8,
+      "audio_timestamp_end": 22.0,
+      "text": "It's one of the best things about my hometown and it's very easy to get to.",
+      "tokens": [
+        {"word": "It's", "type": "pronoun_verb", "difficulty": 1, "translation": "Nó là"},
+        {"word": "one", "type": "number", "difficulty": 1, "translation": "một"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "trong những"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "(mạo từ)"},
+        {"word": "best", "type": "adjective", "difficulty": 1, "translation": "tốt nhất"},
+        {"word": "things", "type": "noun", "difficulty": 1, "translation": "điều/thứ"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "hometown", "type": "noun", "difficulty": 1, "translation": "quê hương"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "it's", "type": "pronoun_verb", "difficulty": 1, "translation": "nó thì"},
+        {"word": "very", "type": "adverb", "difficulty": 1, "translation": "rất"},
+        {"word": "easy", "type": "adjective", "difficulty": 1, "translation": "dễ dàng"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "get", "type": "verb", "difficulty": 1, "translation": "đi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "tới"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 22.0,
+      "audio_timestamp_end": 23.8,
+      "text": "It's a great way to relax and unwind.",
+      "tokens": [
+        {"word": "It's", "type": "pronoun_verb", "difficulty": 1, "translation": "Đó là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "great", "type": "adjective", "difficulty": 1, "translation": "tuyệt vời"},
+        {"word": "way", "type": "noun", "difficulty": 1, "translation": "cách"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "relax", "type": "verb", "difficulty": 1, "translation": "thư giãn"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "unwind", "type": "verb", "difficulty": 3, "translation": "nghỉ ngơi/thả lỏng"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 23.8,
+      "audio_timestamp_end": 26.8,
+      "text": "What do you dislike about your hometown?",
+      "tokens": [
+        {"word": "What", "type": "pronoun", "difficulty": 1, "translation": "Điều gì"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "(trợ động từ)"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "dislike", "type": "verb", "difficulty": 2, "translation": "không thích"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "hometown", "type": "noun", "difficulty": 1, "translation": "quê hương"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 26.8,
+      "audio_timestamp_end": 29.7,
+      "text": "Well, there are not enough public transport facilities.",
+      "tokens": [
+        {"word": "Well", "type": "interjection", "difficulty": 1, "translation": "À/Chà"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "có"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "(đi kèm there)"},
+        {"word": "not", "type": "adverb", "difficulty": 1, "translation": "không"},
+        {"word": "enough", "type": "adverb", "difficulty": 1, "translation": "đủ"},
+        {"word": "public", "type": "adjective", "difficulty": 1, "translation": "công cộng"},
+        {"word": "transport", "type": "noun", "difficulty": 2, "translation": "giao thông"},
+        {"word": "facilities", "type": "noun", "difficulty": 3, "translation": "cơ sở vật chất/phương tiện"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 29.7,
+      "audio_timestamp_end": 35.7,
+      "text": "In recent years, the population has increased, but there aren't enough buses to cope with all the people.",
+      "tokens": [
+        {"word": "In", "type": "preposition", "difficulty": 1, "translation": "Trong"},
+        {"word": "recent", "type": "adjective", "difficulty": 2, "translation": "gần đây"},
+        {"word": "years", "type": "noun", "difficulty": 1, "translation": "những năm"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "(mạo từ)"},
+        {"word": "population", "type": "noun", "difficulty": 2, "translation": "dân số"},
+        {"word": "has", "type": "verb", "difficulty": 1, "translation": "đã"},
+        {"word": "increased", "type": "verb", "difficulty": 2, "translation": "tăng lên"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "có"},
+        {"word": "aren't", "type": "verb", "difficulty": 1, "translation": "không có"},
+        {"word": "enough", "type": "adjective", "difficulty": 1, "translation": "đủ"},
+        {"word": "buses", "type": "noun", "difficulty": 1, "translation": "xe buýt"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "cope", "type": "verb", "difficulty": 3, "translation": "đối phó/đáp ứng"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "all", "type": "adjective", "difficulty": 1, "translation": "tất cả"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "(mạo từ)"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "mọi người"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 35.7,
+      "audio_timestamp_end": 37.7,
+      "text": "How is the area changing?",
+      "tokens": [
+        {"word": "How", "type": "adverb", "difficulty": 1, "translation": "Như thế nào"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "thì/đang"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "(mạo từ)"},
+        {"word": "area", "type": "noun", "difficulty": 1, "translation": "khu vực"},
+        {"word": "changing", "type": "verb", "difficulty": 1, "translation": "thay đổi"}
+      ]
+    },
+    {
+      "segment_id": 13,
+      "audio_timestamp_start": 38.7,
+      "audio_timestamp_end": 43.0,
+      "text": "There are more shopping malls, so there are more choices for consumers.",
+      "tokens": [
+        {"word": "There", "type": "adverb", "difficulty": 1, "translation": "Có"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "(đi kèm there)"},
+        {"word": "more", "type": "adjective", "difficulty": 1, "translation": "nhiều hơn"},
+        {"word": "shopping", "type": "noun", "difficulty": 1, "translation": "mua sắm"},
+        {"word": "malls", "type": "noun", "difficulty": 2, "translation": "trung tâm thương mại"},
+        {"word": "so", "type": "conjunction", "difficulty": 1, "translation": "vì vậy"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "có"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "(đi kèm there)"},
+        {"word": "more", "type": "adjective", "difficulty": 1, "translation": "nhiều hơn"},
+        {"word": "choices", "type": "noun", "difficulty": 2, "translation": "sự lựa chọn"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "consumers", "type": "noun", "difficulty": 3, "translation": "người tiêu dùng"}
+      ]
+    },
+    {
+      "segment_id": 14,
+      "audio_timestamp_start": 43.0,
+      "audio_timestamp_end": 46.3,
+      "text": "Also, there are more entertainment facilities for young people.",
+      "tokens": [
+        {"word": "Also", "type": "adverb", "difficulty": 1, "translation": "Ngoài ra"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "có"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "(đi kèm there)"},
+        {"word": "more", "type": "adjective", "difficulty": 1, "translation": "nhiều hơn"},
+        {"word": "entertainment", "type": "noun", "difficulty": 2, "translation": "giải trí"},
+        {"word": "facilities", "type": "noun", "difficulty": 3, "translation": "cơ sở vật chất/điểm đến"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "young", "type": "adjective", "difficulty": 1, "translation": "trẻ tuổi"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "mọi người"}
+      ]
+    }
+  ]
+}

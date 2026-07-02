@@ -24,6 +24,7 @@ type ListeningLessonProps = {
   blanks: BlankTokenRef[];
   shuffleSeed: number;
   vocabularyWords: VocabularyItem[];
+  pinRequired?: boolean;
 };
 
 type WordBlankProps = {
@@ -174,6 +175,7 @@ export function ListeningLesson({
   blanks,
   shuffleSeed,
   vocabularyWords,
+  pinRequired = true,
 }: ListeningLessonProps) {
   const playerRef = useRef<ListeningAudioPlayerHandle>(null);
 
@@ -181,7 +183,7 @@ export function ListeningLesson({
   const [answers, setAnswers] = useState<Record<string, string>>({});
   const [assessed, setAssessed] = useState(false);
   const [revealed, setRevealed] = useState(false);
-  const [unlocked, setUnlocked] = useState(false);
+  const [unlocked, setUnlocked] = useState(!pinRequired);
   const [score, setScore] = useState<{ correct: number; total: number } | null>(null);
   const [results, setResults] = useState<Record<string, boolean>>({});
   const [playingSegmentId, setPlayingSegmentId] = useState<number | null>(null);
@@ -285,7 +287,9 @@ export function ListeningLesson({
               </div>
 
               <div className="listening-lesson__actions mt-40 flex flex-wrap items-center gap-16">
-                {!unlocked ? <ListeningUnlockButton onUnlock={() => setUnlocked(true)} /> : null}
+                {!unlocked && pinRequired ? (
+                  <ListeningUnlockButton onUnlock={() => setUnlocked(true)} />
+                ) : null}
 
                 {!assessed ? (
                   <button
@@ -360,6 +364,7 @@ export function ListeningLesson({
             <VocabularySidebar
               words={vocabularyWords}
               unlocked={unlocked}
+              pinRequired={pinRequired}
               onUnlock={() => setUnlocked(true)}
             />
           </div>

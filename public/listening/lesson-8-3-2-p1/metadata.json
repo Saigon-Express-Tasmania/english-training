@@ -1,0 +1,132 @@
+﻿{
+  "title": "Joining the Ecological Protection Group",
+  "transcript": "Hi there, what can I do for you? Oh. Hi, I'm here because I want to get involved in the new or ecological protection group. I heard of a report about what you do on the student radio show last week, and I felt inspired to come along and contribute. Great! Can I get your name please? Derek, can you spell it for me? Locate? D E R E K. Derek, great. to meet you. My name is Claire. First I'll give you a brief introduction of the kinds of things we do here. And then we can decide what sort of project you can do like to become involved with. Does that sound good to you? Definitely. Right. Well, I... As you're aware, our group is called the Green Fingers. And that basically tells you what kinds of things we find focus on. We want people to take part in a wide range of green activities. So much of what we do relates to conserving ecosystem. Right now we've got more than 100,000 people taking part in major environmental operations all over the world. Can you give me some more details about these? Sure. Okay, for example, if you're interested in forest conservation, one of our biggest tasks right now requires volunteers to go to major forest areas across the world and understand how to better protect the surrounding environment. That sounds fascinating, but to be honest, I'm not overly keen on that sort of thing, is there anything else? Of course, well, right here in our local area, there's a major water purification initiative taking place, and we're helping with that. The goal of this project is to get local residents involved in looking for the water supply. Oh, I see. I haven't heard about that before. We also have a project that is aimed at protecting the nature trails across the country, keeping the footpaths well maintained and protecting the wildlife. There has been a lot of damage to some of the more popular footpaths in recent years, which is mainly due to massive increase in tourism. That makes sense. There are plenty of other areas you can get involved with, which you can find in the leaflet. Oh, that's great. Thanks.[cite: 5]",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 2.6,
+      "text": "Hi there, what can I do for you?[cite: 5]",
+      "tokens": [
+        {"word": "Hi", "type": "interjection", "difficulty": 1, "translation": "Chào"},
+        {"word": "there", "type": "adverb", "difficulty": 1, "translation": "đó"},
+        {"word": "what", "type": "pronoun", "difficulty": 1, "translation": "cái gì"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "làm"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 2.6,
+      "audio_timestamp_end": 8.475,
+      "text": "Oh, hi, I'm here because I want to get involved in the new or ecological protection group.[cite: 5]",
+      "tokens": [
+        {"word": "Oh", "type": "interjection", "difficulty": 1, "translation": "Ồ"},
+        {"word": "hi", "type": "interjection", "difficulty": 1, "translation": "chào"},
+        {"word": "I'm", "type": "pronoun", "difficulty": 1, "translation": "tôi là/đang"},
+        {"word": "here", "type": "adverb", "difficulty": 1, "translation": "ở đây"},
+        {"word": "because", "type": "conjunction", "difficulty": 1, "translation": "bởi vì"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "want", "type": "verb", "difficulty": 1, "translation": "muốn"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "get", "type": "verb", "difficulty": 1, "translation": "trở nên/nhận"},
+        {"word": "involved", "type": "adjective", "difficulty": 2, "translation": "tham gia vào"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "trong"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "new", "type": "adjective", "difficulty": 1, "translation": "mới"},
+        {"word": "or", "type": "conjunction", "difficulty": 1, "translation": "hoặc"},
+        {"word": "ecological", "type": "adjective", "difficulty": 3, "translation": "thuộc về sinh thái"},
+        {"word": "protection", "type": "noun", "difficulty": 2, "translation": "sự bảo vệ"},
+        {"word": "group", "type": "noun", "difficulty": 1, "translation": "nhóm"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 8.475,
+      "audio_timestamp_end": 14.911,
+      "text": "I heard of a report about what you do on the student radio show last week, and I felt inspired to come along and contribute.[cite: 5]",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "heard", "type": "verb", "difficulty": 1, "translation": "đã nghe"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "report", "type": "noun", "difficulty": 2, "translation": "bản báo cáo"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "what", "type": "pronoun", "difficulty": 1, "translation": "những gì"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "do", "type": "verb", "difficulty": 1, "translation": "làm"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "trên"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "student", "type": "noun", "difficulty": 1, "translation": "sinh viên"},
+        {"word": "radio", "type": "noun", "difficulty": 1, "translation": "đài phát thanh"},
+        {"word": "show", "type": "noun", "difficulty": 1, "translation": "chương trình"},
+        {"word": "last", "type": "adjective", "difficulty": 1, "translation": "trước"},
+        {"word": "week", "type": "noun", "difficulty": 1, "translation": "tuần"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "felt", "type": "verb", "difficulty": 1, "translation": "đã cảm thấy"},
+        {"word": "inspired", "type": "adjective", "difficulty": 3, "translation": "được truyền cảm hứng"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "come", "type": "verb", "difficulty": 1, "translation": "đến"},
+        {"word": "along", "type": "adverb", "difficulty": 1, "translation": "cùng"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "contribute", "type": "verb", "difficulty": 3, "translation": "đóng góp"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 14.889,
+      "audio_timestamp_end": 17.889,
+      "text": "Great! Can I get your name please?[cite: 5]",
+      "tokens": [
+        {"word": "Great", "type": "adjective", "difficulty": 1, "translation": "Tuyệt vời"},
+        {"word": "Can", "type": "verb", "difficulty": 1, "translation": "Có thể"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "get", "type": "verb", "difficulty": 1, "translation": "lấy/có được"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "name", "type": "noun", "difficulty": 1, "translation": "tên"},
+        {"word": "please", "type": "adverb", "difficulty": 1, "translation": "làm ơn"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 17.867,
+      "audio_timestamp_end": 22.845,
+      "text": "Derek, can you spell it for me? D E R E K.[cite: 5]",
+      "tokens": [
+        {"word": "Derek", "type": "noun", "difficulty": 1, "translation": "Derek (tên riêng)"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "spell", "type": "verb", "difficulty": 2, "translation": "đánh vần"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "D", "type": "noun", "difficulty": 1, "translation": "D"},
+        {"word": "E", "type": "noun", "difficulty": 1, "translation": "E"},
+        {"word": "R", "type": "noun", "difficulty": 1, "translation": "R"},
+        {"word": "E", "type": "noun", "difficulty": 1, "translation": "E"},
+        {"word": "K", "type": "noun", "difficulty": 1, "translation": "K"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 22.845,
+      "audio_timestamp_end": 26.783,
+      "text": "Derek, great to meet you. My name is Claire.[cite: 5]",
+      "tokens": [
+        {"word": "Derek", "type": "noun", "difficulty": 1, "translation": "Derek"},
+        {"word": "great", "type": "adjective", "difficulty": 1, "translation": "tuyệt"},
+        {"word": "to", "type": "particle", "difficulty": 1, "translation": "để"},
+        {"word": "meet", "type": "verb", "difficulty": 1, "translation": "gặp"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "My", "type": "pronoun", "difficulty": 1, "translation": "Của tôi"},
+        {"word": "name", "type": "noun", "difficulty": 1, "translation": "tên"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "Claire", "type": "noun", "difficulty": 1, "translation": "Claire"}
+      ]
+    }
+  ]
+}

@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "listening:manifest": "node scripts/generate-listening-manifest.mjs"
   },
   "dependencies": {
     "@phosphor-icons/web": "^2.1.2",

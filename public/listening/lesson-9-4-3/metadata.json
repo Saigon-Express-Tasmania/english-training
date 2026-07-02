@@ -1,0 +1,53 @@
+﻿{
+  "title": "Photography Trip Preparation",
+  "transcript": "So, you're going to press start in next week. the Welsh valleys for your painting assignment. Okay, so have you got a map? of the town and the surrounding valleys area. They were handed out in the canteen. Yeah, I picked one out. Are there any areas in particular your interest? Well, to be honest, I can't... I can't wait to see the dark valley. Right. So if you can see where the river bends, you'll find some some of the most spectacular views in Wales. great. I'll make a note of that. What kinds of plants can I see? There'll be tulips in the valley. in this season. So where exactly are you? If you take a look here at the map... the northeast corner, that's where you'll find most. of them between the woodland and the river. You should all also look out for sunflowers. But they're so rare. in this area. Not here in Wales though. You'll get some good views on the riverbank. close to the river, right? Maybe we can stay in this area. that area, then you can stay nearby and take it Day trip to other valleys. Okay.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 3.0,
+      "text": "So, you're going to press start in next week.",
+      "tokens": [
+        {"word": "So", "type": "conjunction", "difficulty": 1, "translation": "Vì vậy"},
+        {"word": "you're", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "going", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "press", "type": "verb", "difficulty": 2, "translation": "nhấn"},
+        {"word": "start", "type": "noun", "difficulty": 1, "translation": "bắt đầu"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "vào"},
+        {"word": "next", "type": "adjective", "difficulty": 1, "translation": "tiếp theo"},
+        {"word": "week", "type": "noun", "difficulty": 1, "translation": "tuần"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 2.977,
+      "audio_timestamp_end": 5.977,
+      "text": "the Welsh valleys for your painting assignment.",
+      "tokens": [
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các"},
+        {"word": "Welsh", "type": "adjective", "difficulty": 3, "translation": "thuộc xứ Wales"},
+        {"word": "valleys", "type": "noun", "difficulty": 2, "translation": "thung lũng"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "your", "type": "pronoun", "difficulty": 1, "translation": "của bạn"},
+        {"word": "painting", "type": "noun", "difficulty": 1, "translation": "bức tranh"},
+        {"word": "assignment", "type": "noun", "difficulty": 3, "translation": "nhiệm vụ/bài tập"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 5.955,
+      "audio_timestamp_end": 8.955,
+      "text": "Okay, so have you got a map?",
+      "tokens": [
+        {"word": "Okay", "type": "interjection", "difficulty": 1, "translation": "Được"},
+        {"word": "so", "type": "conjunction", "difficulty": 1, "translation": "vậy"},
+        {"word": "have", "type": "auxiliary_verb", "difficulty": 1, "translation": "đã"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "got", "type": "verb", "difficulty": 1, "translation": "có"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "map", "type": "noun", "difficulty": 1, "translation": "bản đồ"}
+      ]
+    }
+  ]
+}

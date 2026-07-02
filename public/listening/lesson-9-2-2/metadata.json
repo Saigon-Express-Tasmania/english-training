@@ -1,0 +1,451 @@
+﻿{
+  "title": "Vocabulary Lesson: Descriptive Words and Homophones",
+  "transcript": "Cultural. There are a few flowers that hold special cultural and historical significance in China. Luck. Different flowers always represent various meanings, such as luck, longevity of life, and missing the dead. Cut. Factories ought to cut down as few trees as possible and make sure they don't waste wood. Use. Lilies are often used during wedding ceremonies in China. Consume. My mum told me to consume a certain amount of fruit every day. Cute. That's a really cute outfit. Turn. Turn right at the next crossroads and you will see Disneyland. Purple. Nearly all those wildflowers are yellow, but I can still find some purple and white ones around. Urban. Most urban areas are full of cars, but they lack trees and flowers. Various. People use flowers for various special occasions in my country. Anniversary. A bunch of roses will be a lovely anniversary gift as it symbolizes romance. Flavor. I prefer tropical fruits such as mangoes, coconuts, and pineapples because of their fresh and juicy flavor. Sweet. Flowers with sweeter aroma are what they used for making perfumes. Waste. If we print on just one side of the paper, it will be a waste. Waist. The skirt was too big around the waist.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 2.977,
+      "audio_timestamp_end": 4.500,
+      "text": "Cultural.",
+      "tokens": [
+        {"word": "Cultural", "type": "adjective", "difficulty": 2, "translation": "Thuộc về văn hóa"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 4.500,
+      "audio_timestamp_end": 10.933,
+      "text": "There are a few flowers that hold special cultural and historical significance in China.",
+      "tokens": [
+        {"word": "There", "type": "adverb", "difficulty": 1, "translation": "Có/Ở đó"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là/có"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "few", "type": "adjective", "difficulty": 1, "translation": "vài"},
+        {"word": "flowers", "type": "noun", "difficulty": 1, "translation": "những bông hoa"},
+        {"word": "that", "type": "pronoun", "difficulty": 1, "translation": "mà"},
+        {"word": "hold", "type": "verb", "difficulty": 2, "translation": "giữ/mang"},
+        {"word": "special", "type": "adjective", "difficulty": 1, "translation": "đặc biệt"},
+        {"word": "cultural", "type": "adjective", "difficulty": 2, "translation": "thuộc về văn hóa"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "historical", "type": "adjective", "difficulty": 3, "translation": "thuộc về lịch sử"},
+        {"word": "significance", "type": "noun", "difficulty": 4, "translation": "tầm quan trọng/ý nghĩa"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở/trong"},
+        {"word": "China", "type": "noun", "difficulty": 1, "translation": "Trung Quốc"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 11.911,
+      "audio_timestamp_end": 13.000,
+      "text": "Luck.",
+      "tokens": [
+        {"word": "Luck", "type": "noun", "difficulty": 1, "translation": "Sự may mắn"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 13.000,
+      "audio_timestamp_end": 20.827,
+      "text": "Different flowers always represent various meanings, such as luck, longevity of life, and missing the dead.",
+      "tokens": [
+        {"word": "Different", "type": "adjective", "difficulty": 1, "translation": "Khác nhau"},
+        {"word": "flowers", "type": "noun", "difficulty": 1, "translation": "những bông hoa"},
+        {"word": "always", "type": "adverb", "difficulty": 1, "translation": "luôn luôn"},
+        {"word": "represent", "type": "verb", "difficulty": 3, "translation": "đại diện cho"},
+        {"word": "various", "type": "adjective", "difficulty": 2, "translation": "đa dạng/nhiều"},
+        {"word": "meanings", "type": "noun", "difficulty": 2, "translation": "ý nghĩa"},
+        {"word": "such", "type": "adjective", "difficulty": 1, "translation": "như"},
+        {"word": "as", "type": "preposition", "difficulty": 1, "translation": "là"},
+        {"word": "luck", "type": "noun", "difficulty": 1, "translation": "sự may mắn"},
+        {"word": "longevity", "type": "noun", "difficulty": 4, "translation": "sự trường thọ"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "life", "type": "noun", "difficulty": 1, "translation": "cuộc sống"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "missing", "type": "verb", "difficulty": 2, "translation": "nhớ thương"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "những"},
+        {"word": "dead", "type": "noun", "difficulty": 2, "translation": "người đã khuất"}
+      ]
+    },
+    {
+      "segment_id": 5,
+      "audio_timestamp_start": 20.845,
+      "audio_timestamp_end": 23.800,
+      "text": "Cut.",
+      "tokens": [
+        {"word": "Cut", "type": "verb", "difficulty": 1, "translation": "Cắt/chặt"}
+      ]
+    },
+    {
+      "segment_id": 6,
+      "audio_timestamp_start": 23.823,
+      "audio_timestamp_end": 30.279,
+      "text": "Factories ought to cut down as few trees as possible and make sure they don't waste wood.",
+      "tokens": [
+        {"word": "Factories", "type": "noun", "difficulty": 2, "translation": "Các nhà máy"},
+        {"word": "ought", "type": "verb", "difficulty": 3, "translation": "nên"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "cut", "type": "verb", "difficulty": 1, "translation": "chặt"},
+        {"word": "down", "type": "adverb", "difficulty": 1, "translation": "xuống"},
+        {"word": "as", "type": "conjunction", "difficulty": 1, "translation": "như/bằng"},
+        {"word": "few", "type": "adjective", "difficulty": 1, "translation": "ít"},
+        {"word": "trees", "type": "noun", "difficulty": 1, "translation": "cây"},
+        {"word": "as", "type": "conjunction", "difficulty": 1, "translation": "như/bằng"},
+        {"word": "possible", "type": "adjective", "difficulty": 2, "translation": "có thể"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "make", "type": "verb", "difficulty": 1, "translation": "làm"},
+        {"word": "sure", "type": "adjective", "difficulty": 1, "translation": "chắc chắn"},
+        {"word": "they", "type": "pronoun", "difficulty": 1, "translation": "họ/chúng"},
+        {"word": "don't", "type": "verb", "difficulty": 1, "translation": "không"},
+        {"word": "waste", "type": "verb", "difficulty": 2, "translation": "lãng phí"},
+        {"word": "wood", "type": "noun", "difficulty": 1, "translation": "gỗ"}
+      ]
+    },
+    {
+      "segment_id": 7,
+      "audio_timestamp_start": 35.735,
+      "audio_timestamp_end": 37.735,
+      "text": "Use.",
+      "tokens": [
+        {"word": "Use", "type": "verb", "difficulty": 1, "translation": "Sử dụng"}
+      ]
+    },
+    {
+      "segment_id": 8,
+      "audio_timestamp_start": 38.712,
+      "audio_timestamp_end": 42.190,
+      "text": "Lilies are often used during wedding ceremonies in China.",
+      "tokens": [
+        {"word": "Lilies", "type": "noun", "difficulty": 3, "translation": "Hoa huệ tây"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "được/là"},
+        {"word": "often", "type": "adverb", "difficulty": 1, "translation": "thường"},
+        {"word": "used", "type": "verb", "difficulty": 1, "translation": "sử dụng"},
+        {"word": "during", "type": "preposition", "difficulty": 2, "translation": "trong suốt"},
+        {"word": "wedding", "type": "noun", "difficulty": 1, "translation": "lễ cưới"},
+        {"word": "ceremonies", "type": "noun", "difficulty": 3, "translation": "buổi lễ"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở"},
+        {"word": "China", "type": "noun", "difficulty": 1, "translation": "Trung Quốc"}
+      ]
+    },
+    {
+      "segment_id": 9,
+      "audio_timestamp_start": 44.668,
+      "audio_timestamp_end": 46.000,
+      "text": "Consume.",
+      "tokens": [
+        {"word": "Consume", "type": "verb", "difficulty": 3, "translation": "Tiêu thụ"}
+      ]
+    },
+    {
+      "segment_id": 10,
+      "audio_timestamp_start": 46.000,
+      "audio_timestamp_end": 50.546,
+      "text": "My mum told me to consume a certain amount of fruit every day.",
+      "tokens": [
+        {"word": "My", "type": "pronoun", "difficulty": 1, "translation": "Của tôi"},
+        {"word": "mum", "type": "noun", "difficulty": 1, "translation": "mẹ"},
+        {"word": "told", "type": "verb", "difficulty": 1, "translation": "bảo"},
+        {"word": "me", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "consume", "type": "verb", "difficulty": 3, "translation": "tiêu thụ/ăn"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "certain", "type": "adjective", "difficulty": 2, "translation": "nhất định"},
+        {"word": "amount", "type": "noun", "difficulty": 2, "translation": "lượng"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "fruit", "type": "noun", "difficulty": 1, "translation": "trái cây"},
+        {"word": "every", "type": "adjective", "difficulty": 1, "translation": "mỗi"},
+        {"word": "day", "type": "noun", "difficulty": 1, "translation": "ngày"}
+      ]
+    },
+    {
+      "segment_id": 11,
+      "audio_timestamp_start": 50.624,
+      "audio_timestamp_end": 53.600,
+      "text": "Cute.",
+      "tokens": [
+        {"word": "Cute", "type": "adjective", "difficulty": 1, "translation": "Dễ thương"}
+      ]
+    },
+    {
+      "segment_id": 12,
+      "audio_timestamp_start": 53.602,
+      "audio_timestamp_end": 56.602,
+      "text": "That's a really cute outfit.",
+      "tokens": [
+        {"word": "That's", "type": "contraction", "difficulty": 1, "translation": "Đó là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "really", "type": "adverb", "difficulty": 1, "translation": "thực sự"},
+        {"word": "cute", "type": "adjective", "difficulty": 1, "translation": "dễ thương"},
+        {"word": "outfit", "type": "noun", "difficulty": 2, "translation": "bộ trang phục"}
+      ]
+    },
+    {
+      "segment_id": 13,
+      "audio_timestamp_start": 62.536,
+      "audio_timestamp_end": 64.000,
+      "text": "Turn.",
+      "tokens": [
+        {"word": "Turn", "type": "verb", "difficulty": 1, "translation": "Rẽ/Xoay"}
+      ]
+    },
+    {
+      "segment_id": 14,
+      "audio_timestamp_start": 64.000,
+      "audio_timestamp_end": 68.154,
+      "text": "Turn right at the next crossroads and you will see Disneyland.",
+      "tokens": [
+        {"word": "Turn", "type": "verb", "difficulty": 1, "translation": "Rẽ"},
+        {"word": "right", "type": "adverb", "difficulty": 1, "translation": "phải"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "tại"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái"},
+        {"word": "next", "type": "adjective", "difficulty": 1, "translation": "tiếp theo"},
+        {"word": "crossroads", "type": "noun", "difficulty": 3, "translation": "ngã tư"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "will", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "see", "type": "verb", "difficulty": 1, "translation": "thấy"},
+        {"word": "Disneyland", "type": "noun", "difficulty": 1, "translation": "Công viên Disneyland"}
+      ]
+    },
+    {
+      "segment_id": 15,
+      "audio_timestamp_start": 68.492,
+      "audio_timestamp_end": 71.400,
+      "text": "Purple.",
+      "tokens": [
+        {"word": "Purple", "type": "adjective", "difficulty": 1, "translation": "Màu tím"}
+      ]
+    },
+    {
+      "segment_id": 16,
+      "audio_timestamp_start": 71.470,
+      "audio_timestamp_end": 77.348,
+      "text": "Nearly all those wildflowers are yellow, but I can still find some purple and white ones around.",
+      "tokens": [
+        {"word": "Nearly", "type": "adverb", "difficulty": 2, "translation": "Gần như"},
+        {"word": "all", "type": "adjective", "difficulty": 1, "translation": "tất cả"},
+        {"word": "those", "type": "pronoun", "difficulty": 1, "translation": "những"},
+        {"word": "wildflowers", "type": "noun", "difficulty": 3, "translation": "hoa dại"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "yellow", "type": "adjective", "difficulty": 1, "translation": "màu vàng"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "still", "type": "adverb", "difficulty": 1, "translation": "vẫn"},
+        {"word": "find", "type": "verb", "difficulty": 1, "translation": "tìm thấy"},
+        {"word": "some", "type": "adjective", "difficulty": 1, "translation": "vài"},
+        {"word": "purple", "type": "adjective", "difficulty": 1, "translation": "màu tím"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "white", "type": "adjective", "difficulty": 1, "translation": "màu trắng"},
+        {"word": "ones", "type": "pronoun", "difficulty": 1, "translation": "những cái"},
+        {"word": "around", "type": "adverb", "difficulty": 1, "translation": "xung quanh"}
+      ]
+    },
+    {
+      "segment_id": 17,
+      "audio_timestamp_start": 77.426,
+      "audio_timestamp_end": 80.400,
+      "text": "Urban.",
+      "tokens": [
+        {"word": "Urban", "type": "adjective", "difficulty": 3, "translation": "Thuộc về thành thị"}
+      ]
+    },
+    {
+      "segment_id": 18,
+      "audio_timestamp_start": 80.404,
+      "audio_timestamp_end": 85.782,
+      "text": "Most urban areas are full of cars, but they lack trees and flowers.",
+      "tokens": [
+        {"word": "Most", "type": "adjective", "difficulty": 1, "translation": "Hầu hết"},
+        {"word": "urban", "type": "adjective", "difficulty": 3, "translation": "thành thị"},
+        {"word": "areas", "type": "noun", "difficulty": 2, "translation": "khu vực"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "full", "type": "adjective", "difficulty": 1, "translation": "đầy"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của/với"},
+        {"word": "cars", "type": "noun", "difficulty": 1, "translation": "ô tô"},
+        {"word": "but", "type": "conjunction", "difficulty": 1, "translation": "nhưng"},
+        {"word": "they", "type": "pronoun", "difficulty": 1, "translation": "chúng"},
+        {"word": "lack", "type": "verb", "difficulty": 3, "translation": "thiếu"},
+        {"word": "trees", "type": "noun", "difficulty": 1, "translation": "cây"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "flowers", "type": "noun", "difficulty": 1, "translation": "hoa"}
+      ]
+    },
+    {
+      "segment_id": 19,
+      "audio_timestamp_start": 92.316,
+      "audio_timestamp_end": 94.000,
+      "text": "Various.",
+      "tokens": [
+        {"word": "Various", "type": "adjective", "difficulty": 2, "translation": "Đa dạng/Nhiều loại"}
+      ]
+    },
+    {
+      "segment_id": 20,
+      "audio_timestamp_start": 94.000,
+      "audio_timestamp_end": 98.294,
+      "text": "People use flowers for various special occasions in my country.",
+      "tokens": [
+        {"word": "People", "type": "noun", "difficulty": 1, "translation": "Mọi người"},
+        {"word": "use", "type": "verb", "difficulty": 1, "translation": "sử dụng"},
+        {"word": "flowers", "type": "noun", "difficulty": 1, "translation": "hoa"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "various", "type": "adjective", "difficulty": 2, "translation": "nhiều loại"},
+        {"word": "special", "type": "adjective", "difficulty": 1, "translation": "đặc biệt"},
+        {"word": "occasions", "type": "noun", "difficulty": 3, "translation": "dịp"},
+        {"word": "in", "type": "preposition", "difficulty": 1, "translation": "ở/trong"},
+        {"word": "my", "type": "pronoun", "difficulty": 1, "translation": "của tôi"},
+        {"word": "country", "type": "noun", "difficulty": 1, "translation": "đất nước"}
+      ]
+    },
+    {
+      "segment_id": 21,
+      "audio_timestamp_start": 98.272,
+      "audio_timestamp_end": 101.200,
+      "text": "Anniversary.",
+      "tokens": [
+        {"word": "Anniversary", "type": "noun", "difficulty": 3, "translation": "Ngày kỷ niệm"}
+      ]
+    },
+    {
+      "segment_id": 22,
+      "audio_timestamp_start": 101.250,
+      "audio_timestamp_end": 107.188,
+      "text": "A bunch of roses will be a lovely anniversary gift as it symbolizes romance.",
+      "tokens": [
+        {"word": "A", "type": "article", "difficulty": 1, "translation": "Một"},
+        {"word": "bunch", "type": "noun", "difficulty": 2, "translation": "bó"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "roses", "type": "noun", "difficulty": 1, "translation": "hoa hồng"},
+        {"word": "will", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "lovely", "type": "adjective", "difficulty": 1, "translation": "đáng yêu/đẹp"},
+        {"word": "anniversary", "type": "noun", "difficulty": 3, "translation": "ngày kỷ niệm"},
+        {"word": "gift", "type": "noun", "difficulty": 1, "translation": "món quà"},
+        {"word": "as", "type": "conjunction", "difficulty": 1, "translation": "vì/như"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "symbolizes", "type": "verb", "difficulty": 4, "translation": "tượng trưng cho"},
+        {"word": "romance", "type": "noun", "difficulty": 3, "translation": "sự lãng mạn"}
+      ]
+    },
+    {
+      "segment_id": 23,
+      "audio_timestamp_start": 110.184,
+      "audio_timestamp_end": 112.000,
+      "text": "Flavor.",
+      "tokens": [
+        {"word": "Flavor", "type": "noun", "difficulty": 2, "translation": "Hương vị"}
+      ]
+    },
+    {
+      "segment_id": 24,
+      "audio_timestamp_start": 112.000,
+      "audio_timestamp_end": 118.539,
+      "text": "I prefer tropical fruits such as mangoes, coconuts, and pineapples because of their fresh and juicy flavor.",
+      "tokens": [
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "Tôi"},
+        {"word": "prefer", "type": "verb", "difficulty": 2, "translation": "thích hơn"},
+        {"word": "tropical", "type": "adjective", "difficulty": 3, "translation": "nhiệt đới"},
+        {"word": "fruits", "type": "noun", "difficulty": 1, "translation": "trái cây"},
+        {"word": "such", "type": "adjective", "difficulty": 1, "translation": "như"},
+        {"word": "as", "type": "preposition", "difficulty": 1, "translation": "là"},
+        {"word": "mangoes", "type": "noun", "difficulty": 1, "translation": "quả xoài"},
+        {"word": "coconuts", "type": "noun", "difficulty": 1, "translation": "quả dừa"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "pineapples", "type": "noun", "difficulty": 2, "translation": "quả dứa"},
+        {"word": "because", "type": "conjunction", "difficulty": 1, "translation": "bởi vì"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "their", "type": "pronoun", "difficulty": 1, "translation": "của chúng"},
+        {"word": "fresh", "type": "adjective", "difficulty": 1, "translation": "tươi"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "juicy", "type": "adjective", "difficulty": 2, "translation": "mọng nước"},
+        {"word": "flavor", "type": "noun", "difficulty": 2, "translation": "hương vị"}
+      ]
+    },
+    {
+      "segment_id": 25,
+      "audio_timestamp_start": 125.073,
+      "audio_timestamp_end": 127.000,
+      "text": "Sweet.",
+      "tokens": [
+        {"word": "Sweet", "type": "adjective", "difficulty": 1, "translation": "Ngọt ngào/Thơm"}
+      ]
+    },
+    {
+      "segment_id": 26,
+      "audio_timestamp_start": 127.000,
+      "audio_timestamp_end": 130.691,
+      "text": "Flowers with sweeter aroma are what they used for making perfumes.",
+      "tokens": [
+        {"word": "Flowers", "type": "noun", "difficulty": 1, "translation": "Những bông hoa"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "sweeter", "type": "adjective", "difficulty": 1, "translation": "ngọt ngào hơn/thơm hơn"},
+        {"word": "aroma", "type": "noun", "difficulty": 3, "translation": "mùi hương"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "what", "type": "pronoun", "difficulty": 1, "translation": "những gì"},
+        {"word": "they", "type": "pronoun", "difficulty": 1, "translation": "họ"},
+        {"word": "used", "type": "verb", "difficulty": 1, "translation": "sử dụng"},
+        {"word": "for", "type": "preposition", "difficulty": 1, "translation": "cho"},
+        {"word": "making", "type": "verb", "difficulty": 1, "translation": "việc làm"},
+        {"word": "perfumes", "type": "noun", "difficulty": 2, "translation": "nước hoa"}
+      ]
+    },
+    {
+      "segment_id": 27,
+      "audio_timestamp_start": 131.029,
+      "audio_timestamp_end": 133.000,
+      "text": "Waste.",
+      "tokens": [
+        {"word": "Waste", "type": "noun", "difficulty": 2, "translation": "Sự lãng phí"}
+      ]
+    },
+    {
+      "segment_id": 28,
+      "audio_timestamp_start": 134.007,
+      "audio_timestamp_end": 138.625,
+      "text": "If we print on just one side of the paper, it will be a waste.",
+      "tokens": [
+        {"word": "If", "type": "conjunction", "difficulty": 1, "translation": "Nếu"},
+        {"word": "we", "type": "pronoun", "difficulty": 1, "translation": "chúng ta"},
+        {"word": "print", "type": "verb", "difficulty": 1, "translation": "in"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "trên"},
+        {"word": "just", "type": "adverb", "difficulty": 1, "translation": "chỉ"},
+        {"word": "one", "type": "adjective", "difficulty": 1, "translation": "một"},
+        {"word": "side", "type": "noun", "difficulty": 1, "translation": "mặt"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "của"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "tờ"},
+        {"word": "paper", "type": "noun", "difficulty": 1, "translation": "giấy"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "will", "type": "verb", "difficulty": 1, "translation": "sẽ"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "waste", "type": "noun", "difficulty": 2, "translation": "sự lãng phí"}
+      ]
+    },
+    {
+      "segment_id": 29,
+      "audio_timestamp_start": 139.963,
+      "audio_timestamp_end": 142.000,
+      "text": "Waist.",
+      "tokens": [
+        {"word": "Waist", "type": "noun", "difficulty": 2, "translation": "Vòng eo"}
+      ]
+    },
+    {
+      "segment_id": 30,
+      "audio_timestamp_start": 142.941,
+      "audio_timestamp_end": 146.963,
+      "text": "The skirt was too big around the waist.",
+      "tokens": [
+        {"word": "The", "type": "article", "difficulty": 1, "translation": "Cái"},
+        {"word": "skirt", "type": "noun", "difficulty": 1, "translation": "váy"},
+        {"word": "was", "type": "verb", "difficulty": 1, "translation": "đã"},
+        {"word": "too", "type": "adverb", "difficulty": 1, "translation": "quá"},
+        {"word": "big", "type": "adjective", "difficulty": 1, "translation": "rộng/lớn"},
+        {"word": "around", "type": "preposition", "difficulty": 1, "translation": "quanh"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "vòng"},
+        {"word": "waist", "type": "noun", "difficulty": 2, "translation": "eo"}
+      ]
+    }
+  ]
+}

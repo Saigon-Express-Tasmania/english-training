@@ -1,0 +1,113 @@
+﻿{
+  "title": "Online vs. In-Store Shopping",
+  "transcript": "Some people are fond of online shopping, possibly because it is extremely convenient. They can select and buy whatever they want at home and receive home deliveries. But I am enthusiastic about going shopping at physical stores because it is always exciting to try new items on and cheerful to learn about the latest fashion trend. It is really a thing you can't be tired of when going shopping with closest friends during free time.",
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_timestamp_start": 0.0,
+      "audio_timestamp_end": 5.8,
+      "text": "Some people are fond of online shopping, possibly because it is extremely convenient.",
+      "tokens": [
+        {"word": "Some", "type": "determiner", "difficulty": 1, "translation": "Một vài"},
+        {"word": "people", "type": "noun", "difficulty": 1, "translation": "người"},
+        {"word": "are", "type": "verb", "difficulty": 1, "translation": "thì/là"},
+        {"word": "fond", "type": "adjective", "difficulty": 2, "translation": "thích thú"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "online", "type": "adjective", "difficulty": 1, "translation": "trực tuyến"},
+        {"word": "shopping", "type": "noun", "difficulty": 1, "translation": "mua sắm"},
+        {"word": "possibly", "type": "adverb", "difficulty": 2, "translation": "có khả năng/có lẽ"},
+        {"word": "because", "type": "conjunction", "difficulty": 1, "translation": "bởi vì"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "extremely", "type": "adverb", "difficulty": 2, "translation": "cực kỳ"},
+        {"word": "convenient", "type": "adjective", "difficulty": 2, "translation": "tiện lợi"}
+      ]
+    },
+    {
+      "segment_id": 2,
+      "audio_timestamp_start": 5.9,
+      "audio_timestamp_end": 11.5,
+      "text": "They can select and buy whatever they want at home and receive home deliveries.",
+      "tokens": [
+        {"word": "They", "type": "pronoun", "difficulty": 1, "translation": "Họ"},
+        {"word": "can", "type": "verb", "difficulty": 1, "translation": "có thể"},
+        {"word": "select", "type": "verb", "difficulty": 2, "translation": "chọn lựa"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "buy", "type": "verb", "difficulty": 1, "translation": "mua"},
+        {"word": "whatever", "type": "pronoun", "difficulty": 2, "translation": "bất cứ thứ gì"},
+        {"word": "they", "type": "pronoun", "difficulty": 1, "translation": "họ"},
+        {"word": "want", "type": "verb", "difficulty": 1, "translation": "muốn"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "tại"},
+        {"word": "home", "type": "noun", "difficulty": 1, "translation": "nhà"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "receive", "type": "verb", "difficulty": 2, "translation": "nhận"},
+        {"word": "home", "type": "noun", "difficulty": 1, "translation": "nhà"},
+        {"word": "deliveries", "type": "noun", "difficulty": 2, "translation": "sự giao hàng"}
+      ]
+    },
+    {
+      "segment_id": 3,
+      "audio_timestamp_start": 11.6,
+      "audio_timestamp_end": 22.8,
+      "text": "But I am enthusiastic about going shopping at physical stores because it is always exciting to try new items on and cheerful to learn about the latest fashion trend.",
+      "tokens": [
+        {"word": "But", "type": "conjunction", "difficulty": 1, "translation": "Nhưng"},
+        {"word": "I", "type": "pronoun", "difficulty": 1, "translation": "tôi"},
+        {"word": "am", "type": "verb", "difficulty": 1, "translation": "thì/là"},
+        {"word": "enthusiastic", "type": "adjective", "difficulty": 3, "translation": "nhiệt tình/hào hứng"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "going", "type": "verb", "difficulty": 1, "translation": "đi"},
+        {"word": "shopping", "type": "noun", "difficulty": 1, "translation": "mua sắm"},
+        {"word": "at", "type": "preposition", "difficulty": 1, "translation": "tại"},
+        {"word": "physical", "type": "adjective", "difficulty": 2, "translation": "vật lý/thực tế"},
+        {"word": "stores", "type": "noun", "difficulty": 1, "translation": "cửa hàng"},
+        {"word": "because", "type": "conjunction", "difficulty": 1, "translation": "bởi vì"},
+        {"word": "it", "type": "pronoun", "difficulty": 1, "translation": "nó"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "always", "type": "adverb", "difficulty": 1, "translation": "luôn luôn"},
+        {"word": "exciting", "type": "adjective", "difficulty": 2, "translation": "thú vị"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "try", "type": "verb", "difficulty": 1, "translation": "thử"},
+        {"word": "new", "type": "adjective", "difficulty": 1, "translation": "mới"},
+        {"word": "items", "type": "noun", "difficulty": 2, "translation": "món đồ"},
+        {"word": "on", "type": "preposition", "difficulty": 1, "translation": "lên/vào"},
+        {"word": "and", "type": "conjunction", "difficulty": 1, "translation": "và"},
+        {"word": "cheerful", "type": "adjective", "difficulty": 3, "translation": "vui vẻ/phấn khởi"},
+        {"word": "to", "type": "preposition", "difficulty": 1, "translation": "để"},
+        {"word": "learn", "type": "verb", "difficulty": 1, "translation": "tìm hiểu/học"},
+        {"word": "about", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "the", "type": "article", "difficulty": 1, "translation": "cái/các (mạo từ)"},
+        {"word": "latest", "type": "adjective", "difficulty": 2, "translation": "mới nhất"},
+        {"word": "fashion", "type": "noun", "difficulty": 1, "translation": "thời trang"},
+        {"word": "trend", "type": "noun", "difficulty": 2, "translation": "xu hướng"}
+      ]
+    },
+    {
+      "segment_id": 4,
+      "audio_timestamp_start": 22.8,
+      "audio_timestamp_end": 28.5,
+      "text": "It is really a thing you can't be tired of when going shopping with closest friends during free time.",
+      "tokens": [
+        {"word": "It", "type": "pronoun", "difficulty": 1, "translation": "Nó"},
+        {"word": "is", "type": "verb", "difficulty": 1, "translation": "là"},
+        {"word": "really", "type": "adverb", "difficulty": 1, "translation": "thực sự"},
+        {"word": "a", "type": "article", "difficulty": 1, "translation": "một"},
+        {"word": "thing", "type": "noun", "difficulty": 1, "translation": "điều/thứ"},
+        {"word": "you", "type": "pronoun", "difficulty": 1, "translation": "bạn"},
+        {"word": "can't", "type": "verb", "difficulty": 1, "translation": "không thể"},
+        {"word": "be", "type": "verb", "difficulty": 1, "translation": "bị/trở nên"},
+        {"word": "tired", "type": "adjective", "difficulty": 1, "translation": "mệt mỏi/chán"},
+        {"word": "of", "type": "preposition", "difficulty": 1, "translation": "về"},
+        {"word": "when", "type": "conjunction", "difficulty": 1, "translation": "khi"},
+        {"word": "going", "type": "verb", "difficulty": 1, "translation": "đi"},
+        {"word": "shopping", "type": "noun", "difficulty": 1, "translation": "mua sắm"},
+        {"word": "with", "type": "preposition", "difficulty": 1, "translation": "với"},
+        {"word": "closest", "type": "adjective", "difficulty": 2, "translation": "thân thiết nhất"},
+        {"word": "friends", "type": "noun", "difficulty": 1, "translation": "bạn bè"},
+        {"word": "during", "type": "preposition", "difficulty": 1, "translation": "trong suốt"},
+        {"word": "free", "type": "adjective", "difficulty": 1, "translation": "rảnh rỗi"},
+        {"word": "time", "type": "noun", "difficulty": 1, "translation": "thời gian"}
+      ]
+    }
+  ]
+}
